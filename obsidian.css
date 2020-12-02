@@ -786,21 +786,28 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 .markdown-preview-view h1 {
   font-size: var(--font-size-h1); 
   font-weight:600;
-  line-height: 28px;
-  padding-bottom:1px;
-  border-bottom: 2px solid var(--h1ys);
+  line-height: 1em;
+  padding-bottom:5px;
+  border-bottom: 3px solid var(--h1ys);
   font-family: var(--font-family-h1);
 }
 
 .markdown-preview-view h2 {
   font-size: var(--font-size-h2); 
   font-weight:600;
-  line-height: 28px;
-  padding-bottom: 1px;
-  border-bottom: 1px solid var(--h2ys);
+  line-height: 1em;
+  padding-bottom: 5px;
+  border-bottom: 2px solid var(--h2ys);
   font-family: var(--font-family-h2);
 }
-
+.markdown-preview-view h3 {
+  font-size: var(--font-size-h3); 
+  font-weight:600;
+  line-height: 1em;
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--h3ys);
+  font-family: var(--font-family-h3);
+}
 .markdown-preview-view h3 {font-size: var(--font-size-h3); font-weight:600; font-family: var(--font-family-h3);}
 .markdown-preview-view h4 {font-size: var(--font-size-h4); font-weight:600; font-family: var(--font-family-h4);}
 .markdown-preview-view h5 {font-size: var(--font-size-h5); font-weight:600; font-family: var(--font-family-h5);}
@@ -3038,7 +3045,7 @@ ruby {
   align-items: center;
   font-family: "SBL Greek", serif;
   margin-bottom: 2px;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 rt {
@@ -3050,7 +3057,7 @@ rt {
 /* list */
 li{
   font-family: var(--font-family-list);
-  line-height: 1;
+  line-height: 1em;
 }
 /*====================================*/
 /*Add vertical lines of embedded lists*/
