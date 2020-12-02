@@ -24,7 +24,7 @@
   --font-size-latex:                         20px;
 
   /*font family*/
-  --font-family-list:                  ;/*列表字体*/
+  --font-family-list:  "Times News Romans","新細明體"               ;/*列表字体*/
   --font-family-major: "Noto Sans", "Noto Sans CJK TC" ;/*主体（包括列表）字体，除代码框等少数部分*/
   --font-family-h1:                    ;
   --font-family-h2:                    ;
@@ -869,7 +869,7 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 
 /*list*/
 li{
-  line-height: 28px;
+  line-height: 16px;
   font-family: var(--font-family-list);
 }
 
@@ -3076,7 +3076,7 @@ ruby {
   align-items: center;
   line-height: 1;
   font-family: "Times New Roman", serif;
-  margin-bottom: 5px;
+  margin-bottom: 1px;
 }
 
 rt {
