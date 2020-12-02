@@ -2,18 +2,18 @@
 /*Blue Topaz for Obsidian v0.9.19, [20201128] modified by flying fly flies. Feel free to use, share and modify. Thanks for all shared css themes which inspire me a lot. If you like the theme, please star me on GitHub https://github.com/whyt-byte */
 
 :root{
-  --font-size-obsidian-titlebar:             12px;
+  --font-size-obsidian-titlebar:             15px;
   --font-size-vault-name:                    14px;/*左侧库名字体大小*/
   --font-size-file-header-title:             14px;/*文件抬头标题，只在非Andy mode plugin时生效*/
   --font-size-file-header-title-andy-plugin: 16px;/*文件抬头标题for Andy mode plugin*/
-  --font-size-embed-title-size:              16px;
-  --font-size-folder-and-file:               14px;/*左侧边栏文件字体大小*/
-  --font-size-edit-normal:                   14px;/*编辑正文字体大小*/
-  --font-size-preview-normal:                14px;/*预览正文字体大小*/
-  --font-size-h1:                            30px;
-  --font-size-h2:                            24px;
-  --font-size-h3:                            18px;
-  --font-size-h4:                            14px;
+  --font-size-embed-title-size:              18px;
+  --font-size-folder-and-file:               13px;/*左侧边栏文件字体大小*/
+  --font-size-edit-normal:                   16px;/*编辑正文字体大小*/
+  --font-size-preview-normal:                16px;/*预览正文字体大小*/
+  --font-size-h1:                            32px;
+  --font-size-h2:                            28px;
+  --font-size-h3:                            22px;
+  --font-size-h4:                            20px;
   --font-size-h5:                            17px;
   --font-size-h6:                            15px;
   --font-size-tag:                           16px;
@@ -25,11 +25,11 @@
 
   /*font family*/
   --font-family-list:                  ;/*列表字体*/
-  --font-family-major:                 ;/*主体（包括列表）字体，除代码框等少数部分*/
-  --font-family-h1:"Noto Sans Black", "Noto Sans CJK TC Black";
-  --font-family-h2:"Noto Sans Black", "Noto Sans CJK TC Black";
-  --font-family-h3:"Noto Sans Black", "Noto Sans CJK TC Black";
-  --font-family-h4:"Noto Sans Black", "Noto Sans CJK TC Black";
+  --font-family-major: "Noto Sans", "Noto Sans CJK TC" ;/*主体（包括列表）字体，除代码框等少数部分*/
+  --font-family-h1:                    ;
+  --font-family-h2:                    ;
+  --font-family-h3:                    ;
+  --font-family-h4:                    ;
   --font-family-h5:                    ;
   --font-family-h6:                    ;
   --font-family-title:                 ;/*文件抬头标题*/
@@ -3076,12 +3076,10 @@ ruby {
   align-items: center;
   line-height: 1;
   font-family: "Times New Roman", serif;
-  font-size: 1.0em;
   margin-bottom: 5px;
-  ruby-position: after;
 }
 
 rt {
   font-family: "Arial",sans-serif;
-  font-size: 0.6em;
+  font-size: 0.7em;
 }

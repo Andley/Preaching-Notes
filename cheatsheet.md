@@ -1,4 +1,4 @@
-# 標題 1 level1
+# 標題 1
 ## level 2
 ### level 3
 
@@ -62,7 +62,17 @@ __*斜粗體*__
 1. 大點自動編號 (同一段落內)
    1. 小點
       1. 小小點
-      2. 小小點
+		  1. ssd
+			  1. sddd
+				  1. sdcsc
+					  1. sdcsc
+						  1. sdcsc
+							  1. sdcsdc
+								  1. csdcs
+									  1. csdcdscsc
+										  1. scsdcds
+											  1. sdcsdc
+      1. 小小點
    2. 小點
 1. 大點自動編號 (同一段落內)
 
