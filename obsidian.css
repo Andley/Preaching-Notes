@@ -2,18 +2,18 @@
 /*Blue Topaz for Obsidian v0.9.19, [20201128] modified by flying fly flies. Feel free to use, share and modify. Thanks for all shared css themes which inspire me a lot. If you like the theme, please star me on GitHub https://github.com/whyt-byte */
 
 :root{
-  --font-size-obsidian-titlebar:             15px;
-  --font-size-vault-name:                    14px;/*左侧库名字体大小*/
+  --font-size-obsidian-titlebar:             12px;
+  --font-size-vault-name:                    12px;/*左侧库名字体大小*/
   --font-size-file-header-title:             14px;/*文件抬头标题，只在非Andy mode plugin时生效*/
   --font-size-file-header-title-andy-plugin: 16px;/*文件抬头标题for Andy mode plugin*/
   --font-size-embed-title-size:              18px;
   --font-size-folder-and-file:               13px;/*左侧边栏文件字体大小*/
-  --font-size-edit-normal:                   16px;/*编辑正文字体大小*/
-  --font-size-preview-normal:                16px;/*预览正文字体大小*/
+  --font-size-edit-normal:                   12px;/*编辑正文字体大小*/
+  --font-size-preview-normal:                12px;/*预览正文字体大小*/
   --font-size-h1:                            32px;
-  --font-size-h2:                            28px;
-  --font-size-h3:                            22px;
-  --font-size-h4:                            20px;
+  --font-size-h2:                            26px;
+  --font-size-h3:                            20px;
+  --font-size-h4:                            16px;
   --font-size-h5:                            17px;
   --font-size-h6:                            15px;
   --font-size-tag:                           16px;
@@ -26,10 +26,10 @@
   /*font family*/
   --font-family-list:                  ;/*列表字体*/
   --font-family-major:                 ;/*主体（包括列表）字体，除代码框等少数部分*/
-  --font-family-h1:                    ;
-  --font-family-h2:                    ;
-  --font-family-h3:                    ;
-  --font-family-h4:                    ;
+  --font-family-h1:"Noto Sans Black", "Noto Sans CJK TC Black";
+  --font-family-h2:"Noto Sans Black", "Noto Sans CJK TC Black";
+  --font-family-h3:"Noto Sans Black", "Noto Sans CJK TC Black";
+  --font-family-h4:"Noto Sans Black", "Noto Sans CJK TC Black";
   --font-family-h5:                    ;
   --font-family-h6:                    ;
   --font-family-title:                 ;/*文件抬头标题*/
@@ -785,7 +785,7 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 }
 .markdown-preview-view h1 {
   font-size: var(--font-size-h1); 
-  font-weight:800;
+  font-weight:600;
   line-height: 28px;
   padding-bottom:1px;
   border-bottom: 2px solid var(--h1ys);
@@ -794,17 +794,17 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 
 .markdown-preview-view h2 {
   font-size: var(--font-size-h2); 
-  font-weight:800;
+  font-weight:600;
   line-height: 28px;
   padding-bottom: 1px;
   border-bottom: 1px solid var(--h2ys);
   font-family: var(--font-family-h2);
 }
 
-.markdown-preview-view h3 {font-size: var(--font-size-h3); font-weight:800; font-family: var(--font-family-h3);}
-.markdown-preview-view h4 {font-size: var(--font-size-h4); font-weight:800; font-family: var(--font-family-h4);}
-.markdown-preview-view h5 {font-size: var(--font-size-h5); font-weight:800; font-family: var(--font-family-h5);}
-.markdown-preview-view h6 {font-size: var(--font-size-h6); font-weight:800; font-family: var(--font-family-h6);}
+.markdown-preview-view h3 {font-size: var(--font-size-h3); font-weight:600; font-family: var(--font-family-h3);}
+.markdown-preview-view h4 {font-size: var(--font-size-h4); font-weight:600; font-family: var(--font-family-h4);}
+.markdown-preview-view h5 {font-size: var(--font-size-h5); font-weight:600; font-family: var(--font-family-h5);}
+.markdown-preview-view h6 {font-size: var(--font-size-h6); font-weight:600; font-family: var(--font-family-h6);}
 
 .markdown-preview-view h1 {color: var(--h1ys);}
 .markdown-preview-view h2 {color: var(--h2ys);}
@@ -813,14 +813,14 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 .markdown-preview-view h5 {color: var(--h5ys);}
 .markdown-preview-view h6 {color: var(--h6ys);}
 	
-.cm-header-1 {font-size: var(--font-size-h1); font-weight:800; position: relative; font-family: var(--font-family-h1);}
-.cm-header-2 {font-size: var(--font-size-h2); font-weight:800; position: relative; font-family: var(--font-family-h2);}
-.cm-header-3 {font-size: var(--font-size-h3); font-weight:800; position: relative; font-family: var(--font-family-h3);}
-.cm-header-4 {font-size: var(--font-size-h4); font-weight:800; position: relative; font-family: var(--font-family-h4);}
-.cm-header-5 {font-size: var(--font-size-h5); font-weight:800; position: relative; font-family: var(--font-family-h5);}
-.cm-header-6 {font-size: var(--font-size-h6); font-weight:800; position: relative; font-family: var(--font-family-h6);}
+.cm-header-1 {font-size: var(--font-size-h1); font-weight:600; position: relative; font-family: var(--font-family-h1);}
+.cm-header-2 {font-size: var(--font-size-h2); font-weight:600; position: relative; font-family: var(--font-family-h2);}
+.cm-header-3 {font-size: var(--font-size-h3); font-weight:600; position: relative; font-family: var(--font-family-h3);}
+.cm-header-4 {font-size: var(--font-size-h4); font-weight:600; position: relative; font-family: var(--font-family-h4);}
+.cm-header-5 {font-size: var(--font-size-h5); font-weight:600; position: relative; font-family: var(--font-family-h5);}
+.cm-header-6 {font-size: var(--font-size-h6); font-weight:600; position: relative; font-family: var(--font-family-h6);}
 
-.cm-s-obsidian .cm-header, .cm-s-obsidian .cm-strong {font-weight:800;}
+.cm-s-obsidian .cm-header, .cm-s-obsidian .cm-strong {font-weight:600;}
 
 .cm-header-1 {color: var(--h1ys);}
 .cm-header-2 {color: var(--h2ys);}
