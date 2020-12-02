@@ -24,7 +24,7 @@
   --font-size-latex:                         20px;
 
   /*font family*/
-  --font-family-list:  "Times News Romans","新細明體"               ;/*列表字体*/
+  --font-family-list:   ;/*列表字体*/
   --font-family-major: "Noto Sans", "Noto Sans CJK TC" ;/*主体（包括列表）字体，除代码框等少数部分*/
   --font-family-h1:                    ;
   --font-family-h2:                    ;
@@ -3029,26 +3029,29 @@ pre.frontmatter.language-yaml:before{
   background-color: var(--event-item-color10)!important;
 }
 
-/*list*/
-li{
-  font-family: var(--font-family-list);
-}
 
+/*====================================*/
+/* ruby */
 ruby {
   display: inline-flex;
   flex-direction: column-reverse ;
   align-items: center;
-  line-height: 1;
-  font-family: "Times New Roman", serif;
+  font-family: "SBL Greek", serif;
   margin-bottom: 2px;
+  font-size: 1.1em;
 }
 
 rt {
   font-family: "Arial",sans-serif;
-  font-size: 0.7em;
+  font-size: 0.6em;
 }
 
-
+/*====================================*/
+/* list */
+li{
+  font-family: var(--font-family-list);
+  line-height: 1;
+}
 /*====================================*/
 /*Add vertical lines of embedded lists*/
 /*thanks to loikein and death_au from forum and icr1001 from GitHub*/
@@ -3074,7 +3077,7 @@ ul ul::before,
 ol ul::before,
 ul ol::before,
 ol ol::before {
-  left: -10px;
+  left: -13px;
   top: 0;
   bottom: 0;
 } 
