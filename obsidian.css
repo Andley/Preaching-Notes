@@ -29,8 +29,8 @@
   --background-primary-alt: #44475a;
   --background-secondary: #44475a;
   --background-secondary-alt: #282a36;
-  --background-accent: #f8f8f2;
-  --background-modifier-border: #f8f8f2;
+  --background-accent: #ffb86c;
+  --background-modifier-border: #ffb86c;
   --background-modifier-form-field: rgba(0, 0, 0, 0.2);
   --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
@@ -748,7 +748,7 @@ ruby {
   
 rt {
 	font-family: var(--font-family-annotation);
-	font-size: 0.6em;
+	font-size: 0.75em;
   }
 /*====================================*/
 /* list */
