@@ -1,3 +1,27 @@
+ul:root
+{
+    --font-size-normal:              12px;
+    --font-size-code:                10px;
+    --font-size-side-dock:           10px;
+    --font-size-side-dock-title:     12px;
+    --font-size-status-bar:          10px;
+    --font-size-h1:                  24px;
+    --font-size-h2:                  20px;
+    --font-size-h3:                  16px;
+    --font-size-h4:                  12px;
+    --font-size-h5:                  10px;
+    --font-size-h6:                  10px;
+    --font-family-editor: ;
+    --font-family-preview: ;
+    --font-family-header: ";
+    --font-family-greek:  "SBL Greek", serif;
+    --font-family-hebrew: "Ezra SIL";
+    --font-family-annotation: "Arial Narrow", "Arial" ;
+} 
+
+
+
+
 /*====================================*/
 /* ruby */
 ruby {
