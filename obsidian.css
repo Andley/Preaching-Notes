@@ -37,6 +37,8 @@
   --font-family-preview-code:          ;
   --font-family-tag:                   ;
   --font-family-vault:                 ;/*左侧库名字体*/
+  --font-family-interlinear: "SBL BibLit";
+  --font-family-annotation: "Arial Narrow";
 } 
 
 .theme-dark {
@@ -790,19 +792,22 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 .markdown-preview-view h1 {
   font-size: var(--font-size-h1); 
   font-weight:600;
-  line-height: 28px;
-  padding-bottom:1px;
-  border-bottom: 2px solid var(--h1ys);
+  border-bottom: 2px solid var(--tag1);
   font-family: var(--font-family-h1);
 }
 
 .markdown-preview-view h2 {
   font-size: var(--font-size-h2); 
   font-weight:600;
-  line-height: 28px;
-  padding-bottom: 1px;
-  border-bottom: 1px solid var(--h2ys);
+  border-bottom: 1px solid var(--tag2);
   font-family: var(--font-family-h2);
+}
+
+.markdown-preview-view h3 {
+  font-size: var(--font-size-h3); 
+  font-weight:600;
+  border-bottom: 1px solid var(--tag3);
+  font-family: var(--font-family-h3);
 }
 
 .markdown-preview-view h3 {font-size: var(--font-size-h3); font-weight:600; font-family: var(--font-family-h3);}
@@ -810,9 +815,9 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 .markdown-preview-view h5 {font-size: var(--font-size-h5); font-weight:600; font-family: var(--font-family-h5);}
 .markdown-preview-view h6 {font-size: var(--font-size-h6); font-weight:600; font-family: var(--font-family-h6);}
 
-.markdown-preview-view h1 {color: var(--h1ys);}
-.markdown-preview-view h2 {color: var(--h2ys);}
-.markdown-preview-view h3 {color: var(--h3ys);}
+.markdown-preview-view h1 {color: var(--tag1);}
+.markdown-preview-view h2 {color: var(--tag2);}
+.markdown-preview-view h3 {color: var(--tag3);}
 .markdown-preview-view h4 {color: var(--h4ys);}
 .markdown-preview-view h5 {color: var(--h5ys);}
 .markdown-preview-view h6 {color: var(--h6ys);}
@@ -826,9 +831,9 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
 
 .cm-s-obsidian .cm-header, .cm-s-obsidian .cm-strong {font-weight:600;}
 
-.cm-header-1 {color: var(--h1ys);}
-.cm-header-2 {color: var(--h2ys);}
-.cm-header-3 {color: var(--h3ys);}
+.cm-header-1 {color: var(--tag1);}
+.cm-header-2 {color: var(--tag2);}
+.cm-header-3 {color: var(--tag3);}
 .cm-header-4 {color: var(--h4ys);}
 .cm-header-5 {color: var(--h5ys);}
 .cm-header-6 {color: var(--h6ys);}
@@ -3088,14 +3093,14 @@ ruby {
 	display: inline-flex;
 	flex-direction: column-reverse ;
 	align-items: center;
-	font-family: "SBL Greek";
+	font-family: var(--font-family-interlinear);
 	margin-bottom: 2px;
 	line-height: 1em;
   
   }
   
   rt {
-	font-family: "Arial Narrow";
+	font-family: var(--font-family-annotation);
 	font-size: 0.6em;
   }
   
