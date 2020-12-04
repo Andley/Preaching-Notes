@@ -3,33 +3,33 @@
 
 :root{
   --font-size-obsidian-titlebar:             12px;
-  --font-size-vault-name:                    14px;/*左侧库名字体大小*/
-  --font-size-file-header-title:             14px;/*文件抬头标题，只在非Andy mode plugin时生效*/
-  --font-size-file-header-title-andy-plugin: 16px;/*文件抬头标题for Andy mode plugin*/
-  --font-size-embed-title-size:              18px;
-  --font-size-folder-and-file:               13px;/*左侧边栏文件字体大小*/
-  --font-size-edit-normal:                   16px;/*编辑正文字体大小*/
-  --font-size-preview-normal:                16px;/*预览正文字体大小*/
-  --font-size-h1:                            25px;
-  --font-size-h2:                            23px;
-  --font-size-h3:                            21px;
-  --font-size-h4:                            19px;
-  --font-size-h5:                            17px;
-  --font-size-h6:                            15px;
-  --font-size-tag:                           16px;
-  --font-size-preview-blockquote:            16px;
-  --font-size-edit-blockquote:               16px;
-  --font-size-code:                          14px;
-  --font-size-edit-code:                     14px;
-  --font-size-latex:                         20px;
+  --font-size-vault-name:                    12px;/*左侧库名字体大小*/
+  --font-size-file-header-title:             12px;/*文件抬头标题，只在非Andy mode plugin时生效*/
+  --font-size-file-header-title-andy-plugin: 12px;/*文件抬头标题for Andy mode plugin*/
+  --font-size-embed-title-size:              12px;
+  --font-size-folder-and-file:               12px;/*左侧边栏文件字体大小*/
+  --font-size-edit-normal:                   12px;/*编辑正文字体大小*/
+  --font-size-preview-normal:                12px;/*预览正文字体大小*/
+  --font-size-h1:                            24px;
+  --font-size-h2:                            20px;
+  --font-size-h3:                            16px;
+  --font-size-h4:                            12px;
+  --font-size-h5:                            12px;
+  --font-size-h6:                            12px;
+  --font-size-tag:                           12px;
+  --font-size-preview-blockquote:            12px;
+  --font-size-edit-blockquote:               12px;
+  --font-size-code:                          12px;
+  --font-size-edit-code:                     12px;
+  --font-size-latex:                         12px;
 
   /*font family*/
   --font-family-list:                  ;/*列表字体*/
   --font-family-major:                 ;/*主体（包括列表）字体，除代码框等少数部分*/
-  --font-family-h1:                    ;
-  --font-family-h2:                    ;
-  --font-family-h3:                    ;
-  --font-family-h4:                    ;
+  --font-family-h1: "Noto Sans CJK TC Black";
+  --font-family-h2: "Noto Sans CJK TC Black";
+  --font-family-h3: "Noto Sans CJK TC Black";
+  --font-family-h4: "Noto Sans CJK TC Black";
   --font-family-h5:                    ;
   --font-family-h6:                    ;
   --font-family-title:                 ;/*文件抬头标题*/
@@ -3082,3 +3082,61 @@ pre.frontmatter.language-yaml:before{
 .event_item_color10 {
   background-color: var(--event-item-color10)!important;
 }
+
+/*====================================*/
+/* ruby */
+ruby {
+	display: inline-flex;
+	flex-direction: column-reverse ;
+	align-items: center;
+	font-family: "SBL Greek";
+	margin-bottom: 2px;
+	line-height: 1em;
+  
+  }
+  
+  rt {
+	font-family: "Arial Narrow";
+	font-size: 0.6em;
+  }
+    /*====================================*/
+  /* list */
+  li{
+    font-size: 12px;
+    }
+    /*====================================*/
+    /*Add vertical lines of embedded lists*/
+    /*thanks to loikein and death_au from forum and icr1001 from GitHub*/
+    .cm-hmd-list-indent .cm-tab,
+    ul ul,
+    ol ul,
+    ul ol,
+    ol ol {
+    position: relative;
+    }
+    
+    .cm-hmd-list-indent .cm-tab::before,
+    ul ul::before,
+    ol ul::before,
+    ul ol::before,
+    ol ol::before {
+    content:'';
+    border-left: 1px dotted var(--background-modifier-border);
+    position: absolute;
+    }
+    
+    ul ul::before,
+    ol ul::before,
+    ul ol::before,
+    ol ol::before {
+    left: -12px;
+    top: 0;
+    bottom: 0;
+    } 
+    
+    .cm-hmd-list-indent .cm-tab::before {
+    left: 3px;
+    top: -5px;
+    bottom: -4px;
+    }
+    /*====================================*/
