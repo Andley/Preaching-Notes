@@ -2,26 +2,26 @@
 /*Blue Topaz for Obsidian v0.9.19, [20201128] modified by flying fly flies. Feel free to use, share and modify. Thanks for all shared css themes which inspire me a lot. If you like the theme, please star me on GitHub https://github.com/whyt-byte */
 
 :root{
-  --font-size-obsidian-titlebar:             15px;
-  --font-size-vault-name:                    14px;/*左侧库名字体大小*/
-  --font-size-file-header-title:             14px;/*文件抬头标题，只在非Andy mode plugin时生效*/
-  --font-size-file-header-title-andy-plugin: 16px;/*文件抬头标题for Andy mode plugin*/
-  --font-size-embed-title-size:              18px;
-  --font-size-folder-and-file:               13px;/*左侧边栏文件字体大小*/
-  --font-size-edit-normal:                   16px;/*编辑正文字体大小*/
-  --font-size-preview-normal:                16px;/*预览正文字体大小*/
-  --font-size-h1:                            32px;
-  --font-size-h2:                            28px;
-  --font-size-h3:                            22px;
-  --font-size-h4:                            20px;
-  --font-size-h5:                            17px;
-  --font-size-h6:                            15px;
-  --font-size-tag:                           16px;
-  --font-size-preview-blockquote:            16px;
-  --font-size-edit-blockquote:               16px;
-  --font-size-code:                          14px;
-  --font-size-edit-code:                     14px;
-  --font-size-latex:                         20px;
+  --font-size-obsidian-titlebar:             12px;
+  --font-size-vault-name:                    12px;/*左侧库名字体大小*/
+  --font-size-file-header-title:             12px;/*文件抬头标题，只在非Andy mode plugin时生效*/
+  --font-size-file-header-title-andy-plugin: 12px;/*文件抬头标题for Andy mode plugin*/
+  --font-size-embed-title-size:              12px;
+  --font-size-folder-and-file:               12px;/*左侧边栏文件字体大小*/
+  --font-size-edit-normal:                   12px;/*编辑正文字体大小*/
+  --font-size-preview-normal:                12px;/*预览正文字体大小*/
+  --font-size-h1:                            24px;
+  --font-size-h2:                            20px;
+  --font-size-h3:                            16px;
+  --font-size-h4:                            14px;
+  --font-size-h5:                            12px;
+  --font-size-h6:                            12px;
+  --font-size-tag:                           12px;
+  --font-size-preview-blockquote:            12px;
+  --font-size-edit-blockquote:               12px;
+  --font-size-code:                          12px;
+  --font-size-edit-code:                     12px;
+  --font-size-latex:                         14px;
 
   /*font family*/
   --font-family-list:   ;/*列表字体*/
@@ -413,7 +413,7 @@
 	text-decoration: none;
 	margin: 0px 0px;
 	cursor: pointer;
-	border-radius: 15px;
+	border-radius: 12px;
 }
 .tag:not(.token):hover {
 	color: white;
@@ -424,7 +424,7 @@
 .pane-list-item-ending-flair{
   position: absolute;
   top: 6px;
-  right: 10px;
+  right: 12px;
   font-size: 12px;
   background-color: var(--background-secondary-alt);
   line-height: 12px;
@@ -435,7 +435,7 @@
 
 
 .markdown-preview-view {
-  padding: 4px 20px 10px 28px;
+  padding: 4px 20px 12px 28px;
   width: 100%;
   height: 100%;
   position: relative;
@@ -624,7 +624,7 @@ input.search-input{
 /*
 .titlebar-text:after {
   content: " ";
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
   right:-1px;
   color: var(--text-accent2);
@@ -704,7 +704,7 @@ span.search-result-file-matched-text{
 
 .search-input {
   display: block;
-  margin: 0 auto 10px auto;
+  margin: 0 auto 12px auto;
   width: calc(100% - 20px);
 }
 
@@ -724,8 +724,8 @@ span.search-result-file-matched-text{
   box-sizing: border-box;
   border: 1px solid var(--text-normal);
   position: relative;
-  width: 15px;
-  height: 15px;
+  width: 12px;
+  height: 12px;
   margin-right: 5px;
   margin-bottom: 1px;
   filter: hue-rotate(var(--ztys));
@@ -840,17 +840,17 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
   flex-grow: 1;
   overflow-y: auto;
   padding-left: 0px;  /* reduce to 0 for more space */
-  padding-bottom: 10px;
-  margin-bottom: 10px;
+  padding-bottom: 12px;
+  margin-bottom: 12px;
 }
 
 .markdown-preview-view blockquote {
   padding-top: 8px;
   padding-bottom: 8px;
-  padding-left: 10px;
+  padding-left: 12px;
   padding-right: 8px;
   margin-bottom: 0px;
-  margin-top: 16px;
+  margin-top: 12px;
   border-right-width:0; 
   border-top-width: 0px;
   border-bottom-width: 0px;
@@ -926,7 +926,7 @@ code:not([class*='language-']){
 .markdown-preview-section:not(:first-child) h3,
 .markdown-preview-section:not(:first-child) h4,
 .markdown-preview-section:not(:first-child) h5 {
-  margin-top: 13px !important;
+  margin-top: 12px !important;
 }
 
 .markdown-preview-section:not(:first-child) h6 {
@@ -1027,7 +1027,7 @@ tbody>tr {
   border: 1px solid var(--text-accent);
   box-shadow: 1px 1px 1px 1px var(--text-accent);
   border-radius: 0px;
-  padding: 15px 20px 10px 20px;
+  padding: 12px 20px 12px 20px;
   position: relative;
   font-weight: 400;
   text-align: justify; 
@@ -1156,7 +1156,7 @@ cursor: pointer !important;
   display: inline;
   max-height: 100%;
   max-width: 100%;
-  /*margin: 0px 0px -15px -10px;
+  /*margin: 0px 0px -12px -12px;
   padding: 20px 0px 0px 0px;*/
   overflow: hidden; 
 }
@@ -1343,7 +1343,7 @@ pre:before{
   font-family: var(--default-font);
   color: #6b7f94;
   opacity: 0.7;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 600;
   position:absolute;
   right: 30px;
@@ -1451,7 +1451,7 @@ pre[class~='language-txt']:before{
 
 /* Header folder icon *//*
 .CodeMirror-foldgutter-open, .CodeMirror-foldgutter-folded {
-  padding-left: -10px;
+  padding-left: -12px;
 }
 
 .CodeMirror-sizer{
@@ -1478,15 +1478,15 @@ pre[class~='language-txt']:before{
 /*-- display H1-h6 in gutter--
 .cm-formatting.cm-formatting-header.cm-formatting-header-1.cm-header.cm-header-1:before{
   content:"H1";
-  font-size:14px;
+  font-size:12px;
   color: var(--h1ys);
   left:-27px;
-  top:-13px;
+  top:-12px;
   position:absolute;
 }
 .cm-formatting.cm-formatting-header.cm-formatting-header-2.cm-header.cm-header-2:before{
   content:"H2";
-  font-size:13px;
+  font-size:12px;
   color: var(--h2ys);
   left:-27px;
   top:-11px;
@@ -1497,7 +1497,7 @@ pre[class~='language-txt']:before{
   font-size:12px;
   color: var(--h3ys);
   left:-26px;
-  top: -10px;
+  top: -12px;
   position:absolute;
 }
 .cm-formatting.cm-formatting-header.cm-formatting-header-4.cm-header.cm-header-4:before{
@@ -1510,7 +1510,7 @@ pre[class~='language-txt']:before{
 }
 .cm-formatting.cm-formatting-header.cm-formatting-header-5.cm-header.cm-header-5:before{
   content:"H5";
-  font-size:10px;
+  font-size:12px;
   color: var(--h5ys);
   left:-24px;
   top: -7px;
@@ -1565,14 +1565,14 @@ pre[class~='language-txt']:before{
 .theme-light h1::before
 {
   content: 'H1 ';
-  font-size: 14px;
+  font-size: 12px;
   padding: 0 1px 0 0;
 }
 
 .theme-light h2::before
 {
   content: 'H2 ';
-  font-size: 13px;
+  font-size: 12px;
   padding: 0 2px 0 0;
 }
 
@@ -1593,7 +1593,7 @@ pre[class~='language-txt']:before{
 .theme-light h5::before
 {
   content: 'H5 ';
-  font-size: 10px;
+  font-size: 12px;
   padding: 0 5px 0 0;
 }
 
@@ -1739,7 +1739,7 @@ span.cm-formatting-task { display: inline !important; font-family: monospace; }
 .nav-folder-title {
   font-size: var(--font-size-folder-and-file);
   font-family: var(--font-family-folder-file-title);
-  line-height: 14px;
+  line-height: 12px;
   cursor: pointer;
   position: relative;
   border-width: 1px;
@@ -1747,7 +1747,7 @@ span.cm-formatting-task { display: inline !important; font-family: monospace; }
   border-color: transparent;
   border-image: initial;
   border-radius: 0px;
-  padding: 1px 5px 0px 16px;
+  padding: 1px 5px 0px 12px;
   color: var(--text-muted);
   display: flex;
   align-items: baseline;
@@ -1766,8 +1766,8 @@ span.cm-formatting-task { display: inline !important; font-family: monospace; }
 
 /*heading collapse indicator*/
 .markdown-preview-view .heading-collapse-indicator {
-  margin-left: -15px;
-  padding: 0 10px;
+  margin-left: -12px;
+  padding: 0 12px;
 }
 
 div.heading-collapse-indicator.collapse-indicator.collapse-icon:hover{
@@ -1795,7 +1795,7 @@ div.collapsible-item-collapse.collapse-icon{
   content : "↓";
   left: 0px;
   top: 0px;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: bold;
   color: var(--text-accent);
   transition: transform 10ms linear 0s;
@@ -1971,11 +1971,11 @@ div:not(.CodeMirror-activeline)>.HyperMD-quote {
 
 /*change collapse icon position in left side*/
 .workspace-ribbon.mod-left .workspace-ribbon-collapse-btn{
-  margin-top: -10px;
+  margin-top: -12px;
 }
 
 .workspace-ribbon.is-collapsed .workspace-ribbon-collapse-btn:not(:hover){
-  margin-left: 15px;
+  margin-left: 12px;
 }
 
 /*===============================================*/
@@ -2053,7 +2053,7 @@ div.mermaidTooltip {
   max-width: 200px !important;
   padding: 2px !important;
   font-family: Segoe UI, "trebuchet ms", verdana, arial !important;
-  font-size: 10px !important;
+  font-size: 12px !important;
   background: var(--background-secondary) !important;
   border: 1px solid var(--text-faint) !important;
   border-radius: 2px !important;
@@ -2207,9 +2207,9 @@ text.actor > tspan {
 
 .sectionTitle {
   text-anchor: start !important;
-  font-size: 15px !important;
+  font-size: 12px !important;
   font-weight: bold;
-  line-height: 14px !important;
+  line-height: 12px !important;
   font-family: Segoe UI, "trebuchet ms", verdana, arial !important;
 }
 
@@ -2223,7 +2223,7 @@ text.actor > tspan {
 
 .grid .tick text {
   font-family: Segoe UI, "trebuchet ms", verdana, arial !important;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .grid path {
@@ -2298,7 +2298,7 @@ text.actor > tspan {
 .taskText2,
 .taskText3 {
   fill: var(--text-normal) !important;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .task0,
@@ -2444,7 +2444,7 @@ g.classGroup line {
 
 .classLabel .label {
   fill: var(--text-accent) !important;
-  font-size: 10px !important;
+  font-size: 12px !important;
 }
 
 .relation {
@@ -2527,14 +2527,14 @@ g.classGroup line {
 g.stateGroup text {
   fill: var(--text-accent) !important;
   stroke: none !important;
-  font-size: 10px !important;
+  font-size: 12px !important;
   font-family: Segoe UI, "trebuchet ms", verdana, arial !important;
 }
 
 g.stateGroup text {
   fill: var(--text-accent) !important;
   stroke: none !important;
-  font-size: 10px !important;
+  font-size: 12px !important;
 }
 
 g.stateGroup .state-title {
@@ -2576,7 +2576,7 @@ g.stateGroup line {
 .state-note text {
   fill: black !important;
   stroke: none !important;
-  font-size: 10px !important;
+  font-size: 12px !important;
 }
 
 .stateLabel .box {
@@ -2588,7 +2588,7 @@ g.stateGroup line {
 
 .stateLabel text {
   fill: black !important;
-  font-size: 10px !important;
+  font-size: 12px !important;
   font-weight: bold !important;
   font-family: Segoe UI, "trebuchet ms", verdana, arial !important;
 }
@@ -2853,7 +2853,7 @@ line-height: 5px;
 
 /*“Today”*/
 #calendar-container .reset-button{
-  font-size: 14px !important;
+  font-size: 12px !important;
   margin: 0px 0px 0px 0px;
   padding: 6px 0px 0px 0px;
   cursor: pointer;
@@ -2974,7 +2974,7 @@ pre.frontmatter.language-yaml:before{
   background-color: var(--day-planner-pie);
   float: left;
   height: 20px;
-  margin: 0.3px 10px 0.3px 0;
+  margin: 0.3px 12px 0.3px 0;
   width: 20px;
   display: none;
 }
@@ -3084,7 +3084,7 @@ ul ul::before,
 ol ul::before,
 ul ol::before,
 ol ol::before {
-  left: -14px;
+  left: -12px;
   top: 0;
   bottom: 0;
 } 
