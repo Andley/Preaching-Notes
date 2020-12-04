@@ -427,20 +427,6 @@
 	background-color: var(--ztys) !important;
 }
 
-/*tag pane*//*
-.pane-list-item-ending-flair{
-  position: absolute;
-  top: 6px;
-  right: 10px;
-  font-size: 12px;
-  background-color: var(--background-secondary-alt);
-  line-height: 12px;
-  border-radius: 3px;
-  padding: 2px 4px;
-}*/
-/*=========================*/
-
-
 .markdown-preview-view {
   padding: 4px 20px 10px 28px;
   width: 100%;
@@ -719,76 +705,7 @@ span.search-result-file-matched-text{
   height: 17px;
 }
 
-/*code box unfold icon*/
-.CodeMirror-foldgutter-open.CodeMirror-guttermarker-subtle::after {
-  color: var(--text-accent);
-}
 
-/*checkbox*/
-.markdown-preview-view .task-list-item-checkbox {
-  -webkit-appearance: none;
-  box-sizing: border-box;
-  border: 1px solid var(--text-normal);
-  position: relative;
-  width: 15px;
-  height: 15px;
-  margin-right: 5px;
-  margin-bottom: 1px;
-  filter: hue-rotate(var(--ztys));
-  transition: background-color 200ms ease-out 0s;
-  cursor: pointer;
-}
-.markdown-preview-view .task-list-item-checkbox:checked {
-  border:none;
-  background-color: var(--interactive-accent);
-}
-.markdown-preview-view .task-list-item-checkbox:hover {
-  background-color: var(--background-primary-alt);
-}
-
-/* the SVG check mark */
-.markdown-preview-view .task-list-item-checkbox:checked::before {
-  content: ' ';
-  position: absolute;
-  background-color: white;
-  left:3px;
-  top:3px;
-  right:2px;
-  bottom:2px;
-  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 14'%3E%3Cpolygon points='5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039'%3E%3C/polygon%3E%3C/svg%3E");
-}
-
-.markdown-preview-view .task-list-item:has(.task-list-item-checkbox:checked) {
-  text-decoration: line-through;
-  color: var(--text-muted);
-}
-
-/*checkbox in edit mode*/
-/*thanks to Piotr and ishgunacar from forum*/
-span.cm-formatting-task { display: inline !important; font-family: "Andale Mono";}
-
-span.cm-formatting-task.cm-property {color: var(--text-accent);} 
-
-div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-meta,
-div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-property {
-  color: transparent;
-  position: relative;
-}
-
-div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-meta:after,
-div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-property:after {
-  content: "☐";
-  position: absolute;
-  top: 2px;
-  left: 0px;
-  color: var(--text-normal);
-  font-size: 23px;
-}
-
-div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-property:after {
-  content: "☑";
-  color: var(--text-accent) !important;
-}
 .markdown-preview-view h1 {
   font-size: var(--font-size-h1); 
   font-weight:600;
@@ -868,60 +785,6 @@ div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-task.cm-prop
   font-size: var(--font-size-preview-blockquote);
 }
 
-.markdown-preview-view.is-readable-line-width .markdown-preview-section,
-.markdown-source-view.is-readable-line-width .CodeMirror,
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-  max-width: 850px !important;
-  line-height: 27px;
-  font-family: var(--font-family-major);
-}
-
-/*list*/
-li{
-  line-height: 28px;
-  font-family: var(--font-family-list);
-}
-
-/*
-blockquote {
-  margin: 20px 0;
-}*/
-
-mjx-container[jax='CHTML'] {
-  text-align: left;
-  outline: none;
-  font-size: var(--font-size-latex);
-}
-
-.theme-dark .cm-s-obsidian pre.HyperMD-codeblock,
-.theme-dark .cm-s-obsidian span.cm-inline-code,
-.theme-dark .cm-s-obsidian span.cm-math:not(.cm-formatting-math-begin):not(.cm-formatting-math-end),
-.theme-dark .markdown-preview-view code {
-  color: #e48900;
-  font-size: var(--font-size-edit-code) !important;
-  font-family: var(--font-family-preview-code);
-}
-
-.theme-light .cm-s-obsidian pre.HyperMD-codeblock,
-.theme-light .cm-s-obsidian span.cm-inline-code,
-.theme-light .cm-s-obsidian span.cm-math:not(.cm-formatting-math-begin):not(.cm-formatting-math-end),
-.theme-light .markdown-preview-view code:not([class*='language-']) {
-  color: #ee5f00;
-  font-size: var(--font-size-edit-code) !important;
-  font-family: var(--font-family-preview-code);
-}
-
-/*bold code text except code language*/
-code:not([class*='language-']){
-  font-weight: 600;
-  font-family: Consolas;
-}
-
-.cm-s-obsidian span.cm-inline-code {
-  font-weight: 600;
-  font-family: Consolas;
-}
-
 /*====================================*/
 /*Add vertical lines of embedded lists*/
 /*thanks to loikein and death_au from forum and icr1001 from GitHub*/
@@ -960,44 +823,6 @@ ol ol::before {
 /*====================================*/
 
 
-.markdown-preview-view code {
-  vertical-align: auto;
-}
-
-.markdown-preview-section:not(:first-child) h1,
-.markdown-preview-section:not(:first-child) h2,
-.markdown-preview-section:not(:first-child) h3,
-.markdown-preview-section:not(:first-child) h4,
-.markdown-preview-section:not(:first-child) h5 {
-  margin-top: 13px !important;
-}
-
-.markdown-preview-section:not(:first-child) h6 {
-	margin-top: 0px !important;
-	margin-bottom: 0px !important;
-}
-
-h1, h2, h3, h4, h5, h6, strong, b, .view-header-title {
-  font-weight: 600;
-}
-
-span.cm-strong, strong{
-  color: var(--accent-strong);
-}
-
-/*vertical lines in outline page*/
-.outline .collapsible-item-children {
-  margin-left: 9px;
-  border-left: 2px solid rgba(148, 148, 148, 0.2);
-  border-radius: 0px;
-  transition:all 300ms ease-in-out;
-}
-.outline .collapsible-item-children:hover {
-  border-left-color: rgba(45, 135, 211, 0.5);
-}
-
-.workspace > .workspace-split > .workspace-leaf:first-of-type:last-of-type .view-header {  border: none;} 
-
 /*smaller header title*/
 .view-header-title {
   font-size: var(--font-size-file-header-title);
@@ -1026,11 +851,6 @@ span.cm-strong, strong{
   border-bottom: none;
 }
 
-/*
-.popover.hover-popover .markdown-embed  {
-  height: 100%;
-}
-*/
 
 /*table from https://snippets.cacher.io/snippet/018387c872dc39277996 by eluotao*/
 tbody>tr:nth-child(odd){
@@ -1064,21 +884,6 @@ tbody>tr {
   background-color: var(--table-hover-thead-color);
 }
 
-/*
-.popover {
-  background-color: var(--background-primary);
-  border: 1px solid var(--text-accent);
-  box-shadow: 1px 1px 1px 1px var(--text-accent);
-  border-radius: 0px;
-  padding: 15px 20px 10px 20px;
-  position: relative;
-  font-weight: 400;
-  text-align: justify; 
-  -webkit-text-stroke: 0.0px;
-  /*-webkit-font-smoothing: none;*
-  color:var(--text-normal);
-  overflow-y: scroll;
-}*/
 
 .popover mark {
   background-color: var(--text-highlight-bg);     
@@ -1379,104 +1184,6 @@ code.language-md.is-loaded{
   white-space: break-spaces !important;
 }
 
-/*show language type in preview mode*/ 
-/*Thanks to elutao from https://snippets.cacher.io/snippet/018387c872dc39277996 */
-/* pre通用相对css */
-pre:before{
-  font-family: var(--default-font);
-  color: #6b7f94;
-  opacity: 0.7;
-  font-size: 15px;
-  font-weight: 600;
-  position:absolute;
-  right: 30px;
-  top: 0.2em;
-}
- 
-/* 显示当前代码块的语言类别 */
-pre{
-  position: relative;
-}
- 
-pre[class~='language-c']:before{
-  content: "C";
-}
- 
-pre[class~='language-python']:before{
-  content: "PYTHON";
-}
- 
-pre[class~='language-nginx']:before{
-  content: "NGINX";
-}
- 
-pre[class~='language-css']:before{
-  content: "CSS";
-}
- 
-pre[class~='language-javascript']:before{
-  content: "JS";
-}
- 
-pre[class~='language-js']:before{
-  content: "JS";
-}
- 
-pre[class~='language-php']:before{
-  content: "PHP";
-}
- 
-pre[class~='language-shell']:before{
-  content: "SHELL";
-}
- 
-pre[class~='language-flow']:before{
-  content: "FLOW";
-}
- 
-pre[class~='language-sequence']:before{
-  content: "SEQUENCE";
-}
- 
-pre[class~='language-sql']:before{
-  content: "SQL";
-}
- 
-pre[class~='language-yaml']:before{
-  content: "YAML";
-}
- 
-pre[class~='language-ini']:before{
-  content: "INI";
-}
- 
-pre[class~='language-xml']:before{
-  content: "XML";
-}
- 
-pre[class~='language-git']:before{
-  content: "GIT";
-}
- 
-pre[class~='language-cs']:before{
-  content: "C#";
-}
- 
-pre[class~='language-cpp']:before{
-  content: "C++";
-}
- 
-pre[class~='language-java']:before{
-  content: "JAVA";
-}
- 
-pre[class~='language-html']:before{
-  content: "HTML";
-}
- 
-pre[class~='language-txt']:before{
-  content: "TXT";
-}
 
 /* ==== fold icons ==== */
 .CodeMirror-guttermarker-subtle {
