@@ -26,10 +26,10 @@
   /*font family*/
   --font-family-list:                  ;/*列表字体*/
   --font-family-major:                 ;/*主体（包括列表）字体，除代码框等少数部分*/
-  --font-family-h1:                    ;
-  --font-family-h2:                    ;
-  --font-family-h3:                    ;
-  --font-family-h4:                    ;
+  --font-family-h1:  "Noto Sans Black","Noto Sans CJK TC Black"    ;
+  --font-family-h2:  "Noto Sans Black","Noto Sans CJK TC Black"    ;
+  --font-family-h3:  "Noto Sans Black","Noto Sans CJK TC Black"    ;
+  --font-family-h4:  "Noto Sans Black","Noto Sans CJK TC Black"    ;
   --font-family-h5:                    ;
   --font-family-h6:                    ;
   --font-family-title:                 ;/*文件抬头标题*/
@@ -3107,5 +3107,5 @@ ruby {
   /*====================================*/
   /* list */
   li{
-	font-family: "Arial Narrow", "新細明體";
+	font-family: var(--font-family-annotation);
   }
