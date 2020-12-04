@@ -1,48 +1,24 @@
-ul:root
-{
-    --font-size-normal:              12px;
-    --font-size-code:                10px;
-    --font-size-side-dock:           10px;
-    --font-size-side-dock-title:     12px;
-    --font-size-status-bar:          10px;
-    --font-size-h1:                  24px;
-    --font-size-h2:                  20px;
-    --font-size-h3:                  16px;
-    --font-size-h4:                  12px;
-    --font-size-h5:                  10px;
-    --font-size-h6:                  10px;
-    --font-family-editor: ;
-    --font-family-preview: ;
-    --font-family-header: ";
-    --font-family-greek:  "SBL Greek", serif;
-    --font-family-hebrew: "Ezra SIL";
-    --font-family-annotation: "Arial Narrow", "Arial" ;
-} 
-
-
-
-
 /*====================================*/
 /* ruby */
 ruby {
 	display: inline-flex;
 	flex-direction: column-reverse ;
 	align-items: center;
-	font-family: "SBL Greek", serif;
+	font-family: "SBL Greek";
 	margin-bottom: 2px;
 	line-height: 1em;
   
   }
   
   rt {
-	font-family: "Arial",sans-serif;
+	font-family: "Arial Narrow";
 	font-size: 0.6em;
   }
   
   /*====================================*/
   /* list */
   li{
-	font-family: var(--font-family-list);
+	font-family: "Arial Narrow", "新細明體";
   }
   /*====================================*/
   /*Add vertical lines of embedded lists*/
@@ -61,7 +37,7 @@ ruby {
   ul ol::before,
   ol ol::before {
 	content:'';
-	border-left: 1px dotted var(--background-modifier-border);
+	border-left: 1px solid var(--background-modifier-border);
 	position: absolute;
   }
   
