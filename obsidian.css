@@ -1,16 +1,16 @@
 :root
 {
-    --font-size-normal:              12px;
-    --font-size-code:                12px;
+    --font-size-normal:              14px;
+    --font-size-code:                14px;
     --font-size-side-dock:           12px;
     --font-size-side-dock-title:     12px;
     --font-size-status-bar:          12px;
     --font-size-h1:                  22px;
     --font-size-h2:                  18px;
     --font-size-h3:                  14px;
-    --font-size-h4:                  12px;
-    --font-size-h5:                  10px;
-    --font-size-h6:                  10px;
+    --font-size-h4:                  14px;
+    --font-size-h5:                  14px;
+    --font-size-h6:                  14px;
     --font-family-editor:            Avenir, Avenir Next, sans-serif;
     --font-family-preview:           Avenir, Avenir Next, sans-serif;
     --font-family-h1:  "Noto Sans Black","Noto Sans CJK TC Black"    ;
@@ -30,7 +30,7 @@
   --background-secondary: #44475a;
   --background-secondary-alt: #282a36;
   --background-accent: #ffb86c;
-  --background-modifier-border: #ffb86c;
+  --background-modifier-border: grey;
   --background-modifier-form-field: rgba(0, 0, 0, 0.2);
   --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
@@ -60,7 +60,7 @@
   --text-title-h1:              #ff5555;;
   --text-title-h2:              #00a71c;
   --text-title-h3:              #ff9900;
-  --text-title-h4:              #ffb86c;
+  --text-title-h4:              #bd93f9;
   --text-title-h5:              #50fa7b;
   --text-title-h6:              #8be9fd;
   --inline-code:                #bd93f9;
