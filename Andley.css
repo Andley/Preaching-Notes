@@ -922,7 +922,42 @@ code:not([class*='language-']){
   font-family: Consolas;
 }
 
+/*====================================*/
+/*Add vertical lines of embedded lists*/
+/*thanks to loikein and death_au from forum and icr1001 from GitHub*/
+.cm-hmd-list-indent .cm-tab,
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  position: relative;
+}
 
+.cm-hmd-list-indent .cm-tab::before,
+ul ul::before,
+ol ul::before,
+ul ol::before,
+ol ol::before {
+  content:'';
+  border-left: 1px dotted var(--background-modifier-border);
+  position: absolute;
+}
+
+ul ul::before,
+ol ul::before,
+ul ol::before,
+ol ol::before {
+  left: -13px;
+  top: 0;
+  bottom: 0;
+} 
+
+.cm-hmd-list-indent .cm-tab::before {
+  left: 3px;
+  top: -5px;
+  bottom: -4px;
+}
+/*====================================*/
 
 
 .markdown-preview-view code {
@@ -3052,7 +3087,6 @@ pre.frontmatter.language-yaml:before{
 .event_item_color10 {
   background-color: var(--event-item-color10)!important;
 }
-
 /*====================================*/
 /* ruby */
 ruby {
@@ -3065,50 +3099,12 @@ ruby {
   
   }
   
-rt {
+  rt {
 	font-family: var(--font-family-annotation);
 	font-size: 0.6em;
   }
   
-//*====================================*/
-/* list */
-li{
-	font-family: var(--font-family-annotation);
+  /*====================================*/
+  /* list */
+  li{
   }
-
-/*====================================*/
-/*Add vertical lines of embedded lists*/
-/*thanks to loikein and death_au from forum and icr1001 from GitHub*/
-.cm-hmd-list-indent .cm-tab,
-ul ul,
-ol ul,
-ul ol,
-ol ol {
-  position: relative;
-}
-
-.cm-hmd-list-indent .cm-tab::before,
-ul ul::before,
-ol ul::before,
-ul ol::before,
-ol ol::before {
-  content:'';
-  border-left: 1px dotted var(--background-modifier-border);
-  position: absolute;
-}
-
-ul ul::before,
-ol ul::before,
-ul ol::before,
-ol ol::before {
-  left: -13px;
-  top: 0;
-  bottom: 0;
-} 
-
-.cm-hmd-list-indent .cm-tab::before {
-  left: 3px;
-  top: -5px;
-  bottom: -4px;
-}
-/*====================================*/
