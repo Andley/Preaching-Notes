@@ -1,18 +1,22 @@
-:root
+ul:root
 {
-    --font-size-normal:              18px;
-    --font-size-code:                15px;
-    --font-size-side-dock:           15px;
-    --font-size-side-dock-title:     18px;
-    --font-size-status-bar:          15px;
-    --font-size-h1:                  26px;
-    --font-size-h2:                  25px;
-    --font-size-h3:                  21px;
-    --font-size-h4:                  20px;
-    --font-size-h5:                  19px;
-    --font-size-h6:                  18px;
-    --font-family-editor:            Avenir, Avenir Next, sans-serif;
-    --font-family-preview:           Avenir, Avenir Next, sans-serif;
+    --font-size-normal:              12px;
+    --font-size-code:                10px;
+    --font-size-side-dock:           10px;
+    --font-size-side-dock-title:     12px;
+    --font-size-status-bar:          10px;
+    --font-size-h1:                  24px;
+    --font-size-h2:                  20px;
+    --font-size-h3:                  16px;
+    --font-size-h4:                  12px;
+    --font-size-h5:                  10px;
+    --font-size-h6:                  10px;
+    --font-family-editor:            ;
+    --font-family-preview:           ;
+    --font-family-header: "Not Sans Black", "Noto Sans CJK Black";
+    --font-family-greek:             ;
+    --font-family-hebrew:            ;
+    --font-family-annotation:        ;
 } 
 
 .theme-light,
@@ -434,7 +438,7 @@ thead {
   position: absolute;
   color: var(--text-accent);
   font-size:1em;
-  line-height: 1.25em;
+  line-height: 1em;
   width:1.2em;
   text-align:center;
   text-shadow: 0 0 0.1em var(--text-accent);
@@ -727,21 +731,6 @@ color: var(--text-accent) !important;
 }
 
 /***************************************/
-/*    at a rule line before ul list    */
-/***************************************/
-
-ul ul { position: relative; }
-ul ul::before {
-  content:'';
-  border-left: 1px solid var(--border-color);
-  position: absolute;
-}
-ul ul::before { left: -1em; top: 0; bottom: 0; }
-
-/* rule line when there are checkboxes*/
-ul .task-list-item ul::before {left: 0.15em !important}
-
-/***************************************/
 /*       Code block in Editor          */
 /***************************************/
 
@@ -807,3 +796,63 @@ code{
     transition: transform 100ms ease-in-out;
     padding: 0px  !important;
   }
+
+/*====================================*/
+/* ruby */
+ruby {
+	display: inline-flex;
+	flex-direction: column-reverse ;
+	align-items: center;
+	font-family: "SBL Greek", serif;
+	margin-bottom: 2px;
+	line-height: 1em;
+  
+  }
+  
+  rt {
+	font-family: "Arial",sans-serif;
+	font-size: 0.6em;
+  }
+  
+  /*====================================*/
+  /* list */
+  li{
+	font-family: var(--font-family-list);
+  }
+  /*====================================*/
+  /*Add vertical lines of embedded lists*/
+  /*thanks to loikein and death_au from forum and icr1001 from GitHub*/
+  .cm-hmd-list-indent .cm-tab,
+  ul ul,
+  ol ul,
+  ul ol,
+  ol ol {
+	position: relative;
+  }
+  
+  .cm-hmd-list-indent .cm-tab::before,
+  ul ul::before,
+  ol ul::before,
+  ul ol::before,
+  ol ol::before {
+	content:'';
+	border-left: 1px solid var(--background-modifier-border);
+	position: absolute;
+  }
+  
+  ul ul::before,
+  ol ul::before,
+  ul ol::before,
+  ol ol::before {
+	left: -12px;
+	top: 0;
+	bottom: 0;
+  } 
+  
+  .cm-hmd-list-indent .cm-tab::before {
+	left: 3px;
+	top: -5px;
+	bottom: -4px;
+  }
+  /*====================================*/
+  
