@@ -1,0 +1,59 @@
+/*====================================*/
+/* ruby */
+ruby {
+	display: inline-flex;
+	flex-direction: column-reverse ;
+	align-items: center;
+	font-family: "SBL Greek", serif;
+	margin-bottom: 2px;
+	line-height: 1em;
+  
+  }
+  
+  rt {
+	font-family: "Arial",sans-serif;
+	font-size: 0.6em;
+  }
+  
+  /*====================================*/
+  /* list */
+  li{
+	font-family: var(--font-family-list);
+  }
+  /*====================================*/
+  /*Add vertical lines of embedded lists*/
+  /*thanks to loikein and death_au from forum and icr1001 from GitHub*/
+  .cm-hmd-list-indent .cm-tab,
+  ul ul,
+  ol ul,
+  ul ol,
+  ol ol {
+	position: relative;
+  }
+  
+  .cm-hmd-list-indent .cm-tab::before,
+  ul ul::before,
+  ol ul::before,
+  ul ol::before,
+  ol ol::before {
+	content:'';
+	border-left: 1px dotted var(--background-modifier-border);
+	position: absolute;
+  }
+  
+  ul ul::before,
+  ol ul::before,
+  ul ol::before,
+  ol ol::before {
+	left: -12px;
+	top: 0;
+	bottom: 0;
+  } 
+  
+  .cm-hmd-list-indent .cm-tab::before {
+	left: 3px;
+	top: -5px;
+	bottom: -4px;
+  }
+  /*====================================*/
+  
