@@ -5,7 +5,7 @@
     --font-size-side-dock:           12px;
     --font-size-side-dock-title:     12px;
     --font-size-status-bar:          12px;
-    --font-size-h1:                  24px;
+    --font-size-h1:                  22px;
     --font-size-h2:                  18px;
     --font-size-h3:                  14px;
     --font-size-h4:                  12px;
@@ -57,10 +57,9 @@
   --scrollbar-active-thumb-bg: #282a36;
   --scrollbar-bg: #282a36;
   --scrollbar-thumb-bg: #282a36;
-
-  --text-title-h1:              #ff79c6;
-  --text-title-h2:              #bd93f9;
-  --text-title-h3:              #ff5555;
+  --text-title-h1:              #ff5555;;
+  --text-title-h2:              #00a71c;
+  --text-title-h3:              #ff9900;
   --text-title-h4:              #ffb86c;
   --text-title-h5:              #50fa7b;
   --text-title-h6:              #8be9fd;
@@ -275,11 +274,6 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-/* img hover zoom out img*/
-img:hover {
-  transform: scale(1.04);
-  transition: transform 0.25s ease-in-out 0s;
-}
 
 .community-theme img:hover{
   transform: none;
@@ -296,6 +290,7 @@ img:hover {
   font-family: var(--font-family-h1);
   font-weight: 500;
   font-size: var(--font-size-h1);
+  line-height: 1em;
   color: var(--text-title-h1);
 }
 
@@ -304,6 +299,7 @@ img:hover {
   font-family: var(--font-family-h2);
   font-weight: 500;
   font-size: var(--font-size-h2);
+  line-height: 1em;
   color: var(--text-title-h2);
 }
 
@@ -312,6 +308,7 @@ img:hover {
   font-family: var(--font-family-h3);
   font-weight: 500;
   font-size: var(--font-size-h3);
+  line-height: 1em;
   color: var(--text-title-h3);
 }
 
@@ -320,6 +317,7 @@ img:hover {
   font-family: var(--font-family-h4);
   font-weight: 500;
   font-size: var(--font-size-h4);
+  line-height: 1em;
   color: var(--text-title-h4);
 }
 
@@ -328,6 +326,7 @@ img:hover {
   font-family: var(--font-family-h5);
   font-weight: 500;
   font-size: var(--font-size-h5);
+  line-height: 1em;
   color: var(--text-title-h5);
 }
 
@@ -336,45 +335,10 @@ img:hover {
   font-family: var(--font-family-h6);
   font-weight: 500;
   font-size: var(--font-size-h6);
+  line-height: 1em;
   color: var(--text-title-h6);
 }
 
-/***************************************/
-/*         Code block in  Preview      */
-/***************************************/
-
-/* code blocks in preview */
-pre code {
-  font-family: monaco !important;
-  font-size: var(--font-size-code) !important;
-  padding: 6px !important;
-  line-height: 1em;
-  display: block;
-  color: var(--code-block)  !important;
-}
-
-/* padding of code blocks in preview */
-.markdown-preview-view pre {
-  padding: 0px !important;
-}
-
-/* font-size of in-line block for preview */
-.markdown-preview-view code
-{
-  font-size: var(--font-size-code);
-}
-
-
-/* remove the shadow that typically affect light mode */
-.theme-dark code[class*="language-"],
-.theme-dark pre[class*="language-"],
-.theme-light code[class*="language-"],
-.theme-light pre[class*="language-"]
-{
-    text-shadow: none !important;
-    color: var(--text-faint) !important;
-    background-color: var(--pre-code);
-}
 
 /***************************************/
 /*              Brackets               */
@@ -431,38 +395,6 @@ thead {
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
   border-bottom-left-radius: 4px;
-}
-
-/***************************************/
-/*               Checkbox              */
-/***************************************/
-
-.markdown-preview-view .task-list-item-checkbox:checked::before {
-  content: '✓';
-  position: absolute;
-  color: var(--text-accent);
-  font-size:1em;
-  line-height: 1em;
-  width:1.2em;
-  text-align:center;
-  text-shadow: 0 0 0.1em var(--text-accent);
-}
-
-.markdown-preview-view .task-list-item-checkbox {
-  -webkit-appearance: none;
-  top: 0.2em !important;
-  right: 4px;
-  box-sizing: border-box;
-  border: 1px solid  var(--text-muted);
-  position: relative;
-  width: 1.25em;
-  height: 1.25em;
-  margin: 0;
-  box-shadow: 0 0 0.1em var(--text-muted);
-}
-
-.checkbox-container {
-    background-color: var(--background-primary);
 }
 
 
@@ -575,21 +507,6 @@ color: var(--text-accent) !important;
   background-color: var(--interactive-accent-hover);
 }
 
-/***************************************/
-/*            Hide side bar            */
-/***************************************/
-
-.workspace-ribbon:not(:hover) .workspace-ribbon-collapse-btn, 
-.workspace-ribbon:not(:hover) .side-dock-actions, 
-.workspace-ribbon:not(:hover) .side-dock-settings {
-  display:none; 
-  transition: all 300ms ease-in-out;}
-.workspace-ribbon:not(:hover) {
-  width: 0px;
-  transition: all 300ms ease-in-out;}
-
-.workspace-split.mod-left-split {margin-left: 0px;}
-.workspace-split.mod-right-split {margin-right: 0px;}
 
 /***************************************/
 /*           width of content          */
