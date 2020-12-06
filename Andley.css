@@ -1,16 +1,16 @@
 :root
 {
-    --font-size-normal:              12px;
-    --font-size-code:                12px;
+    --font-size-normal:              16px;
+    --font-size-code:                16px;
     --font-size-side-dock:           12px;
     --font-size-side-dock-title:     12px;
     --font-size-status-bar:          12px;
-    --font-size-h1:                  22px;
-    --font-size-h2:                  18px;
-    --font-size-h3:                  14px;
-    --font-size-h4:                  12px;
-    --font-size-h5:                  10px;
-    --font-size-h6:                  10px;
+    --font-size-h1:                  24px;
+    --font-size-h2:                  20px;
+    --font-size-h3:                  16px;
+    --font-size-h4:                  14px;
+    --font-size-h5:                  14px;
+    --font-size-h6:                  14px;
     --font-family-editor:            Avenir, Avenir Next, sans-serif;
     --font-family-preview:           Avenir, Avenir Next, sans-serif;
     --font-family-h1:  "Noto Sans Black","Noto Sans CJK TC Black"    ;
@@ -29,8 +29,8 @@
   --background-primary-alt: #44475a;
   --background-secondary: #44475a;
   --background-secondary-alt: #282a36;
-  --background-accent: #f8f8f2;
-  --background-modifier-border: #f8f8f2;
+  --background-accent: #ffb86c;
+  --background-modifier-border: grey;
   --background-modifier-form-field: rgba(0, 0, 0, 0.2);
   --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
@@ -60,7 +60,7 @@
   --text-title-h1:              #ff5555;;
   --text-title-h2:              #00a71c;
   --text-title-h3:              #ff9900;
-  --text-title-h4:              #ffb86c;
+  --text-title-h4:              #bd93f9;
   --text-title-h5:              #50fa7b;
   --text-title-h6:              #8be9fd;
   --inline-code:                #bd93f9;
@@ -95,8 +95,6 @@
 /*            settings                 */
 /*            Hide side bar            */
 /*           width of content          */
-/*  note header bar for non-andy mode */
-/* andy mode activated in light mode  */
 /*    at a rule line before ul list    *
 /*  Hide Scrollbar (recommend for mac)  */
 /*-------------------------------------*/
@@ -414,7 +412,7 @@ thead {
 
 /* search result in backlink or file search */
 .search-result-file-title {  
-  font-size: 15px ;
+  font-size: var(--font-size-side-dock);
 }
 
 .search-result-file-matches, .search-empty-state {
@@ -524,132 +522,7 @@ color: var(--text-accent) !important;
   margin-right: auto;
 }
 
-/**************************************/
-/*  note header bar for non-andy mode */
-/*        activated in dark mode      */
-/**************************************/
 
-/* header */
-
-.theme-dark .view-header {
-  background-color: var(--background-primary) !important;   
-  border-top: 1px solid var(--border-color) !important;
-  border-bottom: 1px solid var(--border-color) !important;
-}
-
-.theme-dark .view-header-title-container:after {
-  background: linear-gradient(to bottom, transparent, var(--background-primary)) !important;
-}
-
-.theme-dark .workspace-leaf.mod-active .view-header {
-  background-color: var(--background-secondary-alt) !important;  
-  border-top: 0px !important;
-  border-bottom: 3px solid var(--interactive-accent) !important;
-}
-
-.workspace-leaf.mod-active .view-header-title-container:after {
-  background: linear-gradient(to bottom, transparent, var(--background-secondary-alt)) !important;
-}
-
-.workspace-leaf.mod-active .view-header-title,
-.workspace-leaf.mod-active .view-header-icon
-{
-  color: var(--background-modifier-border);
-}
-
-.view-header-title, .view-header-icon, .view-action{
-  color: var(--text-faint);
-}
-
-
-/* shift sticky position, so titles will stack up to the left */
-/* This will currently stack to a maximum of 10 before resetting */
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-8) { left: calc(var(--sticky-left) * 0); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-7) { left: calc(var(--sticky-left) * 1); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-6) { left: calc(var(--sticky-left) * 2); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-5) { left: calc(var(--sticky-left) * 3); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-4) { left: calc(var(--sticky-left) * 4); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-3) { left: calc(var(--sticky-left) * 5); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-2) { left: calc(var(--sticky-left) * 6); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n-1) { left: calc(var(--sticky-left) * 7); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n+0) { left: calc(var(--sticky-left) * 8); }
-.theme-light .mod-root.workspace-split.mod-vertical > div:nth-child(10n+1) { left: calc(var(--sticky-left) * 9); }
-
-/* now it's time for the fancy vertical titles */
-
-/* first we'll add a bit of gap for the title to sit inside of */
-.theme-light .workspace-leaf-content {
-  padding-left: var(--sticky-left);
-  position: relative;
-}
-
-/* this is where the magic happens */
-.theme-light .view-header {
-  writing-mode: vertical-lr;
-  border-right: 1px solid var(--border-color);
-  border-left: 0px !important;
-  border-top: none;
-  border-bottom: none;
-  height: auto;
-  width: 36px;
-  position: absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  background-color: var(--background-primary) !important;
-}
-
-/* fix the long-title-obscuring shadows */
-.theme-light .view-header-title-container:after {
-  width: 100%;
-  height: 30px;
-  top:unset;
-  bottom: 0;
-  background: linear-gradient(to bottom, transparent, var(--background-primary))!important;
-}
-
-/* unset the title container height and swap padding */
-.theme-light .view-header-title-container {
-  height: unset;
-  padding-left: unset;
-  padding-top: 5px;
-}
-
-/* active titles have different border colours */
-.theme-light .workspace-leaf.mod-active .view-header {
-  background-color: var(--background-secondary-alt) !important; 
-  border-right: 3px solid var(--interactive-accent) !important;
-  border-left: 0px;
-  border-bottom: none;
-}
-
-/* swap the padding/margin around for the header and actions icons */
-.theme-light .view-header-icon, .theme-light .view-actions {
-  padding: 10px 5px;
-}
-.theme-light .view-action {
-  margin: 8px 0;
-}
-
-/* get rid of the gap left by the now-missing horizontal title */
-.theme-light .view-content {
-  height: 100%;
-}
-
-/* make the fake drop target overlay have a background so you can see it. */
-/* TODO: figure out how the fake target overlay works so we can put the title back, too */
-.theme-light .workspace-fake-target-overlay {
-  background-color: var(--background-primary);
-}
-
-/*preview padding too small*/
-.theme-light .markdown-preview-view, .theme-light .mod-single-child .markdown-preview-view {
-  font-family: var(--font-family-editor);
-  font-size: var(--font-size-normal);
-  padding-top: 5px;
-  padding-left: 4% !important;
-  padding-right: 2% !important;
-}
 
 /***************************************/
 /*    at a rule line before ul list    */
@@ -748,7 +621,7 @@ ruby {
   
 rt {
 	font-family: var(--font-family-annotation);
-	font-size: 0.7em;
+	font-size: 0.75em;
   }
 /*====================================*/
 /* list */
@@ -781,13 +654,13 @@ ul ul::before,
 ol ul::before,
 ul ol::before,
 ol ol::before {
-  left: -13px;
+  left: -10px;
   top: 0;
-  bottom: 0;
+  bottom: 7px;
 } 
 
 .cm-hmd-list-indent .cm-tab::before {
-  left: 3px;
+  left: 1px;
   top: -5px;
   bottom: -4px;
 }
