@@ -13,6 +13,23 @@ __*斜粗體*__
 
 `code`
 
+### line break
+沒有加 space
+額外加一個 space 
+額外加兩個 space 就換行  
+額外加兩個 space  
+
+
+Last Text
+\
+\
+\
+\
+\
+<tab>
+New Text
+	
+	
 ### Ruby
 
 <RUBY><ruby><ruby>ἀλλὰ<rt>Nevertheless</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐβασίλευσεν<rt>reigned</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> 
