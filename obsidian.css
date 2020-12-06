@@ -781,13 +781,13 @@ ul ul::before,
 ol ul::before,
 ul ol::before,
 ol ol::before {
-  left: -13px;
+  left: -10px;
   top: 0;
-  bottom: 0;
+  bottom: 7px;
 } 
 
 .cm-hmd-list-indent .cm-tab::before {
-  left: 3px;
+  left: 1px;
   top: -5px;
   bottom: -4px;
 }
