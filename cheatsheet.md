@@ -1,23 +1,36 @@
-# 標題 1
-## level 2
-### level 3
-#### level 4
+# 標題 Level 1
+## 標題 level 2
+### 標題 level 3
+#### 標題 level 4
+內文不換行
 
----
-## 強調
+內文最後加兩個 space = 換行  
 
 **粗體**  
 *斜體*  
-__*斜粗體*__
-
+__*斜粗體*__  
+~呼~  
+You can even [link to Google!](http://google.com)  
 
 `code`
 
-### line break
-沒有加 space
-額外加一個 space 
-額外加兩個 space 就換行  
-額外加兩個 space  
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
 
 
 Last Text
@@ -30,11 +43,41 @@ Last Text
 New Text
 	
 	
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.  
+> - Captain Janeway
+	
+
+```
+if (isAwesome){
+  return true
+}
+```
+	
+```javascript
+if (isAwesome){
+  return true
+}
+```
+	
+
+But I have to admit, tasks lists are my favorite:
+
+- [ ] This is a complete item
+- [ ] This is an incomplete item
+
+	
+	I think you should use an `<addr>` element here instead.
+	
 ### Ruby
 
 <RUBY><ruby><ruby>ἀλλὰ<rt>Nevertheless</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐβασίλευσεν<rt>reigned</rt></ruby><rt>βασιλεύω</rt></ruby><rt>V-AAI-3S</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>‑</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>θάνατος<rt>death</rt></ruby><rt>θάνατος</rt></ruby><rt>N-NSM</rt></RUBY> 
 
 ### 特殊符號
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 | Unicode | result | UniCode | result |
 | ------- | ------ | ------- | ------ |
