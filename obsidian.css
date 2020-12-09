@@ -614,20 +614,19 @@ ruby {
 	flex-direction: column-reverse ;
 	align-items: center;
 	font-family: var(--font-family-interlinear);
-  font-size:14px;
-  line-height: 14px;
+  font-size:12px;
+  line-height: 12px;
   }
   
 rt {
 	font-family: var(--font-family-annotation);
-  font-size: 10px;
+  font-size: 9px;
   }
 /*====================================*/
 /* list */
 li{
   font-family: var(--font-family-annotation);
-  font-size: 36px;
-  line-height: 36px;
+  font-size: 24px;
   }
 
   /*====================================*/
@@ -655,9 +654,9 @@ ul ul::before,
 ol ul::before,
 ul ol::before,
 ol ol::before {
-  left: -10px;
-  top: 0;
-  bottom: 7px;
+  left: -18px;
+  top: -5px;
+  bottom:7px;
 } 
 
 .cm-hmd-list-indent .cm-tab::before {
