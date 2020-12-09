@@ -620,13 +620,14 @@ ruby {
   
 rt {
 	font-family: var(--font-family-annotation);
-  font-size: 12px;
+  font-size: 10px;
   }
 /*====================================*/
 /* list */
 li{
   font-family: var(--font-family-annotation);
-  font-size: 20px;
+  font-size: 36px;
+  line-height: 36px;
   }
 
   /*====================================*/
