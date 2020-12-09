@@ -621,12 +621,15 @@ ruby {
 rt {
 	font-family: var(--font-family-annotation);
   font-size: 9px;
+  line-height: 9px;
+
   }
 /*====================================*/
 /* list */
 li{
-  font-family: var(--font-family-annotation);
-  font-size: 24px;
+  font-family: "Arial Narrow";
+  font-size: 20px;
+  line-height: 26px;
   }
 
   /*====================================*/
@@ -655,13 +658,7 @@ ol ul::before,
 ul ol::before,
 ol ol::before {
   left: -18px;
-  top: -5px;
+  top: 0px;
   bottom:7px;
 } 
-
-.cm-hmd-list-indent .cm-tab::before {
-  left: 1px;
-  top: -5px;
-  bottom: -4px;
-}
 /*====================================*/
