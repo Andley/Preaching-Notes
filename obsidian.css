@@ -613,23 +613,21 @@ ruby {
 	display: inline-flex;
 	flex-direction: column-reverse ;
 	align-items: center;
-	font-family: var(--font-family-interlinear);
+  font-family: var(--font-family-interlinear);
+  margin-bottom: 7px;
   font-size:12px;
-  line-height: 12px;
+  line-height: 14px;
   }
   
 rt {
 	font-family: var(--font-family-annotation);
-  font-size: 9px;
-  line-height: 9px;
+  font-size: 12px;
+  line-height: 12px;
 
   }
 /*====================================*/
 /* list */
 li{
-  font-family: "Arial Narrow";
-  font-size: 20px;
-  line-height: 26px;
   }
 
   /*====================================*/
