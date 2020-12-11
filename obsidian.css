@@ -614,15 +614,15 @@ ruby {
 	flex-direction: column-reverse ;
 	align-items: center;
   font-family: var(--font-family-interlinear);
-  margin-bottom: 7px;
-  font-size:12px;
-  line-height: 14px;
+  margin-bottom: 4px;
+  font-size:15px;
+  line-height: 16px;
   }
   
 rt {
 	font-family: var(--font-family-annotation);
-  font-size: 12px;
-  line-height: 12px;
+  font-size: 11px;
+  line-height: 11px;
 
   }
 /*====================================*/
