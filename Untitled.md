@@ -1,9 +1,7 @@
  Math
 
 ```md
-$$\begin{vmatrix}a & b\\
-c & d
-\end{vmatrix}=ad-bc$$
+
 ```
 
 ```latex
@@ -21,3 +19,8 @@ c & d
 | col1  | col2 |
 | ----- | ---- |
 | $\pi$ | $\sum$ |
+
+
+$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$
