@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "372c63cb8ca095e5",
+        "id": "2ea1ee71c3dff6fe",
         "type": "leaf",
-        "dimension": 42.148087876322215,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "馬太福音 6.25–34.md",
-            "mode": "source"
+            "file": "講道筆記.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "bfa7ebc0e1d5bd5e",
+        "id": "d482848c278a405f",
         "type": "leaf",
-        "dimension": 57.851912123677785,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "馬太福音 6.25–34.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#解經",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.00458335876465,
-    "collapsed": true
+    "width": 170
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -90,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "馬太福音 6.25–34.md",
+                "file": "講道筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "馬太福音 6.25–34.md"
+                "file": "講道筆記.md"
               }
             }
           },
@@ -135,20 +129,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 154.7009735107422,
+    "width": 280,
     "collapsed": true
   },
-  "active": "372c63cb8ca095e5",
+  "active": "2ea1ee71c3dff6fe",
   "lastOpenFiles": [
-    "馬太福音 6.25–34.md",
     "講道筆記.md",
-    "羅馬書 8.1–17.md",
-    "馬可福音 8.27–9.1.md",
-    "template/講道筆記範本.md",
-    "約翰福音 15.1–11.md",
-    "申命記 34.1–12.md",
-    "約翰福音 15.12–27.md",
-    "哥林多前書 6.1–6.md",
-    "提摩太前書 4.1–16.md"
+    "IBG4E/HW5-Key.md",
+    "IBG4E/HW6-Key.md",
+    "Mounce-BBG/複習 4 (Joh 12.27–36).md",
+    "Mounce-BBG/複習 2 (1Jo4.1–6) 解答.md",
+    "Mounce-BBG/複習 2 (1Jo4.1–6).md",
+    "IBG4E/HW4-Key.md",
+    "cheatsheet.md",
+    "Syntax/Aspect.md",
+    "Syntax/IBG4E-Syntax.md"
   ]
 }
