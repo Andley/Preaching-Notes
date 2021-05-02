@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "46860815f32cbf2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "372c63cb8ca095e5",
+        "type": "leaf",
+        "dimension": 42.148087876322215,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "馬太福音 6.25–34.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bfa7ebc0e1d5bd5e",
+        "type": "leaf",
+        "dimension": 57.851912123677785,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "馬太福音 6.25–34.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d89ef4303833cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8198aa995c74f604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ac520a8ccc59a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "971c7a8a329ef702",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#解經",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8253e41627d2fedb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.00458335876465,
+    "collapsed": true
+  },
+  "right": {
+    "id": "92fec9da4657ec59",
+    "type": "split",
+    "children": [
+      {
+        "id": "6475f8733433b7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d357a25b83637fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "馬太福音 6.25–34.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8cb03e335959f3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "775222d07aaa15a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "馬太福音 6.25–34.md"
+              }
+            }
+          },
+          {
+            "id": "c1efe367d6e23c05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 154.7009735107422,
+    "collapsed": true
+  },
+  "active": "372c63cb8ca095e5",
+  "lastOpenFiles": [
+    "馬太福音 6.25–34.md",
+    "講道筆記.md",
+    "羅馬書 8.1–17.md",
+    "馬可福音 8.27–9.1.md",
+    "template/講道筆記範本.md",
+    "約翰福音 15.1–11.md",
+    "申命記 34.1–12.md",
+    "約翰福音 15.12–27.md",
+    "哥林多前書 6.1–6.md",
+    "提摩太前書 4.1–16.md"
+  ]
+}
