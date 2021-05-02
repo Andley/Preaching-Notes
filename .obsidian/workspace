@@ -10,16 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "講道筆記.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
-        "id": "d482848c278a405f",
+        "id": "bc416e38ee676008",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "講道筆記.md",
+            "mode": "preview"
+          }
         }
       }
     ],
