@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea1ee71c3dff6fe",
+        "id": "fc56e0ab00a1ebbe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "講道筆記.md",
+            "file": "羅馬書 8.1–17.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "bc416e38ee676008",
+        "id": "43fbf4a350a4fc79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "講道筆記.md",
+            "file": "羅馬書 8.1–17.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 170,
+    "collapsed": true
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "講道筆記.md",
+                "file": "羅馬書 8.1–17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "講道筆記.md"
+                "file": "羅馬書 8.1–17.md"
               }
             }
           },
@@ -135,8 +136,10 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "2ea1ee71c3dff6fe",
+  "active": "fc56e0ab00a1ebbe",
   "lastOpenFiles": [
+    "羅馬書 8.1–17.md",
+    "馬太福音 6.25–34.md",
     "講道筆記.md",
     "IBG4E/HW5-Key.md",
     "IBG4E/HW6-Key.md",
@@ -144,8 +147,6 @@
     "Mounce-BBG/複習 2 (1Jo4.1–6) 解答.md",
     "Mounce-BBG/複習 2 (1Jo4.1–6).md",
     "IBG4E/HW4-Key.md",
-    "cheatsheet.md",
-    "Syntax/Aspect.md",
-    "Syntax/IBG4E-Syntax.md"
+    "cheatsheet.md"
   ]
 }
