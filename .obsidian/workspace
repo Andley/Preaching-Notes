@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fc56e0ab00a1ebbe",
+        "id": "6e9bb4aad2dbada0",
         "type": "leaf",
-        "dimension": 47.65533411488863,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "羅馬書 8.1–17.md",
+            "file": "馬太福音 6.25–34.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "43fbf4a350a4fc79",
+        "id": "2a6114653260023f",
         "type": "leaf",
-        "dimension": 52.344665885111375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "羅馬書 8.1–17.md",
+            "file": "馬太福音 6.25–34.md",
             "mode": "preview"
           }
         }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "羅馬書 8.1–17.md",
+                "file": "馬太福音 6.25–34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "羅馬書 8.1–17.md"
+                "file": "馬太福音 6.25–34.md"
               }
             }
           },
@@ -138,11 +136,11 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "43fbf4a350a4fc79",
+  "active": "6e9bb4aad2dbada0",
   "lastOpenFiles": [
-    "羅馬書 8.1–17.md",
     "馬太福音 6.25–34.md",
     "講道筆記.md",
+    "羅馬書 8.1–17.md",
     "IBG4E/HW5-Key.md",
     "IBG4E/HW6-Key.md",
     "Mounce-BBG/複習 4 (Joh 12.27–36).md",
