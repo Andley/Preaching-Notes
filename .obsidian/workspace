@@ -6,23 +6,21 @@
       {
         "id": "1e61c16f1ef3a6b9",
         "type": "leaf",
-        "dimension": 40.43715846994536,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "羅馬書 8.1–17.md",
+            "file": "馬太福音 6.25–34.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b1b3ab97d546432f",
+        "id": "7cf1dcee87b160d3",
         "type": "leaf",
-        "dimension": 59.56284153005464,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "羅馬書 8.1–17.md",
+            "file": "馬太福音 6.25–34.md",
             "mode": "preview"
           }
         }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "羅馬書 8.1–17.md",
+                "file": "馬太福音 6.25–34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "羅馬書 8.1–17.md"
+                "file": "馬太福音 6.25–34.md"
               }
             }
           },
@@ -140,8 +138,8 @@
   },
   "active": "1e61c16f1ef3a6b9",
   "lastOpenFiles": [
-    "羅馬書 8.1–17.md",
     "馬太福音 6.25–34.md",
+    "羅馬書 8.1–17.md",
     "講道筆記.md",
     "IBG4E/HW5-Key.md",
     "IBG4E/HW6-Key.md",
