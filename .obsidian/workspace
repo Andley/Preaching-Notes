@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a6114653260023f",
+        "id": "1e61c16f1ef3a6b9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "1e61c16f1ef3a6b9",
+        "id": "b1b3ab97d546432f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -136,7 +136,7 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "2a6114653260023f",
+  "active": "1e61c16f1ef3a6b9",
   "lastOpenFiles": [
     "羅馬書 8.1–17.md",
     "馬太福音 6.25–34.md",
