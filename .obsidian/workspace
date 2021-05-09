@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "馬太福音 6.25–34.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7cf1dcee87b160d3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "馬太福音 6.25–34.md",
+            "file": "羅馬書 8.1–17.md",
             "mode": "preview"
           }
         }
@@ -71,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170,
-    "collapsed": true
+    "width": 308.99999809265137
   },
   "right": {
     "id": "92fec9da4657ec59",
@@ -88,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "馬太福音 6.25–34.md",
+                "file": "羅馬書 8.1–17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "馬太福音 6.25–34.md"
+                "file": "羅馬書 8.1–17.md"
               }
             }
           },
@@ -138,15 +126,15 @@
   },
   "active": "1e61c16f1ef3a6b9",
   "lastOpenFiles": [
-    "馬太福音 6.25–34.md",
     "羅馬書 8.1–17.md",
+    "馬太福音 6.25–34.md",
+    "馬可福音 8.27–9.1.md",
+    "images/2021-05-08-羅8.1–17小抄.jpg",
+    "images/2021_05_09 下午7_37 Office Lens.jpg",
+    "images/2021_05_09 下午7_36 Office Lens.jpg",
     "講道筆記.md",
     "IBG4E/HW5-Key.md",
     "IBG4E/HW6-Key.md",
-    "Mounce-BBG/複習 4 (Joh 12.27–36).md",
-    "Mounce-BBG/複習 2 (1Jo4.1–6) 解答.md",
-    "Mounce-BBG/複習 2 (1Jo4.1–6).md",
-    "IBG4E/HW4-Key.md",
-    "cheatsheet.md"
+    "Mounce-BBG/複習 4 (Joh 12.27–36).md"
   ]
 }
