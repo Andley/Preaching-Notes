@@ -30,3 +30,21 @@
 2020-12-06 | 竹圍信友堂     | 提前 4:1-16 | 自救救人   | [提摩太前書 4.1–16](%E6%8F%90%E6%91%A9%E5%A4%AA%E5%89%8D%E6%9B%B8%204.1%E2%80%9316.md)
 
 
+---
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Andley/Exegetical-Preaching-Notes">
+    <span property="dct:title">Andley Chang (張奇軍)</span></a>
+  has waived all copyright and related or neighboring rights to
+	<span property="dct:title"><mark>解經講道筆記 (Exegetical Preaching Notes)</mark></span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="TW" about="https://github.com/Andley/Exegetical-Preaching-Notes">
+  台灣</span>.
+</p>
