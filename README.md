@@ -30,21 +30,7 @@
 2020-12-06 | 竹圍信友堂     | 提前 4:1-16 | 自救救人   | [提摩太前書 4.1–16](%E6%8F%90%E6%91%A9%E5%A4%AA%E5%89%8D%E6%9B%B8%204.1%E2%80%9316.md)
 
 
+
 ---
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="https://github.com/Andley/Exegetical-Preaching-Notes">
-    <span property="dct:title">Andley Chang (張奇軍)</span></a>
-  has waived all copyright and related or neighboring rights to
-	<span property="dct:title"><mark>解經講道筆記 (Exegetical Preaching Notes)</mark></span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="TW" about="https://github.com/Andley/Exegetical-Preaching-Notes">
-  台灣</span>.
-</p>
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Andley/Exegetical-Preaching-Notes">解經講道筆記 (Exegetical Preaching Notes)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Andley">Andley Chang (張奇軍)</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
