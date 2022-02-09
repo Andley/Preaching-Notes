@@ -6,9 +6,6 @@ tags： #證道  #解經
 
 ## 圖析 (Syntax Diagram)
 
-OK
-- ═════════════════════════════
-
 - <rt>6:9a</rt> <RUBY><ruby><ruby><mark><strong>Πεπείσμεθα°¹</strong></mark><rt>We are persuaded</rt></ruby><rt>πείθω</rt></ruby><rt>V-RPI-1P</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν ,<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A <RUBY><ruby><ruby>ἀγαπητοί ,<rt>beloved</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>κρείσσονα<rt>better [things]</rt></ruby><rt>κρείσσων</rt></ruby><rt>A-APN-C</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><em>ἐχόμενα</em><rt>[things] accompanying</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PMP-APN</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας ,<rt>salvation</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-GSF</rt></RUBY>)C 
 	- <rt>6:9b</rt> {<RUBY><ruby><ruby>εἰ<rt>if</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>even</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY>)a (<RUBY><ruby><ruby>οὕτως<rt>like this</rt></ruby><rt>οὕτω, οὕτως</rt></ruby><rt>ADV</rt></RUBY>)a <RUBY><ruby><ruby><strong>λαλοῦμεν .</strong><rt>we speak</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAI-1P</rt></RUBY>}A°¹
 - <rt>6:10a</rt> <RUBY><ruby><ruby>οὐ<rt>Not</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> ...<mark>**ἐστίν°²**</mark>... <RUBY><ruby><ruby>γὰρ<rt>for</rt></ruby><rt>γάρ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἄδικος<rt>unjust [is]</rt></ruby><rt>ἄδικος</rt></ruby><rt>A-NSM</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὁ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>God</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY>)S 
