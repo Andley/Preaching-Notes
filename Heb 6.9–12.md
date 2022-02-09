@@ -4,6 +4,7 @@
 教會：協同會頌主堂  
 tags： #證道  #解經  
 
+
 ## 圖析 (Syntax Diagram)
 
 - <rt>6:9a</rt> <RUBY><ruby><ruby><mark><strong>Πεπείσμεθα°¹</strong></mark><rt>We are persuaded</rt></ruby><rt>πείθω</rt></ruby><rt>V-RPI-1P</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>περὶ<rt>concerning</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν ,<rt>you</rt></ruby><rt>σύ</rt></ruby><rt>P-2GP</rt></RUBY>)A <RUBY><ruby><ruby>ἀγαπητοί ,<rt>beloved</rt></ruby><rt>ἀγαπητός</rt></ruby><rt>A-VPM</rt></RUBY> (<RUBY><ruby><ruby>τὰ<rt>of</rt></ruby><rt>ὁ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>κρείσσονα<rt>better [things]</rt></ruby><rt>κρείσσων</rt></ruby><rt>A-APN-C</rt></RUBY>  <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><em>ἐχόμενα</em><rt>[things] accompanying</rt></ruby><rt>ἔχω</rt></ruby><rt>V-PMP-APN</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας ,<rt>salvation</rt></ruby><rt>σωτηρία</rt></ruby><rt>N-GSF</rt></RUBY>)C 
@@ -20,7 +21,27 @@ tags： #證道  #解經
 		- <rt>6:12b</rt> ...**γένησθε**... {<RUBY><ruby><ruby>μιμηταὶ<rt>imitators</rt></ruby><rt>μιμητής</rt></ruby><rt>N-NPM</rt></RUBY>}⦇ <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> ⦈{<RUBY><ruby><ruby>τῶν<rt>of those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μακροθυμίας<rt>patience</rt></ruby><rt>μακροθυμία</rt></ruby><rt>N-GSF</rt></RUBY>)a <RUBY><ruby><ruby><em>κληρονομούντων</em><rt>inheriting</rt></ruby><rt>κληρονομέω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> (<RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίας . ¶<rt>promises</rt></ruby><rt>ἐπαγγελία</rt></ruby><rt>N-APF</rt></RUBY>)c } 
 
 ## 解經 (Exegesis)
-- 
+- 我們雖是這樣說 ⇒ 怎樣說？
+	- 上文 Heb 6:4–8 「若是離棄道理 ... 結局就是焚燒」= 壞消息
+	- 因此這裡話鋒一轉 Heb 6:9「卻深信你們 ... 得救」= 好消息
+	- 但好消息中帶著勸勉 Heb 6:11 「願你們各人都顯出這樣的殷勤 ... 一直到底」
+	- 伴隨著有點恨鐵不成鋼的著急 Heb 5:11–14 「看你們學習的工夫，本該作師傅，誰知還 ... 是嬰孩」
+- 信徒的三種光景：
+	- (a) 離棄真道 ⇒ 結局就是焚燒 🥵
+	- (b) 還在吃奶 ⇒不能原地踏步！！
+	- (c) 長大成人 ⇒ 持守到底得著更美的救恩 😁
+- ═════════════════════════════
+- 6:9
+	- Πεπείσμεθα 完成式時態形式，表達狀態觀點，意思是「我們已經處於確信的狀態」
+	- τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας 
+		- κρείσσονα 是 ἀγαθός 的比較級 = 更好、更美、更良善
+		- κρείσσονα καὶ ἐχόμενα 共用同一個冠詞，代表這兩個概念 (更好 & 即將來臨) 緊密相關
+		- σωτηρίας 所有格修飾前面的 τὰ κρείσσονα καὶ ἐχόμενα
+		- 應該翻譯成「the better and coming things that has to do with salvation 那些與救恩相關、即將來臨、更好更美的事情」
+
+
+
+來 6:9 <strong>Πεπείσμεθα</strong> δὲ περὶ ὑμῶν , ἀγαπητοί , τὰ κρείσσονα καὶ <em>ἐχόμενα</em> σωτηρίας , εἰ καὶ οὕτως <strong>λαλοῦμεν .</strong>【親愛的弟兄們，我們雖是這樣說，卻深信你們的行為強過這些，而且近乎得救。】 來 6:10 οὐ γὰρ ἄδικος ὁ Θεὸς <em>ἐπιλαθέσθαι</em> τοῦ ἔργου ὑμῶν καὶ τῆς ἀγάπης ἧς <strong>ἐνεδείξασθε</strong> εἰς τὸ ὄνομα αὐτοῦ , <em>διακονήσαντες</em> τοῖς ἁγίοις καὶ <em>διακονοῦντες .</em>【因為神並非不公義，竟忘記你們所做的工和你們為他名所顯的愛心，就是先前伺候聖徒，如今還是伺候。】 來 6:11 <strong>Ἐπιθυμοῦμεν</strong> δὲ ἕκαστον ὑμῶν τὴν αὐτὴν <em>ἐνδείκνυσθαι</em> σπουδὴν πρὸς τὴν πληροφορίαν τῆς ἐλπίδος ἄχρι τέλους ,【我們願你們各人都顯出這樣的殷勤，使你們有滿足的指望，一直到底。】 來 6:12 ἵνα μὴ νωθροὶ <strong>γένησθε ,</strong> μιμηταὶ δὲ τῶν διὰ πίστεως καὶ μακροθυμίας <em>κληρονομούντων</em> τὰς ἐπαγγελίας . ¶</br></br></br>【並且不懈怠，總要效法那些憑信心和忍耐承受應許的人。】 
 ## 重述 (Paraphrase)
 
 ## 大綱 (Outline)
