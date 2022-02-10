@@ -21,6 +21,7 @@ tags： #證道  #解經
 		- <rt>6:12b</rt> ...**γένησθε**... {<RUBY><ruby><ruby>μιμηταὶ<rt>imitators</rt></ruby><rt>μιμητής</rt></ruby><rt>N-NPM</rt></RUBY>}⦇ <RUBY><ruby><ruby>δὲ<rt>however</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> ⦈{<RUBY><ruby><ruby>τῶν<rt>of those</rt></ruby><rt>ὁ</rt></ruby><rt>T-GPM</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>through</rt></ruby><rt>διά</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>faith</rt></ruby><rt>πίστις</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>and</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μακροθυμίας<rt>patience</rt></ruby><rt>μακροθυμία</rt></ruby><rt>N-GSF</rt></RUBY>)a <RUBY><ruby><ruby><em>κληρονομούντων</em><rt>inheriting</rt></ruby><rt>κληρονομέω</rt></ruby><rt>V-PAP-GPM</rt></RUBY> (<RUBY><ruby><ruby>τὰς<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίας . ¶<rt>promises</rt></ruby><rt>ἐπαγγελία</rt></ruby><rt>N-APF</rt></RUBY>)c } 
 
 ## 解經 (Exegesis)
+
 - 我們雖是這樣說 ⇒ 怎樣說？
 	- 上文 Heb 6:4–8 「若是離棄道理 ... 結局就是焚燒」= 壞消息
 	- 因此這裡話鋒一轉 Heb 6:9「卻深信你們 ... 得救」= 好消息
@@ -31,11 +32,15 @@ tags： #證道  #解經
 	- (b) 還在吃奶 ⇒不能原地踏步！！
 	- (c) 長大成人 ⇒ 持守到底得著更美的救恩 😁
 - ═════════════════════════════
+- 分成兩段：
+	- (A) 6:9–10 我們確信 ...
+	- (B) 6:11–12 我們深願 ...
+- ═════════════════════════════
 - 6:9
 	- Πεπείσμεθα 完成式時態形式，表達狀態觀點，意思是「我們已經處於確信的狀態」
 	- τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας 
 		- κρείσσονα 是 ἀγαθός 的比較級 = 更好、更美、更良善
-		- κρείσσονα καὶ ἐχόμενα 共用同一個冠詞，代表這兩個概念 (更好 & 即將來臨) 緊密相關
+		- κρείσσονα καὶ ἐχόμενα 共用同一個冠詞，代表這兩個概念 (更好 & ) 緊密相關
 		- σωτηρίας 所有格修飾前面的 τὰ κρείσσονα καὶ ἐχόμενα
 		- 應該翻譯成「the better and coming things that has to do with salvation 那些更好更美、即將來臨、與救恩相關的事情」
 - 6:10
