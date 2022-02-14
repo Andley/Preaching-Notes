@@ -149,6 +149,9 @@ tags： #證道  #解經
 
 ## 小抄 (memo)
 
+![[images/WIN_20220213_08_53_23_Scan.jpg]]
+
+![[images/WIN_20220213_08_53_10_Scan.jpg]]
 
 
 ---
