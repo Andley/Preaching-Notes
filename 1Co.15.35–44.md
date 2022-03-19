@@ -4,7 +4,7 @@
 教會：安康循理會  
 tags： #證道  #解經  
 
-## 句法圖析 (Syntax Diagram)
+## 圖析 (Diagram)
 
 - <rt>15:35a</rt> <RUBY><ruby><ruby>Ἀλλὰ<rt>But</rt></ruby><rt>ἀλλά</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἐρεῖ</strong><rt>will say</rt></ruby><rt>ἔπω, ἐρῶ, εἶπον</rt></ruby><rt>V-FAI-3S</rt></RUBY> (<RUBY><ruby><ruby>τις ·<rt>someone</rt></ruby><rt>τις</rt></ruby><rt>X-NSM</rt></RUBY>)S 
 	- <rt>15:35b</rt> (<RUBY><ruby><ruby>Πῶς<rt>How</rt></ruby><rt>πως</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἐγείρονται</strong><rt>are raised</rt></ruby><rt>ἐγείρω</rt></ruby><rt>V-PPI-3P</rt></RUBY> (<RUBY><ruby><ruby>οἱ<rt>the</rt></ruby><rt>ὁ</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>νεκροί ;<rt>dead?</rt></ruby><rt>νεκρός</rt></ruby><rt>A-NPM</rt></RUBY>)S 
@@ -89,7 +89,6 @@ tags： #證道  #解經
 	- 腓3:21 他要按著那能叫萬有歸服自己的大能，將我們這卑賤的身體改變形狀，和他自己榮耀的身體相似。 
 	- 啟21:4 神要擦去他們一切的眼淚；不再有死亡，也不再有悲哀、哭號、疼痛，因為以前的事都過去了。 
 
-## 重述 (Paraphrase)
 
 ## 大綱 (Outline)
 - 開場：
@@ -109,16 +108,20 @@ tags： #證道  #解經
 			- 天上：日 ≠ 月 ≠ 星<sup>a</sup> ≠ 星<sup>b</sup>
 - <mark>(2) 復活是好的</mark> 
 	- 朽壞 → 不朽壞
-	- 羞辱 → 榮耀
 	- 軟弱 → 強壯
+	- 羞辱 → 榮耀
 	- 屬血氣、屬地、屬土 → 屬靈性、屬天
 	- 都是『罪』的緣故！！
-- (3) 復活
-	- 所以我不能放縱 (15:32–33)
-	- 所以我要服事 (15:58)
+- <mark>(3) 結論：復活跟我有什麼關係？</mark>
+	- 因為復活，所以：我不害怕死亡
+		- 沒有死，就沒有復活 — 我不怕死，我只是怕痛 :)
+		- 死會被得勝吞滅 (連死都要死)！
+	- 因為復活，所以：我不能放縱 (15:32–33)
+	-  因為復活，所以：我要好好服事 (15:58)
+
+
 ## 小抄 (memo)
 
-## 手稿 (Manuscript) 
 
 
 ---
