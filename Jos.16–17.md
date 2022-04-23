@@ -6,13 +6,11 @@ tags： #證道  #解經
 
 ## 解經 (Exegesis)
 
-## 重述 (Paraphrase)
 
 ## 大綱 (Outline)
 
 ## 小抄 (memo)
 
-## 手稿 (Manuscript) 
 
 
 ---
