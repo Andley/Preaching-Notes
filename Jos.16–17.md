@@ -6,8 +6,11 @@ tags： #證道  #解經
 
 ## 大綱 (Outline)
 - 0) 開場
-	- 聖經歷史 ⇒ 約書亞記結構
-
+	- 0a) 聖經歷史
+		- ![[images/Pasted image 20220423150504.png]]
+	- 0b) 約書亞記結構
+		- ![[images/Pasted image 20220423150630.png]]
+	- 77
 ## 小抄 (memo)
 
 ## 分組討論
