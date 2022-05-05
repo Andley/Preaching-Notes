@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+ruby {
+    display: inline-flex;
+    flex-direction: column-reverse ;
+    align-items: center;
+    font-size: 16px ; 
+    line-height: 16px ;
+    padding-bottom: 10px ;
+    font-family: "SBL BibLit", "Times New Roman";
+  }
+  rt {
+    font-size: 13px ; 
+    line-height: 13px ;
+    font-family: "Arial Narrow", "微軟正黑體", "Microsoft JhengHei";
+  }
+  ul ruby {
+    padding-bottom: 3px !important;
+  }
+  h1 {
+    color: #C00000;
+    text-align: center;
+    border-bottom: 4px double ;
+  }
+  h2 {
+    text-align: center;
+  }
+  strong {
+    color: red;
+  }
+  em {
+    color: blue;
+    font-weight:600;
+  }
+
+  html, body, p {
+    font-family: "SBL BibLit", "Times New Roman", "微軟正黑體", "Microsoft JhengHei";
+  }
+
+  /* text decoration for marking syntax functions */
+.S {text-decoration: underline double; text-underline-offset: 4px; }
+.P {text-decoration: underline wavy; text-underline-offset: 4px; }
+.C {text-decoration: underline solid; text-underline-offset: 4px; }
+.A {text-decoration: underline dotted; text-underline-offset: 4px; }
