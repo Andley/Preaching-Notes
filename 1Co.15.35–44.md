@@ -127,7 +127,7 @@ tags： #證道  #解經
 
 ## 小抄 (memo)
 
-
+![[images/2022_05_06 06_47 Office Lens.jpg]]
 
 ---
 [講道筆記↵](../README.md)
