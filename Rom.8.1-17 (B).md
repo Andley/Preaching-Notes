@@ -219,3 +219,6 @@ tags： #證道  #解經
 		- (2)They received the Spirit of adoption (8:15)
 		- (3)The Spirit witnesses to their status (8:16–17)
 
+
+---
+[講道筆記↵](README.md)

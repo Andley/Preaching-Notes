@@ -88,4 +88,4 @@ tags： #證道  #解經
 
 
 ---
-[講道筆記↵](../README.md)
+[README](README.md)

@@ -154,4 +154,4 @@ tags： #證道  #解經
 
 ---
 
-[[README]]
+[README](README.md)

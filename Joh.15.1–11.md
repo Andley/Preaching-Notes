@@ -189,3 +189,8 @@ tags： #證道  #解經
 	- d. Jesus appointed his friends to produce permanent fruit (v. 16)
 
 source: Harris, Murray J. _John_. EGGNT. Edited by Andreas J. Köstenberger and Robert W. Yarbrough. Nashville, TN.: B & H Academic, 2015.
+
+
+
+---
+[講道筆記↵](README.md)
