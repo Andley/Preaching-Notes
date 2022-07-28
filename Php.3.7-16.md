@@ -7,12 +7,10 @@ tags： #證道  #解經
 
 ## 圖析 (Diagram)
 - <rt>3:7a</rt> <RUBY><ruby><ruby>Ἀλλὰ<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἅτινα<rt>ὅστις</rt></ruby><rt>whatever things</rt></ruby><rt>R-NPN</rt></RUBY>)S <RUBY><ruby><ruby><strong>ἦν</strong><rt>εἰμί</rt></ruby><rt>were</rt></ruby><rt>V-IAI-3S</rt></RUBY> (<RUBY><ruby><ruby>μοι<rt>ἐγώ</rt></ruby><rt>to me</rt></ruby><rt>P-1DS</rt></RUBY>)A (<RUBY><ruby><ruby>κέρδη,<rt>κέρδος</rt></ruby><rt>gain</rt></ruby><rt>N-NPN</rt></RUBY>)C 
-- <rt>3:7b</rt> (<RUBY><ruby><ruby>ταῦτα<rt>οὗτος</rt></ruby><rt>these</rt></ruby><rt>D-APN</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἥγημαι</strong><rt>ἡγέομαι</rt></ruby><rt>I have esteemed</rt></ruby><rt>V-RNI-1S</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY>)A (<RUBY><ruby><ruby>ζημίαν.<rt>ζημία</rt></ruby><rt>loss</rt></ruby><rt>N-ASF</rt></RUBY>)C
-
-腓 3:8 
-- <rt>3:8</rt>
-- <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μενοῦνγε<rt>μενοῦνγε</rt></ruby><rt>- therefore indeed</rt></ruby><rt>PRT</rt></RUBY>
-- <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἡγοῦμαι</strong><rt>ἡγέομαι</rt></ruby><rt>I count</rt></ruby><rt>V-PNI-1S</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>all things</rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby>ζημίαν<rt>ζημία</rt></ruby><rt>loss</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby><em>εἶναι</em><rt>εἰμί</rt></ruby><rt>to be</rt></ruby><rt>V-PAN</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><em>ὑπερέχον</em><rt>ὑπερέχω</rt></ruby><rt>excelling</rt></ruby><rt>V-PAP-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>γνώσεως<rt>γνῶσις</rt></ruby><rt>knowledge</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὃν<rt>ὅς</rt></ruby><rt>whom</rt></ruby><rt>R-ASM</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>all things</rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby><strong>ἐζημιώθην,</strong><rt>ζημιόω</rt></ruby><rt>I have lost</rt></ruby><rt>V-API-1S</rt></RUBY>
+- <rt>3:7b</rt> (<RUBY><ruby><ruby>ταῦτα<rt>οὗτος</rt></ruby><rt>these</rt></ruby><rt>D-APN</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἥγημαι</strong><rt>ἡγέομαι</rt></ruby><rt>I have esteemed</rt></ruby><rt>V-RNI-1S</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY>)A +(<RUBY><ruby><ruby>ζημίαν.<rt>ζημία</rt></ruby><rt>loss</rt></ruby><rt>N-ASF</rt></RUBY>)C
+- ⋯⋯⋯⋯⋯⋯⋯
+- <rt>3:8a</rt> (<RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>But</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μενοῦνγε<rt>μενοῦνγε</rt></ruby><rt>- therefore indeed</rt></ruby><rt>PRT</rt></RUBY>) (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ἡγοῦμαι</strong><rt>ἡγέομαι</rt></ruby><rt>I count</rt></ruby><rt>V-PNI-1S</rt></RUBY> ( ‹<RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>all things</rt></ruby><rt>A-APN</rt></RUBY>›s ‹<RUBY><ruby><ruby>ζημίαν<rt>ζημία</rt></ruby><rt>loss</rt></ruby><rt>N-ASF</rt></RUBY>›c <RUBY><ruby><ruby><em>εἶναι</em><rt>εἰμί</rt></ruby><rt>to be</rt></ruby><rt>V-PAN</rt></RUBY>)C
+	- <rt>3:8b</rt> <RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><em>ὑπερέχον</em><rt>ὑπερέχω</rt></ruby><rt>excelling</rt></ruby><rt>V-PAP-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>γνώσεως<rt>γνῶσις</rt></ruby><rt>knowledge</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>μου,<rt>ἐγώ</rt></ruby><rt>of me</rt></ruby><rt>P-1GS</rt></RUBY> <RUBY><ruby><ruby>δι᾽<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὃν<rt>ὅς</rt></ruby><rt>whom</rt></ruby><rt>R-ASM</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>all things</rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby><strong>ἐζημιώθην,</strong><rt>ζημιόω</rt></ruby><rt>I have lost</rt></ruby><rt>V-API-1S</rt></RUBY>
 - <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>ἡγοῦμαι</strong><rt>ἡγέομαι</rt></ruby><rt>esteem [them]</rt></ruby><rt>V-PNI-1S</rt></RUBY> <RUBY><ruby><ruby>σκύβαλα,<rt>σκύβαλον</rt></ruby><rt>rubbish</rt></ruby><rt>N-APN</rt></RUBY>
 - <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY> <RUBY><ruby><ruby><strong>κερδήσω</strong><rt>κερδαίνω</rt></ruby><rt>I may gain</rt></ruby><rt>V-AAS-1S</rt></RUBY>
 
@@ -59,14 +57,29 @@ tags： #證道  #解經
 
 
 ## 解經 (Exegesis)
-- 3:7
-	- κέρδος : _利益、利潤；賺到了_ (BAGD)
-		- Php 3:4-6 過去那些自以為是「賺到了」的東西
-			- 都是「靠肉體」(Php 3:4)
-				- 四樣靠爸爸：第八天受割禮、以色列族、便雅憫支派、希伯來人所生的希伯來人
-				- 三樣靠就律法說、我是法利賽 (Phil. 3:5 CU5)
-	- ζημία : in our lit. only having to do with suffering the loss of someth., with implication of sustaining hardship or suffering, _damage, disadvantage, loss, forfeit 損害，傷害，損失，喪失_ (BDAG)
+- 3:7a
+	- ἅτινα = 過去那些自以為是「賺到了」的東西
+		- 都是「靠肉體」(Php 3:4)
+			- 四樣靠爸爸 (先天)：
+				- 第八天受割禮
+				- 以色列族
+				- 便雅憫支派
+				- 希伯來人所生的希伯來人
+			- 三樣靠自己 (後天)：
+				- κατά 律法：法利賽人
+				- κατά 熱心：逼迫教會
+				- κατά 律法上的義：無可指摘
+	- κέρδος = _利益、利潤；賺到了_ (BAGD)
+- 3:7b
+	- ταῦτα = 3:7a 七樣靠肉體
+	- ζημία = in our lit. only having to do with suffering the loss of someth., with implication of sustaining hardship or suffering, _damage, disadvantage, loss, forfeit 損害，傷害，損失，喪失_ (BDAG)
 		- 有損 = 「失去基督」所帶來的痛苦
+	- **ἥγημαι** 眼光改變，是 διὰ τὸν Χριστὸν 因為基督
+- ⋯⋯⋯⋯⋯⋯⋯
+- 3:8a
+	- ἀλλὰ μενοῦνγε = 不但如此 ⇒ 推進論點！
+		- 從3:7b 的七樣 ⇒ 3:8a 的萬有 (πάντα = 受造之物)
+	- 
 
 
 
