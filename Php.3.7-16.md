@@ -39,11 +39,11 @@ tags： #證道  #解經
 - ——————————————
 - <rt>3:13a</rt> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>Brothers</rt></ruby><rt>N-VPM</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S ( ‹<RUBY><ruby><ruby>ἐμαυτὸν<rt>ἐμαυτοῦ</rt></ruby><rt>myself</rt></ruby><rt>F-1ASM</rt></RUBY>›s )⦇ <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>λογίζομαι</strong><rt>λογίζομαι</rt></ruby><rt>do consider</rt></ruby><rt>V-PNI-1S</rt></RUBY> ⦈(<RUBY><ruby><ruby><em>κατειληφέναι·</em><rt>καταλαμβάνω</rt></ruby><rt>to have taken hold [of it]</rt></ruby><rt>V-RAN</rt></RUBY>)C
 - <rt>3:13b</rt> (<RUBY><ruby><ruby>ἓν<rt>εἷς</rt></ruby><rt>One thing</rt></ruby><rt>A-ASN</rt></RUBY>)C <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> ...<strong>λογίζομαι</strong>...
-	- ⋯⋯⋯⋯⋯⋯⋯
-		- <rt>3:13c</rt> ⸉<RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY>⸊ (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>The things</rt></ruby><rt>T-APN</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ὀπίσω<rt>ὀπίσω</rt></ruby><rt>behind</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἐπιλανθανόμενος</em><rt>ἐπιλανθάνω</rt></ruby><rt>forgetting</rt></ruby><rt>V-PNP-NSM</rt></RUBY> )A°⁵⮧
-		- <rt>3:13d</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊ (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>to the things</rt></ruby><rt>T-DPN</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ἔμπροσθεν<rt>ἔμπροσθεν</rt></ruby><rt>ahead</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἐπεκτεινόμενος,</em><rt>ἐπεκτείνομαι</rt></ruby><rt>reaching forward</rt></ruby><rt>V-PNP-NSM</rt></RUBY>)A°⁵⮧
-	- <rt>3:14a</rt> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>toward</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σκοπὸν<rt>σκοπός</rt></ruby><rt>[the] goal</rt></ruby><rt>N-ASM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>διώκω°⁵</strong></mark><rt>διώκω</rt></ruby><rt>I press on</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>βραβεῖον<rt>βραβεῖον</rt></ruby><rt>prize</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἄνω<rt>ἄνω</rt></ruby><rt>upward</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark>κλήσεως°⁶</mark><rt>κλῆσις</rt></ruby><rt>calling</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)A
-		- (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>)°⁶⮥
+- ⋯⋯⋯⋯⋯⋯⋯
+	- <rt>3:13c</rt> ⸉<RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY>⸊ (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>The things</rt></ruby><rt>T-APN</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ὀπίσω<rt>ὀπίσω</rt></ruby><rt>behind</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἐπιλανθανόμενος</em><rt>ἐπιλανθάνω</rt></ruby><rt>forgetting</rt></ruby><rt>V-PNP-NSM</rt></RUBY> )A°⁵⮧
+	- <rt>3:13d</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊ (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>to the things</rt></ruby><rt>T-DPN</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ἔμπροσθεν<rt>ἔμπροσθεν</rt></ruby><rt>ahead</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἐπεκτεινόμενος,</em><rt>ἐπεκτείνομαι</rt></ruby><rt>reaching forward</rt></ruby><rt>V-PNP-NSM</rt></RUBY>)A°⁵⮧
+- <rt>3:14a</rt> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>toward</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σκοπὸν<rt>σκοπός</rt></ruby><rt>[the] goal</rt></ruby><rt>N-ASM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>διώκω°⁵</strong></mark><rt>διώκω</rt></ruby><rt>I press on</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>βραβεῖον<rt>βραβεῖον</rt></ruby><rt>prize</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἄνω<rt>ἄνω</rt></ruby><rt>upward</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark>κλήσεως°⁶</mark><rt>κλῆσις</rt></ruby><rt>calling</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)A
+	- (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστῷ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-DSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-DSM-P</rt></RUBY>)°⁶⮥
 - ——————————————
 - <rt>3:15a</rt> ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY>⸊ 
 	- <rt>3:15b</rt> (<RUBY><ruby><ruby>Ὅσοι<rt>ὅσος</rt></ruby><rt>As many as</rt></ruby><rt>K-NPM</rt></RUBY>)S   ⸉⸊ (<RUBY><ruby><ruby>τέλειοι,<rt>τέλειος</rt></ruby><rt>[are] mature</rt></ruby><rt>A-NPM</rt></RUBY>)C 
@@ -93,7 +93,10 @@ tags： #證道  #解經
 
 
 ## 大綱 (Outline)
-
+- (1) 得著基督 (Php 3:7-11)
+	- 有捨才有得，有賠才有賺 (Phi 3:7-8d)
+	- 得著耶穌，賺到基督 (Phi 3:8e-11)
+- (2) 竭力追求 (Php 3:12-16)
 
 
 ## 小抄 (memo)
