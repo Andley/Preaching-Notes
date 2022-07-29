@@ -48,13 +48,12 @@ tags： #證道  #解經
 - <rt>3:15a</rt> ⸉<RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>therefore</rt></ruby><rt>CONJ</rt></RUBY>⸊ 
 	- <rt>3:15b</rt> (<RUBY><ruby><ruby>Ὅσοι<rt>ὅσος</rt></ruby><rt>As many as</rt></ruby><rt>K-NPM</rt></RUBY>)S   ⸉⸊ (<RUBY><ruby><ruby>τέλειοι,<rt>τέλειος</rt></ruby><rt>[are] mature</rt></ruby><rt>A-NPM</rt></RUBY>)C 
 - <rt>3:15c</rt> (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)C <RUBY><ruby><ruby><strong>φρονῶμεν·</strong><rt>φρονέω</rt></ruby><rt>should be of mind</rt></ruby><rt>V-PAS-1P</rt></RUBY>
+- ⋯⋯⋯⋯⋯⋯⋯
 - <rt>3:15d</rt><RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>3:15e</rt> <RUBY><ruby><ruby>εἴ<rt>εἰ</rt></ruby><rt>if [in]</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τι<rt>τις</rt></ruby><rt>anything</rt></ruby><rt>X-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>ἑτέρως<rt>ἑτέρως</rt></ruby><rt>differently</rt></ruby><rt>ADV</rt></RUBY>)A <RUBY><ruby><ruby><strong>φρονεῖτε,</strong><rt>φρονέω</rt></ruby><rt>you are minded</rt></ruby><rt>V-PAI-2P</rt></RUBY>
-- <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby><strong>ἀποκαλύψει·</strong><rt>ἀποκαλύπτω</rt></ruby><rt>will reveal</rt></ruby><rt>V-FAI-3S</rt></RUBY>
-
-腓 3:16 
-- <rt>3:16</rt>
-- <RUBY><ruby><ruby>πλὴν<rt>πλήν</rt></ruby><rt>Nevertheless</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that which</rt></ruby><rt>R-ASN</rt></RUBY> <RUBY><ruby><ruby><strong>ἐφθάσαμεν,</strong><rt>φθάνω</rt></ruby><rt>we have attained</rt></ruby><rt>V-AAI-1P</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>by the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>same</rt></ruby><rt>P-DSN</rt></RUBY> <RUBY><ruby><ruby><em>στοιχεῖν.¶</em><rt>στοιχέω</rt></ruby><rt>to walk</rt></ruby><rt>V-PAN</rt></RUBY></br></br></br>
+- <rt>3:15f</rt> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἀποκαλύψει·</strong><rt>ἀποκαλύπτω</rt></ruby><rt>will reveal</rt></ruby><rt>V-FAI-3S</rt></RUBY>
+- ⋯⋯⋯⋯⋯⋯⋯
+- <rt>3:16a</rt> <RUBY><ruby><ruby>πλὴν<rt>πλήν</rt></ruby><rt>Nevertheless</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that which</rt></ruby><rt>R-ASN</rt></RUBY> <RUBY><ruby><ruby><strong>ἐφθάσαμεν,</strong><rt>φθάνω</rt></ruby><rt>we have attained</rt></ruby><rt>V-AAI-1P</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>by the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>same</rt></ruby><rt>P-DSN</rt></RUBY> <RUBY><ruby><ruby><em>στοιχεῖν.¶</em><rt>στοιχέω</rt></ruby><rt>to walk</rt></ruby><rt>V-PAN</rt></RUBY>
 
 
 
