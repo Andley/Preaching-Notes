@@ -105,6 +105,8 @@ tags： #證道  #解經
 
 ## 小抄 (memo)
 
+![[images/2022_07_31 06_29 Office Lens.jpg|300x310]]
+![[images/2022_07_31 06_31 Office Lens.jpg|300x310]]
 
 ---
 [README](README.md)
