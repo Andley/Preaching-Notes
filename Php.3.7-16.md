@@ -36,10 +36,9 @@ tags： #證道  #解經
 - <rt>3:12d</rt><RUBY><ruby><ruby><strong>διώκω</strong><rt>διώκω</rt></ruby><rt>I am pursuing</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> 
 	- <rt>3:12e </rt><RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>καταλάβω,</strong><rt>καταλαμβάνω</rt></ruby><rt>I may lay hold</rt></ruby><rt>V-AAS-1S</rt></RUBY> 
 	- <rt>3:12f</rt> (<RUBY><ruby><ruby>ἐφ᾽<rt>ἐπί</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ<rt>ὅς</rt></ruby><rt>that for which</rt></ruby><rt>R-DSN</rt></RUBY>) (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>κατελήμφθην</strong><rt>καταλαμβάνω</rt></ruby><rt>I was laid hold of</rt></ruby><rt>V-API-1S</rt></RUBY> (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ.<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY>)A
-- ——————————————
 - <rt>3:13a</rt> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>Brothers</rt></ruby><rt>N-VPM</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S ( ‹<RUBY><ruby><ruby>ἐμαυτὸν<rt>ἐμαυτοῦ</rt></ruby><rt>myself</rt></ruby><rt>F-1ASM</rt></RUBY>›s )⦇ <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>λογίζομαι</strong><rt>λογίζομαι</rt></ruby><rt>do consider</rt></ruby><rt>V-PNI-1S</rt></RUBY> ⦈(<RUBY><ruby><ruby><em>κατειληφέναι·</em><rt>καταλαμβάνω</rt></ruby><rt>to have taken hold [of it]</rt></ruby><rt>V-RAN</rt></RUBY>)C
+- ——————————————
 - <rt>3:13b</rt> (<RUBY><ruby><ruby>ἓν<rt>εἷς</rt></ruby><rt>One thing</rt></ruby><rt>A-ASN</rt></RUBY>)C <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> ...<strong>λογίζομαι</strong>...
-- ⋯⋯⋯⋯⋯⋯⋯
 	- <rt>3:13c</rt> ⸉<RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY>⸊ (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>The things</rt></ruby><rt>T-APN</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ὀπίσω<rt>ὀπίσω</rt></ruby><rt>behind</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἐπιλανθανόμενος</em><rt>ἐπιλανθάνω</rt></ruby><rt>forgetting</rt></ruby><rt>V-PNP-NSM</rt></RUBY> )A°⁵⮧
 	- <rt>3:13d</rt> ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>⸊ (<RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>to the things</rt></ruby><rt>T-DPN</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ἔμπροσθεν<rt>ἔμπροσθεν</rt></ruby><rt>ahead</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><em>ἐπεκτεινόμενος,</em><rt>ἐπεκτείνομαι</rt></ruby><rt>reaching forward</rt></ruby><rt>V-PNP-NSM</rt></RUBY>)A°⁵⮧
 - <rt>3:14a</rt> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>toward</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σκοπὸν<rt>σκοπός</rt></ruby><rt>[the] goal</rt></ruby><rt>N-ASM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>διώκω°⁵</strong></mark><rt>διώκω</rt></ruby><rt>I press on</rt></ruby><rt>V-PAI-1S</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>βραβεῖον<rt>βραβεῖον</rt></ruby><rt>prize</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἄνω<rt>ἄνω</rt></ruby><rt>upward</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby><mark>κλήσεως°⁶</mark><rt>κλῆσις</rt></ruby><rt>calling</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)A
@@ -94,6 +93,7 @@ tags： #證道  #解經
 
 ## 大綱 (Outline)
 - (1) <mark>得著基督</mark> (Php 3:7-11)
+	- 開場：保羅報明牌，包你發大財 😀
 	- (1a) **有捨才有得，有賠才有賺** (Phi 3:7-8d)
 		- 先前、賺錢：七樣 (3:5 四樣靠爸爸 + 3:6 三樣靠自己)——都是靠肉體(3:4)！
 		- 現在、賠錢！——都因為基督 (3:7)、因為『至寶』 (3:8)！
@@ -113,7 +113,9 @@ tags： #證道  #解經
 				- 👉被老婆罵、買包子、有人送紅包
 - ═════════════════════
 - (2) <mark>竭力追求</mark> (Php 3:12-16)
-	- 
+	- (2a) **還沒得著，才會追求** (Php 3:12-13a)
+		- 林前 10:12 所以，自己以為站得穩的，須要謹慎，免得跌倒。
+	- (2b) **竭力追求，才能得著** (Php 3:13b-14)
 
 
 ## 小抄 (memo)
