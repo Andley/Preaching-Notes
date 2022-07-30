@@ -19,10 +19,10 @@ tags： #證道  #解經
 			- <rt>3:8e</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM-T</rt></RUBY> <RUBY><ruby><ruby><strong>κερδήσω</strong><rt>κερδαίνω</rt></ruby><rt>I may gain</rt></ruby><rt>V-AAS-1S</rt></RUBY>
 			- ⋯⋯ἵνα 帶出第二個假設語氣動詞
 			- <rt>3:9a</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark><strong>εὑρεθῶ°³</strong></mark><rt>εὑρίσκω</rt></ruby><rt>be found</rt></ruby><rt>V-APS-1S</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ,<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A 
-				- <rt>3:9b</rt> {<RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><em>ἔχων</em><rt>ἔχω</rt></ruby><rt>having</rt></ruby><rt>V-PAP-NSM</rt></RUBY> (<RUBY><ruby><ruby>ἐμὴν<rt>ἐμός</rt></ruby><rt>my own</rt></ruby><rt>S-1SASF</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνην<rt>δικαιοσύνη</rt></ruby><rt>righteousness</rt></ruby><rt>N-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>which [is]</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νόμου<rt>νόμος</rt></ruby><rt>[the] Law</rt></ruby><rt>N-GSM</rt></RUBY>›)c }A°³⮥
-				- <rt>3:9c</rt> {<RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> ( ...δικαιοσύνην... ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>that</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ,<rt>Χριστός</rt></ruby><rt>from Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>› =‹<rt>3:9d</rt>›)c }A°³⮥
-					- <rt>3:9d</rt> ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνην<rt>δικαιοσύνη</rt></ruby><rt>righteousness</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>on the basis of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>πίστει,<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-DSF</rt></RUBY>›
-				- <rt>3:10a</rt> {<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby><em>γνῶναι</em><rt>γινώσκω</rt></ruby><rt>to know</rt></ruby><rt>V-AAN</rt></RUBY> <rt>3:10b</rt> <rt>3:10c</rt> <rt>3:10d</rt> }A°³⮥
+				- <rt>3:9b</rt> (<RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><em>ἔχων</em><rt>ἔχω</rt></ruby><rt>having</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐμὴν<rt>ἐμός</rt></ruby><rt>my own</rt></ruby><rt>S-1SASF</rt></RUBY> <RUBY><ruby><ruby>δικαιοσύνην<rt>δικαιοσύνη</rt></ruby><rt>righteousness</rt></ruby><rt>N-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>which [is]</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>νόμου<rt>νόμος</rt></ruby><rt>[the] Law</rt></ruby><rt>N-GSM</rt></RUBY>›)A°³⮥
+				- <rt>3:9c</rt> {<RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> ...<em>ἔχων</em> δικαιοσύνην... ‹<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>that</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ,<rt>Χριστός</rt></ruby><rt>from Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>› =‹<rt>3:9d</rt>›}A°³⮥
+					- <rt>3:9d</rt> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-GSM</rt></RUBY>› <RUBY><ruby><ruby>δικαιοσύνην<rt>δικαιοσύνη</rt></ruby><rt>righteousness</rt></ruby><rt>N-ASF</rt></RUBY> ‹<RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>on the basis of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>πίστει,<rt>πίστις</rt></ruby><rt>faith</rt></ruby><rt>N-DSF</rt></RUBY>›
+				- <rt>3:10a</rt> {<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby><em>γνῶναι</em><rt>γινώσκω</rt></ruby><rt>to know</rt></ruby><rt>V-AAN</rt></RUBY> ‹<rt>3:10b</rt>› ‹<rt>3:10c</rt>› ‹<rt>3:10d</rt>› }A°³⮥
 					- <rt>3:10b</rt> <RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-ASM</rt></RUBY>  
 					- <rt>3:10c</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>δύναμιν<rt>δύναμις</rt></ruby><rt>power</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>ἀναστάσεως<rt>ἀνάστασις</rt></ruby><rt>resurrection</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY>
 					- <rt>3:10d</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>κοινωνίαν<rt>κοινωνία</rt></ruby><rt>fellowship</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>παθημάτων<rt>πάθημα</rt></ruby><rt>sufferings</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ,<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY> 
@@ -98,18 +98,20 @@ tags： #證道  #解經
 		- 先前、賺錢：七樣 (3:5 四樣靠爸爸 + 3:6 三樣靠自己)——都是靠肉體(3:4)！
 		- 現在、賠錢！——都因為基督 (3:7)、因為『至寶』 (3:8)！
 		- 不是那些東西不好，而是跟『至寶』比起來，都是糞土 
-			- ∵ 轉移了我們的焦點 😟⇒ 人是有限的 (時間、心力)
-			- ∵ 會攔阻了我們的追求😟 ⇒ 魚與熊掌不可兼得
+			- ∵ 轉移了我們的焦點 😢⇒ 人是有限的 (時間、心力)
+			- ∵ 會攔阻了我們的追求😢 ⇒ 魚與熊掌不可兼得
 		- *關鍵：眼光要改變——不要讓次好的取代了上好的！*
 			- 太16:26 人若賺得全世界，賠上自己的生命，有甚麼益處呢？人還能拿甚麼換生命呢？
 	- (1b) **得著耶穌，賺到基督** (Phi 3:8e-11)
-		- 不要本末倒置：要永生 or 要基督？要禮物 or 要爸爸？要獎賞 or 要賞賜的上帝？
-		- *途徑：要住在耶穌裡面！* 
-			- 不是靠自己、靠行為
-			- 而是靠信心
+		- 不要本末倒置：
+			- 要永生 or 要基督？要獎賞 or 要賞賜的上帝？
+				- 👉要禮物 or 要爸爸？女兒 vs 兒子要買玩具
+		- *途徑：要住在耶穌裡面 ⇒認識基督！* 
+			- 反 (不是靠自己、靠行為) + 正 (是靠信心)
+				- 👉讀經、禱告、敬拜、參與教會 etc.
 			- 效法基督的死，經驗基督的復活
-				- 📢讀經、禱告、敬拜、參與教會 etc.
-				- 📢跟老婆
+				- 👉被老婆罵、買包子、有人送紅包
+- ═════════════════════
 - (2) <mark>竭力追求</mark> (Php 3:12-16)
 	- 
 
