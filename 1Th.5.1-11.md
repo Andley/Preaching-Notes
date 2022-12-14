@@ -15,25 +15,24 @@ tags： #證道  #解經
 	- <rt>5:3b</rt> (<RUBY><ruby><ruby>τότε<rt>τότε</rt></ruby><rt>then</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>αἰφνίδιος<rt>αἰφνίδιος</rt></ruby><rt>suddenly</rt></ruby><rt>A-NSM</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτοῖς<rt>αὐτός</rt></ruby><rt>upon them</rt></ruby><rt>P-DPM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ἐφίσταται°¹</strong></mark><rt>ἐφίστημι</rt></ruby><rt>comes</rt></ruby><rt>V-PMI-3S</rt></RUBY> (<RUBY><ruby><ruby>ὄλεθρος<rt>ὄλεθρος</rt></ruby><rt>destruction</rt></ruby><rt>N-NSM</rt></RUBY>)S
 		- <rt>5:3c</rt> { <RUBY><ruby><ruby>ὥσπερ<rt>ὥσπερ</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ὠδὶν<rt>ὠδίν</rt></ruby><rt>labor pains</rt></ruby><rt>N-NSF</rt></RUBY>)S ...**ἐστίν**...(<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>to her</rt></ruby><rt>T-DSF</rt></RUBY> ‹<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>γαστρὶ<rt>γαστήρ</rt></ruby><rt>womb</rt></ruby><rt>N-DSF</rt></RUBY> ›a <RUBY><ruby><ruby><em>ἐχούσῃ,</em><rt>ἔχω</rt></ruby><rt>having</rt></ruby><rt>V-PAP-DSF</rt></RUBY>)C }A°¹⮥
 	- <rt>5:3d</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>no</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἐκφύγωσιν.</strong><rt>ἐκφεύγω</rt></ruby><rt>shall they escape</rt></ruby><rt>V-AAS-3P</rt></RUBY> 
-	- ———————— switch to 2P
+	- ———————— 因為身分 (BEING) 不同
 	- <rt>5:4a</rt> (<RUBY><ruby><ruby>Ὑμεῖς<rt>σύ</rt></ruby><rt>You</rt></ruby><rt>P-2NP</rt></RUBY>)S <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἐστὲ</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2P</rt></RUBY> (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σκότει,<rt>σκότος</rt></ruby><rt>darkness</rt></ruby><rt>N-DSN</rt></RUBY>)A
 		- <rt>5:4b</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡμέρα<rt>ἡμέρα</rt></ruby><rt>day</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)C (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>like</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>κλέπτης<rt>κλέπτης</rt></ruby><rt>a thief</rt></ruby><rt>N-NSM</rt></RUBY>)A <RUBY><ruby><ruby><strong>καταλάβῃ·</strong><rt>καταλαμβάνω</rt></ruby><rt>should overtake</rt></ruby><rt>V-AAS-3S</rt></RUBY> 
 	- <rt>5:5a</rt> (<RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>All</rt></ruby><rt>A-NPM</rt></RUBY>)⦇<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)S (<RUBY><ruby><ruby>υἱοὶ<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>φωτός<rt>φῶς</rt></ruby><rt>of light</rt></ruby><rt>N-GSN</rt></RUBY>)C <RUBY><ruby><ruby><strong>ἐστε</strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-2P</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>υἱοὶ<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>ἡμέρας.<rt>ἡμέρα</rt></ruby><rt>of day</rt></ruby><rt>N-GSF</rt></RUBY>)C 
-	- ———————— switch to 1P
+	- ———————— 所以行為 (DOING) 不同
 	- <rt>5:5b</rt> <RUBY><ruby><ruby>Οὐκ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἐσμὲν</strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY> (<RUBY><ruby><ruby>νυκτὸς<rt>νύξ</rt></ruby><rt>of night</rt></ruby><rt>N-GSF</rt></RUBY>)C <RUBY><ruby><ruby>οὐδὲ<rt>οὐδέ</rt></ruby><rt>nor</rt></ruby><rt>CONJ-N</rt></RUBY> (<RUBY><ruby><ruby>σκότους·<rt>σκότος</rt></ruby><rt>of darkness</rt></ruby><rt>N-GSN</rt></RUBY>)C
 	- <rt>5:6a</rt> <RUBY><ruby><ruby>ἄρα<rt>ἄρα</rt></ruby><rt>So</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὖν<rt>οὖν</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>καθεύδωμεν</strong><rt>καθεύδω</rt></ruby><rt>we should sleep</rt></ruby><rt>V-PAS-1P</rt></RUBY> (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby>λοιποί<rt>λοιπός</rt></ruby><rt>others</rt></ruby><rt>A-NPM</rt></RUBY>)A
 	- <rt>5:6b</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>γρηγορῶμεν</strong><rt>γρηγορέω</rt></ruby><rt>we should watch</rt></ruby><rt>V-PAS-1P</rt></RUBY>
 	- <rt>5:6c</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>νήφωμεν.</strong><rt>νήφω</rt></ruby><rt>we should be sober</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
-	- ———————— switch to 3P
+	- ⋯⋯⋯⋯⋯⋯⋯行為 (DOING) 的對比：他們
 	- <rt>5:7a</rt> (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>Those</rt></ruby><rt>T-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby><em>καθεύδοντες</em><rt>καθεύδω</rt></ruby><rt>sleeping</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>νυκτὸς<rt>νύξ</rt></ruby><rt>by night</rt></ruby><rt>N-GSF</rt></RUBY>)A <RUBY><ruby><ruby><strong>καθεύδουσιν</strong><rt>καθεύδω</rt></ruby><rt>sleep</rt></ruby><rt>V-PAI-3P</rt></RUBY>
 	- <rt>5:7b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οἱ<rt>ὁ</rt></ruby><rt>those</rt></ruby><rt>T-NPM</rt></RUBY> <RUBY><ruby><ruby><em>μεθυσκόμενοι</em><rt>μεθύσκω</rt></ruby><rt>becoming drunk</rt></ruby><rt>V-PPP-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>νυκτὸς<rt>νύξ</rt></ruby><rt>by night</rt></ruby><rt>N-GSF</rt></RUBY>)A <RUBY><ruby><ruby><strong>μεθύουσιν·</strong><rt>μεθύω</rt></ruby><rt>get drunk</rt></ruby><rt>V-PAI-3P</rt></RUBY> 
-	- ———————— switch to 1P
+	- ⋯⋯⋯⋯⋯⋯⋯ 行為 (DOING) 的對比：我們
 	- <rt>5:8a</rt> (<RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>We</rt></ruby><rt>P-1NP</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> { (<RUBY><ruby><ruby>ἡμέρας<rt>ἡμέρα</rt></ruby><rt>of [the] day</rt></ruby><rt>N-GSF</rt></RUBY>)a <RUBY><ruby><ruby><em>ὄντες</em><rt>εἰμί</rt></ruby><rt>being</rt></ruby><rt>V-PAP-NPM</rt></RUBY> }A <RUBY><ruby><ruby><mark><strong>νήφωμεν°²</strong></mark><rt>νήφω</rt></ruby><rt>should be sober</rt></ruby><rt>V-PAS-1P</rt></RUBY> 
 		- <rt>5:8b</rt> { <RUBY><ruby><ruby><em>ἐνδυσάμενοι</em><rt>ἐνδύω</rt></ruby><rt>having put on</rt></ruby><rt>V-AMP-NPM</rt></RUBY> (<RUBY><ruby><ruby>θώρακα<rt>θώραξ</rt></ruby><rt>[the] breastplate</rt></ruby><rt>N-ASM</rt></RUBY> ‹ <RUBY><ruby><ruby>πίστεως<rt>πίστις</rt></ruby><rt>of faith</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀγάπης<rt>ἀγάπη</rt></ruby><rt>love</rt></ruby><rt>N-GSF</rt></RUBY> › )c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> ( ‹<RUBY><ruby><ruby>περικεφαλαίαν<rt>περικεφαλαία</rt></ruby><rt>[the] helmet</rt></ruby><rt>N-ASF</rt></RUBY> › +‹<RUBY><ruby><ruby>ἐλπίδα<rt>ἐλπίς</rt></ruby><rt>[the] hope</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας·<rt>σωτηρία</rt></ruby><rt>of salvation</rt></ruby><rt>N-GSF</rt></RUBY> › )c }A°²⮥
 		- <rt>5:9a</rt> <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>because</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><strong>ἔθετο</strong><rt>τίθημι</rt></ruby><rt>has destined</rt></ruby><rt>V-AMI-3S</rt></RUBY> (<RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY>)S (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεὸς<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὀργὴν<rt>ὀργή</rt></ruby><rt>wrath</rt></ruby><rt>N-ASF</rt></RUBY>)A
-		- <rt>5:9b</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>περιποίησιν<rt>περιποίησις</rt></ruby><rt>obtaining</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας<rt>σωτηρία</rt></ruby><rt>salvation</rt></ruby><rt>N-GSF</rt></RUBY>)A (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> › =<rt>5:10a</rt>)A
-			- <rt>5:10a</rt> ‹ <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the [One]</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><em>ἀποθανόντος</em><rt>ἀποθνήσκω</rt></ruby><rt>having died</rt></ruby><rt>V-AAP-GSM</rt></RUBY> <RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY> ›
-			- <rt>5:10b</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> <rt>5:10e</rt> 
+		- <rt>5:9b</rt> <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>περιποίησιν<rt>περιποίησις</rt></ruby><rt>obtaining</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>σωτηρίας<rt>σωτηρία</rt></ruby><rt>salvation</rt></ruby><rt>N-GSF</rt></RUBY>)A (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY> <RUBY><ruby><ruby>Ἰησοῦ<rt>Ἰησοῦς</rt></ruby><rt>Jesus</rt></ruby><rt>N-GSM-P</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM-T</rt></RUBY> › ‹<rt>5:10a</rt><RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the [One]</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby><em>ἀποθανόντος</em><rt>ἀποθνήσκω</rt></ruby><rt>having died</rt></ruby><rt>V-AAP-GSM</rt></RUBY> <RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν,<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1GP</rt></RUBY> › )A
+			- <rt>5:10b</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> 
 				- <rt>5:10c</rt> {<RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>whether</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>γρηγορῶμεν</strong><rt>γρηγορέω</rt></ruby><rt>we might watch</rt></ruby><rt>V-PAS-1P</rt></RUBY> }A°³⮧
 				- <rt>5:10d</rt> { <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>καθεύδωμεν</strong><rt>καθεύδω</rt></ruby><rt>we might sleep</rt></ruby><rt>V-PAS-1P</rt></RUBY> }A°³⮧
 				- <rt>5:10e</rt> <RUBY><ruby><ruby>ἅμα<rt>ἅμα</rt></ruby><rt>together</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ζήσωμεν.°³</strong></mark><rt>ζάω</rt></ruby><rt>we may live</rt></ruby><rt>V-AAS-1P</rt></RUBY> 
@@ -43,18 +42,7 @@ tags： #證道  #解經
 	- <rt>5:11c</rt> <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ποιεῖτε.¶</strong><rt>ποιέω</rt></ruby><rt>you are doing</rt></ruby><rt>V-PAI-2P</rt></RUBY>
 
 ## 解經 (Exegesis)
-- 結構：分成三段
-	- (1) 引言 (5:1-2a)
-		- 其實不需要我說——但我還是要說！😀
-		- 一反：不需要我寫
-		- 一正：因為你們自己知道的 ἀκριβῶς (很詳細、很仔細、很清楚)
-	- (2) 內容 (5:2b-10)
-		- (2a) 徹底的壞消息 (5:2b-3)
-			- 完全毀滅：眼見不能為憑😢
-			- 無法預料：沒辦法剖腹產😢
-			- 不能逃脫：天下之大，無處可逃，移民月球也沒用😢
-		- (2b) 徹底的好消息 (5:4-10)
-	- (3) 勸勉 (5:11)
+
 - ————————
 - 5:1 不需要我再寫 Περὶ τῶν χρόνων καὶ τῶν καιρῶν 複數
 	- 是在引用：Act 1:7 父憑着自己的權柄所定的時候、日期 (χρόνους ἢ καιροὺς 複數) ⇐ 復興以色列國！
@@ -68,11 +56,26 @@ tags： #證道  #解經
 
 ## 大綱 (Outline)
 
+- (1) 引言 (5:1-2a)
+	- 其實不需要我說——但我還是要說！😀
+	- 一反：不需要我寫
+	- 一正：因為你們自己知道的 ἀκριβῶς (很詳細、很仔細、很清楚)
+- (2) 內容 (5:2b-10)
+	- (2a) 徹底的壞消息 (5:2b-3)
+		- 完全毀滅：眼見不能為憑😢
+		- 無法預料：沒辦法剖腹產😢
+		- 不能逃脫：天下之大，無處可逃，移民月球也沒用😢
+	- (2b) 徹底的好消息 (5:4-10)
+		- 因為身分 (BEING) 不同 (5:5)：光明之子、白晝之子 
+		- 所以行為 (DOING) 不同 (5:6)：警醒 (γρηγορέω)、謹守 (νήφω) 
+- (3) 勸勉 (5:11)
+
 
 ## 小抄 (memo)
 
 
 ## 手稿 (Manuscript) 
+
 
 
 
