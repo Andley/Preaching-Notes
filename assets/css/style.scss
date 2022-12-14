@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 ruby {
     display: inline-flex;
     flex-direction: column-reverse ;
@@ -9,12 +10,10 @@ ruby {
     font-size: 16px ; 
     line-height: 16px ;
     padding-bottom: 10px ;
-    font-family: 'EB Garamond', 'Noto Sans TC', serif;
   }
   rt {
     font-size: 13px ; 
     line-height: 13px ;
-    font-family: 'Ubuntu Condensed', 'Noto Sans TC', sans-serif;
   }
   ul ruby {
     padding-bottom: 3px !important;
@@ -27,25 +26,84 @@ ruby {
   h2 {
     text-align: center;
   }
-  ruby strong {
-    color: red;
-  }
-  ruby em {
-    color: blue;
+h2, h3, h4, h5, h6 {
+    color:black;
+    margin-top: 10px;
+    margin-bottom: 0px;
   }
 
-  p, html, body {
-    font-family: 'EB Garamond','Noto Sans', 'Noto Sans TC',  sans-serif;
+strong {
+    color: red;
+    font-weight:700;
   }
+em {
+    color: blue;
+    font-weight:700;
+  }
+
+  p, html, body, ruby, rt, ul, ol {
+    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
+    color: black;
+  }
+
+  ul, ol, dl {
+    margin-bottom: 0px;
+}
+
+header {
+  padding: 20px 20px 20px 20px;
+}
+section {
+  margin-top: 120px;
+}
+
+ul li::marker {
+  content: '• ';
+}
+
+nav {
+  ul li::marker {
+    content: none;
+  }
+}
+  section {
+    width: 700px;
+  } 
 
   section.footnotes {
-    width: 85%;
+    width: 90%;
     margin-top: 30px;
   }
-  
+
+/* table */
+  table {
+    border-color: black;
+    width: auto;
+  }
+  th {
+    border-bottom: 4px double;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    border-left: 2px solid;
+    font-weight: 800;
+  }
+  td {
+    border: 1px solid;
+  }
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
 .P {text-decoration: underline wavy; text-underline-offset: 4px; }
 .C {text-decoration: underline solid; text-underline-offset: 4px; }
 .A {text-decoration: underline dotted; text-underline-offset: 4px; }
+
+
+/* BULLET POINT RELATIONSHIP LINES */
+ul ul { position: relative; }
+ul ul::before {
+ content:'';
+ border-left: 1px solid grey ;
+ position: absolute;
+}
+ul ul::before { left: -7px; top: 0; bottom: 0; 
+} 
