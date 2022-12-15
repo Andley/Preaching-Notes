@@ -35,7 +35,7 @@ tags： #證道  #解經
 			- <rt>5:10b</rt> <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> 
 				- <rt>5:10c</rt> {<RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>whether</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>γρηγορῶμεν</strong><rt>γρηγορέω</rt></ruby><rt>we might watch</rt></ruby><rt>V-PAS-1P</rt></RUBY> }A°³⮧
 				- <rt>5:10d</rt> { <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>καθεύδωμεν</strong><rt>καθεύδω</rt></ruby><rt>we might sleep</rt></ruby><rt>V-PAS-1P</rt></RUBY> }A°³⮧
-				- <rt>5:10e</rt> <RUBY><ruby><ruby>ἅμα<rt>ἅμα</rt></ruby><rt>together</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ζήσωμεν.°³</strong></mark><rt>ζάω</rt></ruby><rt>we may live</rt></ruby><rt>V-AAS-1P</rt></RUBY> 
+			- <rt>5:10e</rt> (<RUBY><ruby><ruby>ἅμα<rt>ἅμα</rt></ruby><rt>together</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ζήσωμεν.°³</strong></mark><rt>ζάω</rt></ruby><rt>we may live</rt></ruby><rt>V-AAS-1P</rt></RUBY> 
 - ═════════════
 - <rt>5:11a</rt> <RUBY><ruby><ruby>Διὸ<rt>διό</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>παρακαλεῖτε</strong><rt>παρακαλέω !</rt></ruby><rt>encourage</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἀλλήλους<rt>ἀλλήλων</rt></ruby><rt>one another</rt></ruby><rt>C-APM</rt></RUBY>)C
 - <rt>5:11b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>οἰκοδομεῖτε !</strong><rt>οἰκοδομέω</rt></ruby><rt>build up</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἕνα,<rt>εἷς</rt></ruby><rt>another</rt></ruby><rt>A-ASM</rt></RUBY>)C
@@ -67,8 +67,13 @@ tags： #證道  #解經
 		- 無法預料：沒辦法剖腹產😢
 		- 不能逃脫：天下之大，無處可逃，移民月球也沒用😢
 	- (2b) 徹底的好消息 (5:4-10)
-		- 因為身分 (BEING) 不同 (5:5)：光明之子、白晝之子 
-		- 所以行為 (DOING) 不同 (5:6)：警醒 (γρηγορέω)、謹守 (νήφω) 
+		- 因為身分 (BEING) 不同 (5:5)：
+			- 光明之子、白晝之子 
+		- 所以行為 (DOING) 不同 (5:6-7)：
+			- 消極面：不要睡覺
+			- 積極面：警醒 (γρηγορέω)、謹守 (νήφω) 
+				- 5:6b 警醒 (γρηγορέω) vs. 5:7a 睡覺 (καθεύδω)：關鍵不只在於「醒」，更重要的是「警」—— watchful 機警, to be in constant readiness 隨時都預備好
+				- 5:6c 謹守 (νήφω) vs. 5:7b 醉酒 (μεθύω)：sober 清醒，脫離一切心靈層面的 drunkenness (無度、情慾、輕率、混亂)
 - (3) 勸勉 (5:11)
 
 
