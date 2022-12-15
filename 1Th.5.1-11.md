@@ -41,6 +41,7 @@ tags： #證道  #解經
 - <rt>5:11b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>οἰκοδομεῖτε !</strong><rt>οἰκοδομέω</rt></ruby><rt>build up</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἕνα,<rt>εἷς</rt></ruby><rt>another</rt></ruby><rt>A-ASM</rt></RUBY>)C
 	- <rt>5:11c</rt> <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ποιεῖτε.¶</strong><rt>ποιέω</rt></ruby><rt>you are doing</rt></ruby><rt>V-PAI-2P</rt></RUBY>
 
+
 ## 解經 (Exegesis)
 
 - ————————
