@@ -2,6 +2,7 @@
 
 ## TO-DO
 - [ ] github pages theme -- Ruby ( )C 位置不對
+- [ ] img size align/size adjustment
 
 
 ## 2023
