@@ -39,7 +39,7 @@ tags： #證道  #解經
 				- <rt>5:10c</rt> {<RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>whether</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>γρηγορῶμεν</strong><rt>γρηγορέω</rt></ruby><rt>we might watch</rt></ruby><rt>V-PAS-1P</rt></RUBY> }A°³⮧
 				- <rt>5:10d</rt> { <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>καθεύδωμεν</strong><rt>καθεύδω</rt></ruby><rt>we might sleep</rt></ruby><rt>V-PAS-1P</rt></RUBY> }A°³⮧
 			- <rt>5:10e</rt> (<RUBY><ruby><ruby>ἅμα<rt>ἅμα</rt></ruby><rt>together</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>αὐτῷ<rt>αὐτός</rt></ruby><rt>Him</rt></ruby><rt>P-DSM</rt></RUBY>)A <RUBY><ruby><ruby><mark><strong>ζήσωμεν.°³</strong></mark><rt>ζάω</rt></ruby><rt>we may live</rt></ruby><rt>V-AAS-1P</rt></RUBY> 
-- ═════════════
+- ═════════════ (3) 所以你們要繼續持守，互相勸勉 (5:11)
 - <rt>5:11a</rt> <RUBY><ruby><ruby>Διὸ<rt>διό</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>παρακαλεῖτε</strong><rt>παρακαλέω !</rt></ruby><rt>encourage</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>ἀλλήλους<rt>ἀλλήλων</rt></ruby><rt>one another</rt></ruby><rt>C-APM</rt></RUBY>)C
 - <rt>5:11b</rt> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>οἰκοδομεῖτε !</strong><rt>οἰκοδομέω</rt></ruby><rt>build up</rt></ruby><rt>V-PAM-2P</rt></RUBY> (<RUBY><ruby><ruby>εἷς<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἕνα,<rt>εἷς</rt></ruby><rt>another</rt></ruby><rt>A-ASM</rt></RUBY>)C
 	- <rt>5:11c</rt> <RUBY><ruby><ruby>καθὼς<rt>καθώς</rt></ruby><rt>just as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A <RUBY><ruby><ruby><strong>ποιεῖτε.¶</strong><rt>ποιέω</rt></ruby><rt>you are doing</rt></ruby><rt>V-PAI-2P</rt></RUBY>
@@ -61,15 +61,15 @@ tags： #證道  #解經
 		- 不是在引用：Mat 24:36 但那日子，那時辰 (Περὶ δὲ τῆς ἡμέρας ἐκείνης καὶ ὥρας 單數)
 	- 因為你們自己 (αὐτοὶ) 知道的 ἀκριβῶς (很詳細、很仔細、很清楚)
 - (2) 內容 (5:2b-10)
-	- (2a) 徹底的壞消息 (5:2b-3) 😢😢😢 ⇐ 連三壞
-		- 完全毀滅 (5:3b ὄλεθρος)：眼見不能為憑😢
+	- (2a) 徹底的壞消息 (5:2b-3) 😢😢😢 ⇐ 三壞
+		- 完全毀滅 (5:3b ὄλεθρος)😢：眼見不能為憑
 			- 2Pe 3:10 但主的日子要像賊來到一樣。那日，天必大有響聲廢去，有形質的都要被烈火銷化，地和其上的物都要燒盡了。 
-		- 無法預料：沒辦法剖腹產😢——知道要生，但不知何時
+		- 無法預料😢：沒辦法剖腹產——知道要生，但不知何時
 			- Mat 24:43 家主若知道幾更天有賊來，就必警醒，不容人挖透房屋；
 			- Rev 16:15 看哪，我來像賊一樣。那警醒、看守衣服、免得赤身而行、叫人見他羞恥的有福了！
-		- 不能逃脫：天下之大，無處可逃，移民月球也沒用😢
-	- (2b) 徹底的好消息 (5:4-10)
-		- 身分 (BEING) 不同 (5:4-5)：
+		- 不能逃脫😢：天下之大，無處可逃，移民月球也沒用
+	- (2b) 徹底的好消息 (5:4-10) 😀😀 ⇐ 兩好
+		- 身分 (BEING) 不同 (5:4-5) 😀 ⇐ 一好
 			- 別人：在黑暗裡 (5:4a)，屬於黑夜幽暗 (5:5b)
 			- 我們：在光明裡 (5:4a)，是光明白晝之子  (5:5a)
 		- **所以 (ἄρα οὖν)** 行為 (DOING) 不同 (5:6)：
@@ -77,37 +77,35 @@ tags： #證道  #解經
 			- 我們：警醒謹守 (5:6bc)
 				- 警醒——不只是「醒」、而且要「警」—— watchful 機警, to be in constant readiness 隨時都預備好 ⇒ 預備好主人要的！
 				- 謹守 ——sober 清醒，脫離一切心靈層面的 drunkenness (無度、情慾、輕率、混亂)
-		- 行為不同 (5:7-8)
-			- 別人：吃喝等死 😢
+		- 行為 (DOING) 不同 (5:7-8)
+			- 別人：吃喝等死
 				-  1Co 15:32 若死人不復活， 我們就吃吃喝喝吧！ 因為明天要死了。 
-			- 我們：穿戴信望愛 (5:8)——吃喝等永生😀
+			- 我們：穿戴信望愛 (5:8)——吃喝等永生
 				- 1Th 1:3 因信心所做的工夫，因愛心所受的勞苦，因盼望我們主耶穌基督所存的忍耐
 				- 1Co 15:58 你們務要堅固，不可搖動，常常竭力多做主工；因為知道，你們的勞苦在主裏面不是徒然的。
-		- 命定不同 (5:9-10)
+		- **因為 (ὅτι)** 命定 (DESTINY) 不同 (5:9-10) 😀⇐ 兩好
 			- 別人：落入上帝的震怒 (5:9a)
 				- Heb 10:30-31 「伸冤在我，我必報應」... 落在永生上帝的手裏，真是可怕的！ 
-			- 我們：藉著基督而得救 ⇒ 與主同活 (永生)！
-				- 5:10 或醒、或睡 = 呼應 1Th 4:13-18 的主題，意思是：基督在來時，或「活著還存留的人」、或「在基督裡死了的人」——都要進入永生 (與主同活)！
+			- 我們：藉著基督而得救 (5:9b-10a) ⇒ 與主同活進入永生 (5:10b-e)！
+				- <mark>是藉著基督，不是藉著我們的行為 (信望愛、不睡覺、警醒謹守 etc.)！</mark>
+				- 或醒、或睡 = 或「活著還存留的人」、或「在基督裡死了的人」(1Th 4:13-18)
 - (3) 所以要互相勸勉 (5:11)
 
 ## 大綱 (Outline)
+
 - (0) 開場：聖誕節 (1st coming) ⇒ 2nd coming；沒有 2nd，1st 也枉然
-- (1) 真心的牧養 (5:1-2a)
-- (2) 全備的福音 (5:2b-10)
-	- (2a) 徹底的壞消息 (5:2b-3)
-		- 完全毀滅😢無法預料😢不能逃脫😢——連三壞
-	- (2b) 徹底的好消息 (5:4-10)
+- (1) 真心的牧養 (5:1-2a)：父母心腸
+- (2) 全備的福音 (5:2b-10)：壞消息 & 好消息
+	- (2a) 徹底的壞消息 (5:2b-3)：三壞
+		- 完全毀滅😢無法預料😢不能逃脫😢
+	- (2b) 徹底的好消息 (5:4-10)：兩好
 		- 身分不同 (5:4-5)
-		- 行為不同 (5:6)
+		- **所以**行為不同 (5:6)
 		- 行為不同 (5:7-8)
-		- 命定不同 (5:9-10)
-- (3) 真實的團契 (5:11)
+		- **因為**命定不同 (5:9-10)
+- (3) 真實的團契 (5:11)：你我的選擇
 
 ## 小抄 (memo)
-
-
-## 手稿 (Manuscript) 
-
 
 
 
