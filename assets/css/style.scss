@@ -3,35 +3,40 @@
 
 @import "{{ site.theme }}";
 
-ruby {
+  ruby {
     font-size: 1em ; 
     line-height: 1em ;
     padding-bottom: 1em ;
   }
+
   rt {
     font-size: 0.8em ; 
     line-height: 0.8em ;
   }
+
 
   h1 {
     color: #C00000;
     text-align: center;
     border-bottom: 4px double ;
   }
+
   h2 {
     text-align: center;
   }
-h2, h3, h4, h5, h6 {
+
+  h2, h3, h4, h5, h6 {
     color:black;
     margin-top: 10px;
     margin-bottom: 0px;
   }
 
-strong {
+  strong {
     color: red;
     font-weight:700;
   }
-em {
+
+    em {
     color: blue;
     font-weight:700;
   }
@@ -45,22 +50,24 @@ em {
     margin-bottom: 0px;
 }
 
-header {
+  header {
   padding: 20px 20px 20px 20px;
-}
-section {
-  margin-top: 120px;
-}
-
-ul li::marker {
-  content: '• ';
-}
-
-nav {
-  ul li::marker {
-    content: none;
   }
-}
+
+  section {
+  margin-top: 120px;
+  }
+
+  ul li::marker {
+  content: '• ';
+  }
+
+  nav {
+    ul li::marker {
+      content: none;
+    }
+  }
+
   section {
     width: 700px;
   } 
@@ -70,11 +77,12 @@ nav {
     margin-top: 30px;
   }
 
-/* table */
+  /* table */
   table {
     border-color: black;
     width: auto;
   }
+
   th {
     border-bottom: 4px double;
     border-top: 2px solid;
@@ -84,6 +92,7 @@ nav {
   }
   td {
     border: 1px solid;
+    border-color: black;
   }
 
   /* text decoration for marking syntax functions */
