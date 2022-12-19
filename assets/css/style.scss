@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
   ruby {
-    font-size: 1.5em ; 
+    font-size: 1em ; 
     line-height: 1em ;
   }
   
@@ -20,8 +20,6 @@
 
   h2, h3, h4, h5, h6 {
     color:black;
-    margin-top: 10px;
-    margin-bottom: 10px;
   }
 
   strong {
@@ -39,7 +37,7 @@
     color: black;
   }
 
-  ul, ol, dl {
+  ul, ol, dl, li {
     margin-bottom: 1em;
   }
 
