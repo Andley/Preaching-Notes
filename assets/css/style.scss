@@ -90,6 +90,9 @@
     border: 1px solid;
     border-color: black;
   }
+  td:first-child {
+    border-left: 1px solid;
+  }
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
