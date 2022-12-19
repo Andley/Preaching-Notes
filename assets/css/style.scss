@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-  ruby {
-    font-size: 1em ; 
-    line-height: 1em ;
-  }
-  
   h1 {
     color: #C00000;
     text-align: center;
@@ -27,18 +22,14 @@
     font-weight:700;
   }
 
-   em {
+  em {
     color: blue;
     font-weight:700;
   }
 
-  p, html, body, ruby {
+  p, html, body, ruby, rt {
     font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
     color: black;
-  }
-
-  ul li {
-    margin-bottom: 1em;
   }
 
   header {
