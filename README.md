@@ -1,4 +1,4 @@
-# 解經講道筆記
+# 講道筆記
 
 ## TO-DO
 - [ ] github pages theme -- Ruby ( )C 位置不對
