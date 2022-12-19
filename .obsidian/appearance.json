@@ -1,0 +1,18 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "BG4E",
+    "font",
+    "default",
+    "bg4e",
+    "Preaching-Notes"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "accentColor": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true
+}

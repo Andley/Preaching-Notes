@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "3969f3923e6cfedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c970c94ffa3ddb4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6916618e954f5928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Th.5.1-11.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b1e149eb78e8515",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb89deb39da52857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b75d906b38f1fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b1314860610141a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f03e690283089d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "1464b72f66019d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f62b3dd05030d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c60c8158acd8037",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1Th.5.1-11.md"
+              }
+            }
+          },
+          {
+            "id": "ffff73b72ba5875f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10ca0c35e69c92bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1Th.5.1-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df027e429ddfe341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1Th.5.1-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183.0555419921875,
+    "collapsed": true
+  },
+  "active": "6916618e954f5928",
+  "lastOpenFiles": [
+    "README.md",
+    "images/2022-02-13-來6.9–12小抄a.jpg",
+    "1Th.5.1-11.md",
+    "1Co.6.1–6.md",
+    "_layouts/default.html.md",
+    "images/2020-12-06-提前4.1-16.png",
+    "template/講道筆記範本.md",
+    "1Co.15.35–44.md",
+    "images/2021-02-14 詩34.1–10小抄.jpg",
+    "images/2020-10-18-賽55.1–7小抄.jpg"
+  ]
+}
