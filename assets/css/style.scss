@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-  html {
+  body {
     font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
     color: black;
   }
@@ -38,7 +38,7 @@
 
   section {
     margin-top: 120px;
-    width: 90%;
+    width: 85%;
   }
 
   ul li::marker {
