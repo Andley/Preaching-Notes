@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+  html {
+    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
+    color: black;
+  }
+
   h1 {
     color: #C00000;
     text-align: center;
@@ -27,18 +32,13 @@
     font-weight:700;
   }
 
-  p, html, body, ruby, rt {
-    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
-    color: black;
-  }
-
   header {
     padding: 20px 20px 20px 20px;
   }
 
   section {
     margin-top: 120px;
-    width: 700px;
+    width: 90%;
   }
 
   ul li::marker {
