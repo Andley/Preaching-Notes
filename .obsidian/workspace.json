@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/講道筆記範本.md",
-                "mode": "source",
+                "file": "1Th.5.1-11.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/講道筆記範本.md"
+                "file": "1Th.5.1-11.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/講道筆記範本.md",
+                "file": "1Th.5.1-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/講道筆記範本.md",
+                "file": "1Th.5.1-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,13 +139,13 @@
   "active": "6916618e954f5928",
   "lastOpenFiles": [
     "README.md",
+    "template/講道筆記範本.md",
     "1Th.5.1-11.md",
     "Php.3.7-16.md",
     "images/2022-02-13-來6.9–12小抄a.jpg",
     "1Co.6.1–6.md",
     "_layouts/default.html.md",
     "images/2020-12-06-提前4.1-16.png",
-    "template/講道筆記範本.md",
     "1Co.15.35–44.md",
     "images/2021-02-14 詩34.1–10小抄.jpg"
   ]
