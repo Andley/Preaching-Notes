@@ -68,6 +68,7 @@ table {
   margin-left: auto;
   margin-right: auto;
 }
+
 .markdown-rendered thead tr > th , .markdown-preview-view th {
   border: 1px solid;
   border-bottom: 4px double;
