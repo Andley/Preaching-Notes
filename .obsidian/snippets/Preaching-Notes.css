@@ -78,21 +78,23 @@ table {
 .markdown-preview-view td {
   border: 1px solid;
 }
-
-
 /*   Ruby Interlinear  */
-  ruby {
-    font-size: 1em ; /* 12pt 字體大小*/
-    line-height: 3.5em;
-  }
-  rt {
-    font-size: 0.8em ; /* 10pt 字體大小*/
-  }
+ruby {
+  display: inline-flex;
+  flex-direction: column-reverse ;
+  align-items: center;
+  font-size: 16px ; /* 12pt 字體大小*/
+  line-height: 16px ;
+  padding-bottom: 16px ;
+}
+rt {
+  font-size: 13px ; /* 10pt 字體大小*/
+  line-height: 13px ;
+}
 
-  p, ul {
-    padding-bottom: 0em ; 
-    margin-bottom: 0em;
-  }
+ul ruby {
+  padding-bottom: 5px ;
+}
 
 
 
