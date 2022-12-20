@@ -84,8 +84,9 @@
     font-size: 0.8em ; /* 10pt 字體大小*/
   }
 
-  ul {
+  p, ul {
     padding-bottom: 0em ; 
+    margin-bottom: 0em;
   }
 
 
