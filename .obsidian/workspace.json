@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Th.5.1-11.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Th.5.1-11.md"
+                "file": "README.md"
               }
             }
           },
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Th.5.1-11.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Th.5.1-11.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,11 +137,21 @@
     "width": 183.0555419921875,
     "collapsed": true
   },
-  "active": "6916618e954f5928",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "47f03e690283089d",
   "lastOpenFiles": [
+    "1Th.5.1-11.md",
     "README.md",
     "template/講道筆記範本.md",
-    "1Th.5.1-11.md",
     "Php.3.7-16.md",
     "images/2022-02-13-來6.9–12小抄a.jpg",
     "1Co.6.1–6.md",
