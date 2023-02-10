@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "seeing.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1dc5967aad137931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd67452d7194a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seeing.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "seeing.md"
               }
             }
           },
@@ -107,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "seeing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "seeing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,17 +165,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47f03e690283089d",
+  "active": "6916618e954f5928",
   "lastOpenFiles": [
-    "1Th.5.1-11.md",
     "README.md",
+    "seeing.md",
+    "1Th.5.1-11.md",
     "template/講道筆記範本.md",
     "Php.3.7-16.md",
     "images/2022-02-13-來6.9–12小抄a.jpg",
     "1Co.6.1–6.md",
     "_layouts/default.html.md",
     "images/2020-12-06-提前4.1-16.png",
-    "1Co.15.35–44.md",
-    "images/2021-02-14 詩34.1–10小抄.jpg"
+    "1Co.15.35–44.md"
   ]
 }
