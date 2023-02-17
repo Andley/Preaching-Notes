@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat.17.1-9.md",
+                "file": "Exo.24.12-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat.17.1-9.md",
+                "file": "Exo.24.12-18.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat.17.1-9.md"
+                "file": "Exo.24.12-18.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mat.17.1-9.md",
+                "file": "Exo.24.12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mat.17.1-9.md",
+                "file": "Exo.24.12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +164,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6916618e954f5928",
+  "active": "a958509ed633d188",
   "lastOpenFiles": [
-    "Exo.24.12-18.md",
-    "Mat.17.1-9.md",
     "README.md",
+    "Mat.17.1-9.md",
+    "Exo.24.12-18.md",
     "1Th.5.1-11.md",
     "template/講道筆記範本.md",
     "Php.3.7-16.md",
