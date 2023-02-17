@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "mode": "source",
                 "source": true
               }
@@ -83,13 +83,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo.24.12-18.md"
+                "file": "Mat.17.1-9.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +166,9 @@
   },
   "active": "6916618e954f5928",
   "lastOpenFiles": [
-    "README.md",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",
+    "README.md",
     "1Th.5.1-11.md",
     "template/講道筆記範本.md",
     "Php.3.7-16.md",
