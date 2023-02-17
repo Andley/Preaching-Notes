@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Exo.24.12-18.md",
                 "mode": "preview",
                 "source": true
               }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -168,8 +169,8 @@
   "active": "6916618e954f5928",
   "lastOpenFiles": [
     "README.md",
-    "2Pe.1.16-21.md",
     "Exo.24.12-18.md",
+    "Mat.17.1-9.md",
     "1Th.5.1-11.md",
     "template/講道筆記範本.md",
     "Php.3.7-16.md",
