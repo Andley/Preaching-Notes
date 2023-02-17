@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "1dc5967aad137931",
+        "id": "1eac805f1942555a",
         "type": "tabs",
         "children": [
           {
-            "id": "fdd67452d7194a78",
+            "id": "a958509ed633d188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
