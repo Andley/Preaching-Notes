@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo.24.12-18.md",
-                "mode": "preview",
+                "file": "Mat.17.1-9.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo.24.12-18.md"
+                "file": "Mat.17.1-9.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +164,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6916618e954f5928",
+  "active": "a958509ed633d188",
   "lastOpenFiles": [
-    "README.md",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",
+    "README.md",
     "images/2023-02-19-lectionary.png",
     "images/Exo.24.12-18.png",
     "1Th.5.1-11.md",
