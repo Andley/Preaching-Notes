@@ -4,13 +4,15 @@
 教會：   台北衛理堂  
 
 經課一：出埃及記24:12-18  
-啟應文：詩篇2篇  -
+啟應文：詩篇2篇  
 經課二：彼得後書1:16-21  
 福音書：馬太福音17:1-9  
 
+![2023-02-19-lectionary.png](images/2023-02-19-lectionary.png)
+
 ## 圖析 (Syntax Diagram)
 
-
+![Exo.24.12-18.png](images/Exo.24.12-18.png)
 
 ## 解經 (Exegesis)
 
