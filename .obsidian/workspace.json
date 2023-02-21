@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exo.24.12-18.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Mat.17.1-9.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat.17.1-9.md"
+                "file": "Exo.24.12-18.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mat.17.1-9.md",
+                "file": "Exo.24.12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mat.17.1-9.md",
+                "file": "Exo.24.12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,17 +164,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a958509ed633d188",
+  "active": "6916618e954f5928",
   "lastOpenFiles": [
+    "images/2023-02-19-Exo.24.12-18.jpg",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",
+    "images/2023-02-19-Mat.17.1-9.jpg",
     "README.md",
     "images/2023-02-19-lectionary.png",
     "images/Exo.24.12-18.png",
     "1Th.5.1-11.md",
     "template/講道筆記範本.md",
-    "Php.3.7-16.md",
-    "images/2022-02-13-來6.9–12小抄a.jpg",
-    "1Co.6.1–6.md"
+    "Php.3.7-16.md"
   ]
 }
