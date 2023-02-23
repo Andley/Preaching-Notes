@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exo.24.12-18.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Mat.17.1-9.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo.24.12-18.md"
+                "file": "Mat.17.1-9.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "Mat.17.1-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +164,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6916618e954f5928",
+  "active": "a958509ed633d188",
   "lastOpenFiles": [
-    "images/2023-02-19-Exo.24.12-18.jpg",
     "Exo.24.12-18.md",
+    "images/2023-02-19-Exo.24.12-18.jpg",
     "Mat.17.1-9.md",
     "images/2023-02-19-Mat.17.1-9.jpg",
     "README.md",
