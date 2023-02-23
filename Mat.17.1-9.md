@@ -124,10 +124,13 @@
 
 ## 小抄 (memo)
 
-![[images/2023-02-19-Mat.17.1-9.jpg]]
+
+![images/2023-02-19-Mat.17.1-9.jpg](images/2023-02-19-Mat.17.1-9.jpg)
+
+
 ---
 
 
-[講道筆記↵](README.md)
+[README](README.md)
 
 
