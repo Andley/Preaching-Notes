@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo.24.12-18.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Pro.18.8.md",
                 "mode": "source",
                 "source": true
               }
@@ -164,13 +164,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a958509ed633d188",
+  "active": "6916618e954f5928",
   "lastOpenFiles": [
-    "Mat.17.1-9.md",
+    "Pro.18.8.md",
+    "README.md",
     "Exo.24.12-18.md",
+    "Mat.17.1-9.md",
     "images/2023-02-19-Exo.24.12-18.jpg",
     "images/2023-02-19-Mat.17.1-9.jpg",
-    "README.md",
     "images/2023-02-19-lectionary.png",
     "images/Exo.24.12-18.png",
     "1Th.5.1-11.md",
