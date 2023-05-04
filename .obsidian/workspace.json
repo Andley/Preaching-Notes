@@ -13,12 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro.18.8.md",
+                "file": "1Co.15.1-11.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "57178953d9869ef6",
+        "type": "tabs",
+        "children": [
           {
             "id": "52a4ff99f036757a",
             "type": "leaf",
@@ -105,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro.18.8.md"
+                "file": "1Co.15.1-11.md"
               }
             }
           },
@@ -126,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro.18.8.md",
+                "file": "1Co.15.1-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro.18.8.md",
+                "file": "1Co.15.1-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +174,12 @@
   },
   "active": "6916618e954f5928",
   "lastOpenFiles": [
-    "images/2023-04-30-箴18.8小抄a.jpg",
-    "Pro.18.8.md",
-    "images/2023-04-30-箴18.8小抄b.jpg",
     "README.md",
+    "1Co.15.1-11.md",
+    "images/2023-05-13.png",
+    "Pro.18.8.md",
+    "images/2023-04-30-箴18.8小抄a.jpg",
+    "images/2023-04-30-箴18.8小抄b.jpg",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",
     "images/2023-02-19-Exo.24.12-18.jpg",
