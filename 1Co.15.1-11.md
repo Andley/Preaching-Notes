@@ -4,7 +4,7 @@
 教會：   正道福音神學院  
 
 
-## 圖析 (Syntax Diagram)
+## 句法圖析 (Syntax Diagram)
 - 15:1a (<RUBY><ruby><ruby><strong>Γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>εὐαγγέλιον<rt>εὐαγγέλιον</rt></ruby><rt>gospel</rt></ruby><rt>N-ASN</rt></RUBY>)C 
 	- 15:1b (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-ASN</rt></RUBY>)C1 (<RUBY><ruby><ruby><strong>εὐηγγελισάμην</strong><rt>εὐαγγελίζομαι</rt></ruby><rt>I proclaimed</rt></ruby><rt>V-AMI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 
 	- 15:1c (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>which</rt></ruby><rt>R-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παρελάβετε,</strong><rt>παραλαμβάνω</rt></ruby><rt>you received</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
@@ -42,12 +42,38 @@
 - 15:11b <RUBY><ruby><ruby>εἴτε<rt>εἴτε</rt></ruby><rt>or</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκεῖνοι,<rt>ἐκεῖνος</rt></ruby><rt>they</rt></ruby><rt>D-NPM</rt></RUBY>)S 
 - 15:11c (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>κηρύσσομεν</strong><rt>κηρύσσω</rt></ruby><rt>we preach</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P
 - 15:11d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐπιστεύσατε.¶</strong><rt>πιστεύω</rt></ruby><rt>you believed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
-## 解經 (Exegesis)
+
+## 語意結構分析 (Semantic Structure Analysis)
+- 中文
 ![images/2023-05-10-1Co.15.1-11a.png](images/2023-05-10-1Co.15.1-11a.png)
 
+- 原文
 ![images/2023-05-10-1Co.15.1-11b.png](images/2023-05-10-1Co.15.1-11b.png)
+## 解經 (Exegesis)
 
 ## 大綱 (Outline)
+
+- (0) 開場：神學院有什麼用？！
+	- 來神學院學什麼？對弟兄姊妹有用嗎？能解決教會的問題嗎？
+	- 哥林多前書瀏覽 ... 問題是解決不完的 ⇒ 一切問題的答案：福音！
+- (1)  福音的大能 (15:1-2)——福音有什麼用？ 
+	- (1a) 過去 (領受) → 現在 (站立) → 未來 (持守) → 終末 (得救)
+	- (1b) 人被動的領受：被動地領受  →  靠著 **ἐν** 站立  →  藉著 **δία** 得救
+- (2)  福音的內涵  (15:3-8)——福音是什麼？
+	- 照聖經 (OT) 所說
+	- (2a) 基督的死 (15:3)
+		- 因為我們的罪
+		- 埋葬 (15:4a) = 死透透
+	- (2b) 基督的復活 (15:4b)
+		- 顯現 (15:5-8) = 活跳跳
+	- 福音的顛覆性，戳破了人的理性、人的自尊！
+		- 不能只講耶穌愛你 😢
+		- 不能只是 seeker-oriented 以慕道友為導向
+		- 不能只是輕鬆友善無壓力
+		- 不能妥協，不能摻水
+- (3)  福音的泉源 (15:9-11)——福音從何而來？產生什麼果效？帶出什麼行動？
+	- (3a) 神主動的恩典 (15:9-10a)
+	- (3b) 恩典帶出的行動 (15:10b-11)
 
 
 ## 小抄 (memo)

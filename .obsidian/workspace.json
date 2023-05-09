@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c970c94ffa3ddb4e",
+        "id": "30d889a49308c366",
         "type": "tabs",
         "children": [
           {
-            "id": "6916618e954f5928",
+            "id": "58e778c9c8d79925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Co.15.1-11.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8dd44f980b5a33f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872c436299482bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -154,11 +173,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6916618e954f5928",
+  "active": "58e778c9c8d79925",
   "lastOpenFiles": [
-    "images/2023-05-10-1Co.15.1-11a.png",
-    "1Co.15.1-11.md",
     "images/2023-05-10-1Co.15.1-11b.png",
+    "1Co.15.1-11.md",
+    "images/2023-05-10-1Co.15.1-11a.png",
     "images/2023-05-10.png",
     "README.md",
     "Pro.18.8.md",
