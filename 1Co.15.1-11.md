@@ -44,7 +44,7 @@
 - 15:11d <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐπιστεύσατε.¶</strong><rt>πιστεύω</rt></ruby><rt>you believed</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P 
 ## 解經 (Exegesis)
 
-![images/2023-05-13.png](images/2023-05-13.png)
+![images/2023-05-10.png](images/2023-05-10.png)
 
 ## 大綱 (Outline)
 

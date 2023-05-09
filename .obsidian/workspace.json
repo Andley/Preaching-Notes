@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1Co.15.1-11.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "1Co.15.1-11.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1Co.15.1-11.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1Co.15.1-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1Co.15.1-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +172,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52a4ff99f036757a",
+  "active": "6916618e954f5928",
   "lastOpenFiles": [
+    "images/2023-05-10.png",
     "1Co.15.1-11.md",
     "README.md",
-    "images/2023-05-13.png",
     "Pro.18.8.md",
     "images/2023-04-30-箴18.8小抄a.jpg",
     "images/2023-04-30-箴18.8小抄b.jpg",
