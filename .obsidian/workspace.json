@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f852582f9e93132c",
+        "id": "ed18d12117305865",
         "type": "tabs",
         "children": [
           {
-            "id": "256b9be86a1592b2",
+            "id": "896e24b1cca7c6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act.2.1-21.md",
+                "file": "1Co.12.3-13.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,17 +22,17 @@
         ]
       },
       {
-        "id": "bee194eeb86ff585",
+        "id": "830ccaa3b2349ace",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7460de3aad7a03",
+            "id": "43ddd33f19de0f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act.2.1-21.md",
-                "mode": "source",
+                "file": "1Co.12.3-13.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act.2.1-21.md"
+                "file": "1Co.12.3-13.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act.2.1-21.md",
+                "file": "1Co.12.3-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act.2.1-21.md",
+                "file": "1Co.12.3-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +173,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "256b9be86a1592b2",
+  "active": "896e24b1cca7c6b0",
   "lastOpenFiles": [
-    "1Co.12.3-13.md",
     "Act.2.1-21.md",
+    "1Co.12.3-13.md",
     "images/2023-05-28-徒2.1-21.png",
     "images/2023-05-28-林前12.3-14.png",
     "README.md",
