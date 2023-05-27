@@ -1,12 +1,10 @@
-經文：   哥林多前書12:3b-13; 約翰福音20:19-23  
-題目：   聖靈的江河 (二)  
-日期：   2023-05-28  
-教會：   台北衛理堂  
+經文：哥林多前書12:3b-13; 約翰福音20:19-23  
+題目：聖靈的江河 (二)  
+日期：2023-05-28  
+教會：台北衛理堂  
+時間：30-35 min  
 
-
-
-
-## 圖析 (Syntax Diagram)
+## 句法圖析 (Syntax Diagram)
 
 - 12:3a <RUBY><ruby><ruby>διὸ<rt>διό</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>γνωρίζω</strong><rt>γνωρίζω</rt></ruby><rt>I make known</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C
 	- 12:3b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὐδεὶς<rt>οὐδείς</rt></ruby><rt>no one</rt></ruby><rt>A-NSM</rt></RUBY>)S [(<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>πνεῦμα</rt></ruby><rt>[the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)a (<RUBY><ruby><ruby><em>λαλῶν</em><rt>λαλέω</rt></ruby><rt>speaking</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p]A (<RUBY><ruby><ruby><strong>λέγει·</strong><rt>λέγω</rt></ruby><rt>says</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P 
@@ -51,11 +49,13 @@
 - 12:14a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>Also</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>σῶμα<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-NSN</rt></RUBY>)S <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong>ἔστιν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἓν<rt>εἷς</rt></ruby><rt>one</rt></ruby><rt>A-NSN</rt></RUBY> <RUBY><ruby><ruby>μέλος<rt>μέλος</rt></ruby><rt>member</rt></ruby><rt>N-NSN</rt></RUBY>)C 
 - 12:14b <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πολλά.<rt>πολύς</rt></ruby><rt>many</rt></ruby><rt>A-NPN</rt></RUBY>)C
 
-## 解經 (Exegesis)
+## 語意解經 (Exegesis)
 
 ![[images/2023-05-28-林前12.3-14.png]]
 
-- 
+- 聖靈的感動
+- 聖靈的本質 = 三位一體的真神
+- 聖靈的恩賜 
 
 ## 大綱 (Outline)
 
