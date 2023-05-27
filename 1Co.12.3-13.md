@@ -9,7 +9,7 @@
 ## 圖析 (Syntax Diagram)
 
 ## 解經 (Exegesis)
-
+![[images/2023-05-28-林前12.3-14.png]]
 
 
 ## 大綱 (Outline)

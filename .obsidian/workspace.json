@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "05ad12a7974a895f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d90e1f518f55f25d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f852582f9e93132c",
         "type": "tabs",
         "children": [
@@ -32,7 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Act.2.1-21.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bee194eeb86ff585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd7460de3aad7a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act.2.1-21.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Act.2.1-21.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Act.2.1-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Act.2.1-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,11 +173,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d90e1f518f55f25d",
+  "active": "256b9be86a1592b2",
   "lastOpenFiles": [
+    "1Co.12.3-13.md",
     "Act.2.1-21.md",
     "images/2023-05-28-徒2.1-21.png",
-    "1Co.12.3-13.md",
+    "images/2023-05-28-林前12.3-14.png",
     "README.md",
     "1Co.15.1-11.md",
     "images/2023-05-10-林前15.1-11小抄.jpg",
@@ -191,7 +192,6 @@
     "Mat.17.1-9.md",
     "images/2023-02-19-Exo.24.12-18.jpg",
     "images/2023-02-19-Mat.17.1-9.jpg",
-    "images/2023-02-19-lectionary.png",
     "1Th.5.1-11.md",
     "template/講道筆記範本.md",
     "Php.3.7-16.md"
