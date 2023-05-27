@@ -79,7 +79,7 @@
 				- 2:21c (<RUBY><ruby><ruby>ὃς<rt>ὅς</rt></ruby><rt>who</rt></ruby><rt>R-NSM</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἐπικαλέσηται</strong><rt>ἐπικαλέω</rt></ruby><rt>they shall call upon</rt></ruby><rt>V-AMS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>ὄνομα</rt></ruby><rt>name</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>of [the] Lord</rt></ruby><rt>N-GSM</rt></RUBY>)C
 ## 語意解經 (Exegesis)
 
-![[images/2023-05-28-徒2.1-21.png]]
+![images/2023-05-28-徒2.1-21.png](images/2023-05-28-%E5%BE%922.1-21.png)
 
 - 聖靈的江河流啊流⋯⋯⋯⋯⋯⋯⋯
 	- *起源*：
@@ -144,7 +144,7 @@
 
 ## 小抄 (memo)
 
-![[images/2023-05-28-徒2.1-21小抄.jpg]]
+![images/2023-05-28-徒2.1-21小抄.jpg](images/2023-05-28-%E5%BE%922.1-21%E5%B0%8F%E6%8A%84.jpg)
 
 
 
