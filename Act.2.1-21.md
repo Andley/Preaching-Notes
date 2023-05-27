@@ -5,7 +5,7 @@
 時間：30~35 min  
 
 
-## 圖析 (Syntax Diagram)
+## 句法圖析 (Syntax Diagram)
 
 
 - 2:1 <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> {<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>during</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSN</rt></RUBY> [(<RUBY><ruby><ruby><em>συμπληροῦσθαι</em><rt>συμπληρόω</rt></ruby><rt>arriving of</rt></ruby><rt>V-PPN</rt></RUBY>)p (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἡμέραν<rt>ἡμέρα</rt></ruby><rt>day</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>Πεντηκοστῆς<rt>πεντηκοστή</rt></ruby><rt>of Pentecost</rt></ruby><rt>N-GSF</rt></RUBY>)s]}A (<RUBY><ruby><ruby><strong>ἦσαν</strong><rt>εἰμί</rt></ruby><rt>they were</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>ὁμοῦ<rt>ὁμοῦ</rt></ruby><rt>together</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>ἐπὶ<rt>ἐπί</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>αὐτό.<rt>αὐτός</rt></ruby><rt>one [place]</rt></ruby><rt>P-ASN</rt></RUBY>)A 
@@ -77,7 +77,7 @@
 			- 2:21a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>ἔσται</strong><rt>εἰμί</rt></ruby><rt>it shall be</rt></ruby><rt>V-FDI-3S</rt></RUBY>)P 
 			- 2:21b (<RUBY><ruby><ruby>πᾶς<rt>πᾶς</rt></ruby><rt>everyone</rt></ruby><rt>A-NSM</rt></RUBY>)S ⸉2:21c⸊ (<RUBY><ruby><ruby><strong>σωθήσεται.</strong><rt>σῴζω</rt></ruby><rt>will be saved</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P ¶
 				- 2:21c (<RUBY><ruby><ruby>ὃς<rt>ὅς</rt></ruby><rt>who</rt></ruby><rt>R-NSM</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἐπικαλέσηται</strong><rt>ἐπικαλέω</rt></ruby><rt>they shall call upon</rt></ruby><rt>V-AMS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ὄνομα<rt>ὄνομα</rt></ruby><rt>name</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>of [the] Lord</rt></ruby><rt>N-GSM</rt></RUBY>)C
-## 解經 (Exegesis)
+## 語意解經 (Exegesis)
 
 ![[images/2023-05-28-徒2.1-21.png]]
 
@@ -121,8 +121,9 @@
 
 - 題目：聖靈的江河 (一)
 - (0) 開場：5/28 = 聖靈降臨節 (五旬節)
-	- 跟衛理堂的關係：現址 ← 漢口街15號  ← 仁愛路二段 ←  聶樹德牧師(民國 41年)  ← 黃安素(1909) 中國宣教 ← 美以美會 (1784~1939) ← 約翰衛斯理 (1738) 創衛理公會 ← 亨利八世 (1534) 英國聖公會 ← 天主教 ← 使徒 ⇐ 耶穌基督
-	- 耶穌基督的**一粒麥子 (約12:24) ＋ 一口氣 (約20:21-23)**——教會 & 聖靈江河的起源
+	- - 跟我一起說：耶穌是主 X 3 遍 ⇒ 你有聖靈！
+		- 或錯解聖經 😢；或被極端的靈恩運動誤導 😢——以為自己沒有聖靈😢
+	- 跟衛理堂的關係：現址 ← 漢口街15號  ← 仁愛路二段 ←  聶樹德牧師(民國 41年)  ← 黃安素(1909) 中國宣教 ← 美以美會 (1784~1939) ← 約翰衛斯理 (1738) 創衛理公會 ← 亨利八世 (1534) 英國聖公會 ← 天主教 ← 使徒 ⇐ 耶穌基督：*一粒麥子 (約12:24) ＋ 一口氣 (約20:21-23)*
 - (1) 兩個日子
 	- (1a) 主大而明顯的日子 = 審判的日子 ⇐ **壞消息**
 		- 珥2:31 耶和華大而可畏的日子
