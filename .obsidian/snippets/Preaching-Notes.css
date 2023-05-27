@@ -1,6 +1,29 @@
-/* Obsidian 介面 */
+/* ============= 設定字型 ================== */
+@font-face {
+	font-family: InterlinearFont;
+	unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+	src: local("Gentium Book Plus");
+  }
+  @font-face {
+	font-family: InterlinearFont;
+	unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+	src: local("Ezra SIL");
+  }
+  @font-face {
+	font-family: InterlinearFont;
+	unicode-range: U+00-024F; /* English UNICODE */
+	src: local("Arial Narrow");
+  }
+  @font-face {
+    font-family: InterlinearFont;
+    unicode-range: U+4E00-9FFF; /* Chinese UNICODE */
+    src: local("Noto Sans TC");
+  }
+
+  /* Obsidian 介面 */
 .theme-dark {
   --text-tag: #4f8dc2;
+  --ribbon-color : rgb(101, 2, 2);
   --text-muted: #E6E6E6;
   --color1:#ea4335;
   --color2:#4285f4;
@@ -9,11 +32,12 @@
   --color-strong: greenyellow;
   --color-em:gold;
   --text-accent:yellow;
-  --font-text: "Gentium Book Plus","Ezra SIL", "Noto Sans TC";
+  --font-text: InterlinearFont;
   --control-character-color: white;
 }
 .theme-light {
   --text-tag: rgb(128, 136, 240);
+  --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
   --color1:darkred;
@@ -24,15 +48,17 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
-  --font-text: "Gentium Book Plus", "Ezra SIL", "Noto Sans TC";
+  --font-text: InterlinearFont;
+
 }
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag {
   color: var(--text-tag);
   font-size: 13px;
-  font-family: "Arial Narrow"
+  font-family: InterlinearFont
 }
+
 
 /* 標題 */
 .cm-header-1, .markdown-preview-view h1 {
@@ -78,24 +104,17 @@ table {
 
 /*   Ruby Interlinear  */
 ruby {
-  display: inline-flex;
+  display:inline;
   flex-direction: column-reverse ;
-  align-items: center;
   font-size: 16px ; /* 12pt 字體大小*/
-  line-height: 16px ;
-  padding-bottom: 16px ;
+  line-height: 4 ;
+  padding: 1px;
 }
+
 rt {
   font-size: 13px ; /* 10pt 字體大小*/
-  line-height: 13px ;
-}
-
-ul ruby {
-  padding-bottom: 5px ;
-}
-
-ul p {
-  margin-bottom: 0px ;
+  line-height: 13px;
+  text-align: center;
 }
 
 strong, .cm-strong {
