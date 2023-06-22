@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1Co.11.23-28.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2681d9520d17a929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d5b7c45242d0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Co.11.23-28.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -93,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1Co.11.23-28.md"
               }
             }
           },
@@ -114,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1Co.11.23-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1Co.11.23-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,14 +173,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b74ce15d1921235",
+  "active": "f1d5b7c45242d0b9",
   "lastOpenFiles": [
+    "README.md",
+    "1Co.11.23-28.md",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
     "Jos.9.7-15.md",
     "約書亞記 9.7-15.md",
     "images/2023-05-28-林前12.3.13小抄.jpg",
-    "README.md",
     "images/2023-05-28-徒2.1-21小抄.jpg",
     "template/講道筆記範本.md",
     "images/2023-05-28-徒2.1-21.png",
