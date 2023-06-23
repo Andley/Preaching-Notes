@@ -49,7 +49,10 @@
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
   --font-text: InterlinearFont;
+}
 
+.workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar  {
+  background-color: var(--ribbon-color);
 }
 
 /* HTML tags in preview and editor */
@@ -59,30 +62,39 @@
   font-family: InterlinearFont
 }
 
-
 /* 標題 */
 .cm-header-1, .markdown-preview-view h1 {
   color: var(--color1);
   font-size:26px; /* 20pt 字體大小*/
   text-align: center;
   border-bottom: 4px double ;
+  margin-bottom: 26px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-2,.markdown-preview-view h2 {
   color: var(--color2);
   font-size:24px; /* 18pt 字體大小*/
   text-align: center;
+  margin-bottom: 24px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-3,.markdown-preview-view h3 {
   color: var(--color3);
   font-size:22px; /* 16pt 字體大小*/
+  margin-bottom: 22px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-4,.markdown-preview-view h4 {
   color: var(--color4);
   font-size:19px; /* 14pt 字體大小*/
+  margin-bottom: 19px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 .cm-header-5,.markdown-preview-view h5 {
   color: var(--color5);
   font-size:16px; /* 12pt 字體大小*/
+  margin-bottom: 16px;
+  font-family: "Noto Sans Black", "Noto Sans TC Black";
 }
 
 /*   Table  */
@@ -101,20 +113,35 @@ table {
   border: 1px solid;
 }
 
-
 /*   Ruby Interlinear  */
-ruby {
+li ruby {
   display:inline;
   flex-direction: column-reverse ;
   font-size: 16px ; /* 12pt 字體大小*/
-  line-height: 4 ;
+  line-height: 3 ;
   padding: 1px;
+}
+
+p ruby {
+  display:inline;
+  flex-direction: column-reverse ;
+  font-size: 16px ; /* 12pt 字體大小*/
+  padding: 1px;
+  line-height: 6 ;
 }
 
 rt {
   font-size: 13px ; /* 10pt 字體大小*/
   line-height: 13px;
   text-align: center;
+}
+
+ul ruby {
+  padding-bottom: 3px ;
+}
+
+ul p {
+  margin-bottom: 0px ;
 }
 
 strong, .cm-strong {
@@ -127,21 +154,14 @@ em, .cm-em {
     font-style:italic;
   }
 
-.nav-file-title, .nav-folder-title {
-  display: flex;
-  border: 1px solid transparent;
-  border-radius: px;
-  cursor: pointer;
-  /*color: var(--text-faint);*/
-  font-size: 13px;
-  line-height: 13px;
-  padding: 2px 0 0 15px;
-  white-space: nowrap;
-}
+  .nav-file-title, .nav-folder-title {
+    font-size: 13px;
+    line-height: 13px;
+    padding: 2px 0 0 15px;
+    white-space: nowrap;
+  }
 
 
-.workspace-ribbon, .workspace-ribbon.mod-left.is-collapsed, .titlebar {
-  background-color: rgb(4, 18, 97);}
 
 /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 5px;}

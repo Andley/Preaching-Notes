@@ -1,10 +1,11 @@
-經文：哥林多前書11章23-28節   
+經文：哥林多前書11章23-32節   
 題目：紀念主的犧牲   
 日期：2023-06-25   
 教會：石牌長老教會   
 
 
 ## 句法圖析 (Syntax Diagram)
+
 
 - 11:23a (<RUBY><ruby><ruby>Ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>παρέλαβον</strong><rt>παραλαμβάνω</rt></ruby><rt>received</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου,<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)A (11:23b)C
 	- 11:23b { (<RUBY><ruby><ruby>ὃ<rt>ὅς</rt></ruby><rt>that which</rt></ruby><rt>R-ASN</rt></RUBY>)C1 (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παρέδωκα</strong><rt>παραδίδωμι</rt></ruby><rt>I delivered</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ὑμῖν,<rt>σύ</rt></ruby><rt>to you</rt></ruby><rt>P-2DP</rt></RUBY>)C2 }
@@ -35,22 +36,27 @@
 - 11:28a (<RUBY><ruby><ruby><strong>δοκιμαζέτω</strong><rt>δοκιμάζω</rt></ruby><rt>Let examine</rt></ruby><rt>V-PAM-3S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἄνθρωπος<rt>ἄνθρωπος</rt></ruby><rt>a man</rt></ruby><rt>N-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>ἑαυτόν<rt>ἑαυτοῦ</rt></ruby><rt>himself</rt></ruby><rt>F-3ASM</rt></RUBY>)C
 - 11:28b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>οὕτως<rt>οὕτω, οὕτως</rt></ruby><rt>in this manner</rt></ruby><rt>ADV</rt></RUBY> )A (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>ἄρτου<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐσθιέτω</strong><rt>ἐσθίω</rt></ruby><rt>let him eat</rt></ruby><rt>V-PAM-3S</rt></RUBY>)P
 - 11:28c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>ποτηρίου<rt>ποτήριον</rt></ruby><rt>cup</rt></ruby><rt>N-GSN</rt></RUBY>)A (<RUBY><ruby><ruby><strong>πινέτω·</strong><rt>πίνω</rt></ruby><rt>let him drink</rt></ruby><rt>V-PAM-3S</rt></RUBY>)P 
+- ————————
+- 11:29a ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
+- 11:29b (<RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>The [one]</rt></ruby><rt>T-NSM</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby><em>ἐσθίων</em><rt>ἐσθίω</rt></ruby><rt>eating</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><em>πίνων</em><rt>πίνω</rt></ruby><rt>drinking</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>κρίμα<rt>κρίμα</rt></ruby><rt>judgment</rt></ruby><rt>N-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>ἑαυτῷ<rt>ἑαυτοῦ</rt></ruby><rt>on himself</rt></ruby><rt>F-3DSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐσθίει</strong><rt>ἐσθίω</rt></ruby><rt>eats</rt></ruby><rt>V-PAI-3S</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><strong>πίνει</strong><rt>πίνω</rt></ruby><rt>drinks</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P {<RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><em>διακρίνων</em><rt>διακρίνω</rt></ruby><rt>discerning</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>σῶμα.<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-ASN</rt></RUBY>)c}A
+- 11:30a (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>Because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)A (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>among</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2DP</rt></RUBY>)A (<RUBY><ruby><ruby>πολλοὶ<rt>πολύς</rt></ruby><rt>many</rt></ruby><rt>A-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>ἀσθενεῖς<rt>ἀσθενής</rt></ruby><rt>[are] weak</rt></ruby><rt>A-NPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἄρρωστοι<rt>ἄρρωστος</rt></ruby><rt>sick</rt></ruby><rt>A-NPM</rt></RUBY>)C
+- 11:30b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>κοιμῶνται</strong><rt>κοιμάω</rt></ruby><rt>are fallen asleep</rt></ruby><rt>V-PMI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>ἱκανοί.<rt>ἱκανός</rt></ruby><rt>many</rt></ruby><rt>A-NPM</rt></RUBY>)S 
+- ⋯⋯⋯⋯⋯⋯⋯
+- 11:31a ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
+	- 11:31b <RUBY><ruby><ruby>Εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ (<RUBY><ruby><ruby>ἑαυτοὺς<rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1APM</rt></RUBY>)C (<RUBY><ruby><ruby><strong>διεκρίνομεν,</strong><rt>διακρίνω</rt></ruby><rt>we were judging</rt></ruby><rt>V-IAI-1P</rt></RUBY>)P 
+- 11:31c <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>-</rt></ruby><rt>PRT</rt></RUBY> (<RUBY><ruby><ruby><strong>ἐκρινόμεθα·</strong><rt>κρίνω</rt></ruby><rt>we would come under judgment</rt></ruby><rt>V-IPI-1P</rt></RUBY>)P 
+- ⋯⋯⋯⋯⋯⋯⋯
+- 11:32a ⸉<RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
+- 11:32b (<RUBY><ruby><ruby><em>κρινόμενοι</em><rt>κρίνω</rt></ruby><rt>Being judged</rt></ruby><rt>V-PPP-NPM</rt></RUBY>)A ⸉⸊ (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παιδευόμεθα,</strong><rt>παιδεύω</rt></ruby><rt>we are disciplined</rt></ruby><rt>V-PPI-1P</rt></RUBY>)P 
+	- 11:32c <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>κόσμῳ<rt>κόσμος</rt></ruby><rt>world</rt></ruby><rt>N-DSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>κατακριθῶμεν.</strong><rt>κατακρίνω</rt></ruby><rt>we should be condemned</rt></ruby><rt>V-APS-1P</rt></RUBY>)P 
 
 ## 語意解經 (Exegesis)
 
-
+![images/Pasted image 20230624072126.png](images/Pasted%20image%2020230624072126.png)
 
 ## 講道大綱 (Outline)
 
 
 ## 小抄 (memo)
-
-
-
-
----
-
-
-[講道筆記↵](README.md)
 
 
