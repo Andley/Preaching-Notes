@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "66a14674089b1fe2",
+        "id": "8c16cccf5d5b8148",
         "type": "tabs",
         "children": [
           {
-            "id": "5fbfec82f3268471",
+            "id": "1397e0fa3c41bf7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Co.11.23-32.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f21a641377932150",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4937107b7114ee97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Co.11.23-32.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1Co.11.23-32.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Co.11.23-32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Co.11.23-32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,14 +146,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5fbfec82f3268471",
+  "active": "1397e0fa3c41bf7b",
   "lastOpenFiles": [
-    "images/2023-06-25-林前11.23-32小抄b.jpg",
     "1Co.11.23-32.md",
+    "README.md",
+    "images/2023-02-19-出24.12-18.png",
+    "images/2023-06-25-林前11.23-32小抄b.jpg",
     "images/2023-06-25-林前11.23-32小抄a.jpg",
     "images/Pasted image 20221214190537.png",
     "images/Pasted image 20221214191702.png",
-    "README.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "images/2023-06-25-林前11.23-32.png",
     "template/講道筆記範本.md",
@@ -192,7 +167,6 @@
     "images/2023-05-28-徒2.1-21.png",
     "images/2023-05-28-林前12.3-14.png",
     "1Co.15.1-11.md",
-    "images/2023-05-10-林前15.1-11小抄.jpg",
     "Pro.18.8.md",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",

@@ -12,7 +12,7 @@
 
 ## 圖析 (Syntax Diagram)
 
-![Exo.24.12-18.png](images/Exo.24.12-18.png)
+![2023-02-19-出24.12-18.png](images/2023-02-19-出24.12-18.png)
 
 ## 解經 (Exegesis)
 
