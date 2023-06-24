@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "d314b3e971ae8fc3",
+        "id": "f21a641377932150",
         "type": "tabs",
         "children": [
           {
-            "id": "b872ab119f54f25b",
+            "id": "4937107b7114ee97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -172,12 +173,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b872ab119f54f25b",
+  "active": "4937107b7114ee97",
   "lastOpenFiles": [
-    "template/講道筆記範本.md",
+    "images/2023-06-25-林前11.23-32.png.md",
+    "images/2023-06-25-林前11.23-32.png",
     "1Co.11.23-32.md",
+    "template/講道筆記範本.md",
     "README.md",
-    "images/Pasted image 20230624072126.png",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
     "Jos.9.7-15.md",
