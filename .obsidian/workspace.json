@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2681d9520d17a929",
+        "id": "66a14674089b1fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d5b7c45242d0b9",
+            "id": "5fbfec82f3268471",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "66a14674089b1fe2",
+        "id": "d314b3e971ae8fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "5fbfec82f3268471",
+            "id": "b872ab119f54f25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,10 +172,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5fbfec82f3268471",
+  "active": "b872ab119f54f25b",
   "lastOpenFiles": [
-    "README.md",
+    "template/講道筆記範本.md",
     "1Co.11.23-32.md",
+    "README.md",
     "images/Pasted image 20230624072126.png",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
@@ -183,7 +184,6 @@
     "約書亞記 9.7-15.md",
     "images/2023-05-28-林前12.3.13小抄.jpg",
     "images/2023-05-28-徒2.1-21小抄.jpg",
-    "template/講道筆記範本.md",
     "images/2023-05-28-徒2.1-21.png",
     "images/2023-05-28-林前12.3-14.png",
     "1Co.15.1-11.md",

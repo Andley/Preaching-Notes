@@ -4,7 +4,7 @@
 教會：石牌長老教會   
 
 
-## 句法圖析 (Syntax Diagram)
+## 句法 (Syntax)
 
 
 - 11:23a (<RUBY><ruby><ruby>Ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>παρέλαβον</strong><rt>παραλαμβάνω</rt></ruby><rt>received</rt></ruby><rt>V-AAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου,<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)A (11:23b)C
@@ -15,18 +15,18 @@
 	- 11:24a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><em>εὐχαριστήσας</em><rt>εὐχαριστέω</rt></ruby><rt>having given thanks</rt></ruby><rt>V-AAP-NSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἔκλασεν</strong><rt>κλάω</rt></ruby><rt>He broke [it]</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P
 	- 11:24b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>εἶπεν·</strong><rt>εἶπον</rt></ruby><rt>said</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P 
 		- ⋯⋯⋯⋯⋯⋯⋯
-		- 11:24c (<RUBY><ruby><ruby>Τοῦτό<rt>οὗτος</rt></ruby><rt>This</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>μού<rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY>)⦇ (<RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P ⦈(<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>σῶμα<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-NSN</rt></RUBY> =<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>which [is]</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>ὑπέρ</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν·<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2GP</rt></RUBY>)C 
+		- 11:24c (<RUBY><ruby><ruby>Τοῦτό<rt>οὗτος</rt></ruby><rt>This</rt></ruby><rt>D-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>μού<rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY>)⦇ (<RUBY><ruby><ruby><strong>ἐστιν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P ⦈(<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>σῶμα<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>which [is]</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ὑπὲρ<rt>ὑπέρ</rt></ruby><rt>for</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμῶν·<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2GP</rt></RUBY>)C 
 		- 11:24d (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ποιεῖτε</strong><rt>ποιέω</rt></ruby><rt>do</rt></ruby><rt>V-PAI⁞PAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐμὴν<rt>ἐμός</rt></ruby><rt>of Me</rt></ruby><rt>S-1SASF</rt></RUBY> <RUBY><ruby><ruby>ἀνάμνησιν.<rt>ἀνάμνησις</rt></ruby><rt>remembrance</rt></ruby><rt>N-ASF</rt></RUBY>)A
 	- 11:25a <RUBY><ruby><ruby>ὡσαύτως<rt>ὡσαύτως</rt></ruby><rt>Likewise</rt></ruby><rt>ADV</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A ...**ἔλαβεν**... (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ποτήριον<rt>ποτήριον</rt></ruby><rt>cup</rt></ruby><rt>N-ASN</rt></RUBY>)C (<RUBY><ruby><ruby>μετὰ<rt>μετά</rt></ruby><rt>after</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><em>δειπνῆσαι</em><rt>δειπνέω</rt></ruby><rt>having supped</rt></ruby><rt>V-AAN</rt></RUBY>)A (<RUBY><ruby><ruby><em>λέγων·</em><rt>λέγω</rt></ruby><rt>saying</rt></ruby><rt>V-PAP-NSM</rt></RUBY>)A 
 		- ⋯⋯⋯⋯⋯⋯⋯
 		- 11:25b (<RUBY><ruby><ruby>Τοῦτο<rt>οὗτος</rt></ruby><rt>This</rt></ruby><rt>D-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>ποτήριον<rt>ποτήριον</rt></ruby><rt>cup</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>καινὴ<rt>καινός</rt></ruby><rt>new</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>διαθήκη<rt>διαθήκη</rt></ruby><rt>covenant</rt></ruby><rt>N-NSF</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ἐστὶν</strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>ἐμῷ<rt>ἐμός</rt></ruby><rt>My</rt></ruby><rt>S-1SDSN</rt></RUBY> <RUBY><ruby><ruby>αἵματι·<rt>αἷμα</rt></ruby><rt>blood</rt></ruby><rt>N-DSN</rt></RUBY>)A 
-		- 11:25d (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ποιεῖτε,</strong><rt>ποιέω</rt></ruby><rt>do</rt></ruby><rt>V-PAI⁞PAM-2P</rt></RUBY>)P ⸉⸊ (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐμὴν<rt>ἐμός</rt></ruby><rt>of Me</rt></ruby><rt>S-1SASF</rt></RUBY> <RUBY><ruby><ruby>ἀνάμνησιν.<rt>ἀνάμνησις</rt></ruby><rt>remembrance</rt></ruby><rt>N-ASF</rt></RUBY>)A
-			- 11:25e ⸉ { (<RUBY><ruby><ruby>ὁσάκις<rt>ὁσάκις</rt></ruby><rt>as often as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><strong>πίνητε,</strong><rt>πίνω</rt></ruby><rt>you might drink [it]</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P } ⸊
+		- 11:25c (<RUBY><ruby><ruby>τοῦτο<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>ποιεῖτε,</strong><rt>ποιέω</rt></ruby><rt>do</rt></ruby><rt>V-PAI⁞PAM-2P</rt></RUBY>)P ⸉11:25d⸊ (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐμὴν<rt>ἐμός</rt></ruby><rt>of Me</rt></ruby><rt>S-1SASF</rt></RUBY> <RUBY><ruby><ruby>ἀνάμνησιν.<rt>ἀνάμνησις</rt></ruby><rt>remembrance</rt></ruby><rt>N-ASF</rt></RUBY>)A
+			- 11:25d ⸉ { (<RUBY><ruby><ruby>ὁσάκις<rt>ὁσάκις</rt></ruby><rt>as often as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><strong>πίνητε,</strong><rt>πίνω</rt></ruby><rt>you might drink [it]</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P } ⸊
 	- ————————
 - 11:26a ⸉<RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>⸊
 	- 11:26b (<RUBY><ruby><ruby>ὁσάκις<rt>ὁσάκις</rt></ruby><rt>As often as</rt></ruby><rt>CONJ</rt></RUBY> ⸉⸊ <RUBY><ruby><ruby>ἐὰν<rt>ἐάν</rt></ruby><rt>if</rt></ruby><rt>PRT</rt></RUBY>)A (<RUBY><ruby><ruby><strong>ἐσθίητε</strong><rt>ἐσθίω</rt></ruby><rt>you may eat</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦτον<rt>οὗτος</rt></ruby><rt>this</rt></ruby><rt>D-ASM</rt></RUBY>)C
-	- 11:26b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ποτήριον<rt>ποτήριον</rt></ruby><rt>cup</rt></ruby><rt>N-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>πίνητε,</strong><rt>πίνω</rt></ruby><rt>may drink</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P 
-- 11:26c (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>θάνατον<rt>θάνατος</rt></ruby><rt>death</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><strong>καταγγέλλετε</strong><rt>καταγγέλλω</rt></ruby><rt>you proclaim</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P { <RUBY><ruby><ruby>ἄχρι<rt>ἄχρι</rt></ruby><rt>until</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-GSM</rt></RUBY> (<RUBY><ruby><ruby><strong>ἔλθῃ.¶</strong><rt>ἔρχομαι</rt></ruby><rt>He should come</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P }A
+	- 11:26c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby>ποτήριον<rt>ποτήριον</rt></ruby><rt>cup</rt></ruby><rt>N-ASN</rt></RUBY>)C (<RUBY><ruby><ruby><strong>πίνητε,</strong><rt>πίνω</rt></ruby><rt>may drink</rt></ruby><rt>V-PAS-2P</rt></RUBY>)P 
+- 11:26d (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>θάνατον<rt>θάνατος</rt></ruby><rt>death</rt></ruby><rt>N-ASM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><strong>καταγγέλλετε</strong><rt>καταγγέλλω</rt></ruby><rt>you proclaim</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P { <RUBY><ruby><ruby>ἄχρι<rt>ἄχρι</rt></ruby><rt>until</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-GSM</rt></RUBY> (<RUBY><ruby><ruby><strong>ἔλθῃ.¶</strong><rt>ἔρχομαι</rt></ruby><rt>He should come</rt></ruby><rt>V-AAS-3S</rt></RUBY>)P }A
 - ═════════════
 - 11:27a <RUBY><ruby><ruby>Ὥστε<rt>ὥστε</rt></ruby><rt>Therefore</rt></ruby><rt>CONJ</rt></RUBY> 
 	- 11:27b (<RUBY><ruby><ruby>ὃς<rt>ὅς</rt></ruby><rt>whoever</rt></ruby><rt>R-NSM</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>ἄν</rt></ruby><rt>-</rt></ruby><rt>PRT</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἐσθίῃ</strong><rt>ἐσθίω</rt></ruby><rt>should eat</rt></ruby><rt>V-PAS-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>ἄρτον<rt>ἄρτος</rt></ruby><rt>bread</rt></ruby><rt>N-ASM</rt></RUBY>)C
@@ -50,13 +50,59 @@
 - 11:32b (<RUBY><ruby><ruby><em>κρινόμενοι</em><rt>κρίνω</rt></ruby><rt>Being judged</rt></ruby><rt>V-PPP-NPM</rt></RUBY>)A ⸉⸊ (<RUBY><ruby><ruby>ὑπὸ<rt>ὑπό</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>Lord</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>παιδευόμεθα,</strong><rt>παιδεύω</rt></ruby><rt>we are disciplined</rt></ruby><rt>V-PPI-1P</rt></RUBY>)P 
 	- 11:32c <RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>μή</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>σὺν<rt>σύν</rt></ruby><rt>with</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>κόσμῳ<rt>κόσμος</rt></ruby><rt>world</rt></ruby><rt>N-DSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong>κατακριθῶμεν.</strong><rt>κατακρίνω</rt></ruby><rt>we should be condemned</rt></ruby><rt>V-APS-1P</rt></RUBY>)P 
 
-## 語意解經 (Exegesis)
+## 解經 (Exegesis)
+
+
+
+
+- 上下文背景：教會分黨結派 (林前11:18-19)
+	-  林前11:17-22 & 林前11:33-34
+	- 跟林前1:10-12 (屬靈認同上的分黨) 有關，但不盡相同——這裡是社會階級(貧富差距) 造成的分黨
+- ═════════════
+- 11:23c-11:24b
+	- 三個動作：拿(**ἔλαβεν**) & 一邊祝謝(_εὐχαριστήσας_)一邊擘開(**ἔκλασεν**) & 說(**εἶπεν**)
+- 11:24c 
+	- 這 (中性單數)—是—身體 (中性單數)
+	- μού τὸ(T) σῶμα(N) τὸ(T) ὑπὲρ ὑμῶν(A) = 我的—為你們的身體 (中性單數)
+	- 11:23c 的餅 (ἄρτον) 是陽性單數 ⇒ 可見耶穌在此並非「餅『等同』身體」，而是「餅『象徵』身體」。
+- 11:24d  
+	- τοῦτο 指上述的整個行動 (11:25c 同)，不是單指餅
+	- **ποιεῖτε** 命令語氣 (11:25c 同)
+- 11:25a 
+	- ὡσαύτως 比照11:23c-24b 辦理：一邊祝謝一邊拿 & 說 
+- 11:25b 
+	- 這杯(中性單數)—是—新約(陰性單數)，藉著我的血
+	- 耶穌在此並非「杯『等同』新約」，也不是「酒『等同』血」，而是「杯『象徵』藉由血所立的新約」。
+- 11:25d 
+	- ὁσάκις  ἐὰν (每逢)：意思是 as often as, as many times as 如果你們 ....  (11:26b 同)
+		- 耶穌希望我們不只是每年一次 (逾越節)，而是常常、每次想到耶穌的時候，就要紀念祂！
+		- 🎗️每天都要吃、喝 ... 但常常行禮如儀，沒有想到主 😢
+	- 🎀關鍵是：你心裡有沒有耶穌！ 
+- 11:26d 聖餐的意義
+	- 宣揚、傳揚 (**καταγγέλλετε**) 主的死 ⇒🎀耶穌基督並祂釘十字架 (林前2:2)
+	- 直等到他來 ⇒ 🎀終末！神的國！
+		- 路22:16 我告訴你們，我不再吃這筵席，直到成就在*上帝的國*裏。」 
+		- 路22:18 我告訴你們，從今以後，我不再喝這葡萄汁，直等*上帝的國*來到。」 
+		- 路22:24-30 門徒起了爭論，他們中間哪一個可算為大。 耶穌說：「外邦人有君王為主治理他們，那掌權管他們的稱為恩主。 但你們不可這樣；你們裏頭為大的，倒要像年幼的，為首領的，倒要像服事人的。 是誰為大？是坐席的呢？是服事人的呢？不是坐席的大嗎？然而，我在你們中間如同服事人的。 我在磨煉之中，常和我同在的就是你們。 我將*國*賜給你們，正如我父賜給我一樣， 叫*你們在我國裏，坐在我的席上吃喝，並且坐在寶座上，審判以色列十二個支派*。」 
+- 11:23-26 聖餐的意義 ⇒ 🎀就是福音！
+	- 是紀念主耶穌，宣揚十字架 (死 & 復活→他來)
+	- 是群體的合一 (林前11:17-22 & 林前11:33-34的背景)
+	- 是把過去、現在、未來整合在一起的神聖時刻！
+- ═════════════
+- 11:27c ἀναξίως = unworthy 配不上 ...
+	- 不按理 (和合)、不按規矩 (和修)、不用敬虔的心 (現代中文)、不合適的態度 (新譯)、不合宜 (標準)
+	- 聖餐的細節不是重點——🎀關鍵是：配不配得上聖餐的意義！
 
 ![images/Pasted image 20230624072126.png](images/Pasted%20image%2020230624072126.png)
 
-## 講道大綱 (Outline)
+## 大綱 (Outline)
+💡😀😢❓❌⭕🎀🎗️
 
-
+- (0) 開場
+- (1) 聖餐的意義
+- (2) 正確的回應
+	- 錯誤的態度：配不上 ...
+	- 正確的態度：省察自己 (個人) ...
 ## 小抄 (memo)
 
 
