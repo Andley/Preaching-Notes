@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 276.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -172,13 +172,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4937107b7114ee97",
+  "active": "5fbfec82f3268471",
   "lastOpenFiles": [
+    "README.md",
+    "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "images/2023-06-25-林前11.23-32.png",
-    "1Co.11.23-32.md",
     "template/講道筆記範本.md",
-    "README.md",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
     "Jos.9.7-15.md",
