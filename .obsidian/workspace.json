@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Co.15.1-11.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Co.15.1-11.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Co.15.1-11.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Co.15.1-11.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +157,7 @@
   },
   "active": "1397e0fa3c41bf7b",
   "lastOpenFiles": [
+    "1Co.15.1-11.md",
     "README.md",
     "1Co.11.23-32.md",
     "images/2023-02-19-出24.12-18.png",
@@ -175,7 +176,6 @@
     "images/2023-05-28-徒2.1-21小抄.jpg",
     "images/2023-05-28-徒2.1-21.png",
     "images/2023-05-28-林前12.3-14.png",
-    "1Co.15.1-11.md",
     "Pro.18.8.md",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",
