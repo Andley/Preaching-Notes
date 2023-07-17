@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1397e0fa3c41bf7b",
+  "active": "75b75d906b38f1fb",
   "lastOpenFiles": [
     "1Co.15.1-11.md",
     "README.md",

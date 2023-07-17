@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
   body {
-    font-family: 'Gentium Book Plus', 'Noto Serif Hebrew', 'Noto Sans TC';
+    font-family: 'Gentium Book Plus', 'Noto Sans TC';
     color: black;
   }
 
@@ -38,15 +38,16 @@
   }
 
   ruby {
-    line-height: 3.5em;
-    padding: 1px;
+    line-height: 4.5em;
   }
 
-  rt {
-    text-align: center;
-    padding: 1px;
+  ul ruby {
+    line-height: 2.5em;
   }
   
+  rt {
+    padding: 0 2px;
+  }
   /* page layout */
   header {
     padding: 20px 20px 5px 20px;
@@ -93,6 +94,13 @@
   td:first-child {
     border-left: 1px solid;
   }
+
+  /* offset anchor tag link */
+  
+:target {
+    padding-top: 115px;
+    margin-top: -115px;
+}
 
   /* text decoration for marking syntax functions */
 .S {text-decoration: underline double; text-underline-offset: 4px; }
