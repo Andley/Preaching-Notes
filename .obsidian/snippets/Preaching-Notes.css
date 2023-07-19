@@ -136,10 +136,14 @@ em,  .cm-em {
   }
 
 /* text decoration for marking syntax functions */
-.S {text-decoration: underline double; text-underline-offset: 5px;}
-.P {text-decoration: underline wavy; text-underline-offset: 5px;}
-.C {text-decoration: underline solid; text-underline-offset: 5px;}
-.A {text-decoration: underline dotted; text-underline-offset: 5px;}
+
+
+mark{
+  &.S {background-color: none; text-decoration: underline double; text-underline-offset: 5px;}
+  &.P {background: none; text-decoration: underline wavy; text-underline-offset: 5px;}
+  &.C {text-decoration: underline solid; text-underline-offset: 5px;}
+  &.A {text-decoration: underline dotted; text-underline-offset: 5px;}
+}
 
 @media print {
     body {
