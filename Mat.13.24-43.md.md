@@ -11,8 +11,7 @@
 ## 句法 (Syntax)
 
 
-- 8:12
-- <RUBY><ruby><ruby>Ἄρα<rt>ἄρα</rt></ruby><rt>So</rt></ruby><rt>CONJ</rt></RUBY>
+- 8:12a <RUBY><ruby><ruby>Ἄρα<rt>ἄρα</rt></ruby><rt>So</rt></ruby><rt>CONJ</rt></RUBY>
 - <RUBY><ruby><ruby>οὖν,<rt>οὖν</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> <RUBY><ruby><ruby>ὀφειλέται<rt>ὀφειλέτης</rt></ruby><rt>debtors</rt></ruby><rt>N-NPM</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἐσμέν</strong></strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-DSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby><em>ζῆν,</em><rt>ζάω</rt></ruby><rt>to live</rt></ruby><rt>V-PAN</rt></RUBY> 
 - 8:13
 - <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY>
