@@ -48,7 +48,45 @@
   rt {
     padding: 0 2px;
   }
-  /* page layout */
+
+/* ═════════════ */
+/* table */
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  th {
+    border-bottom: 4px double;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    border-left: 2px solid;
+    font-weight: 800;
+    border-color: black;
+  }
+  td {
+    border: 1px solid;
+    border-color: black;
+  }
+  td:first-child {
+    border-left: 1px solid;
+  }
+
+/* ═════════════ */
+/* text decoration for marking syntax & semantic features */
+mark{
+  &.S {background: none; text-decoration: underline double; text-underline-offset: 5px;}
+  &.P {background: none; text-decoration: underline wavy; text-underline-offset: 5px;}
+  &.C {background: none; text-decoration: underline solid; text-underline-offset: 5px;}
+  &.A {background: none; text-decoration: underline dotted; text-underline-offset: 5px;}
+  &.green {background-color: lightgreen; }
+  &.red {background-color: lightcoral; }
+  &.blue {background-color: skyblue; }
+  &.purple {background-color: purple; }
+}
+
+/* ═════════════ */
+/* page layout */
   header {
     padding: 20px 20px 5px 20px;
   }
@@ -73,41 +111,13 @@
     margin-top: 30px;
   }
 
-  /* table */
-  table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  th {
-    border-bottom: 4px double;
-    border-top: 2px solid;
-    border-right: 2px solid;
-    border-left: 2px solid;
-    font-weight: 800;
-    border-color: black;
-  }
-  td {
-    border: 1px solid;
-    border-color: black;
-  }
-  td:first-child {
-    border-left: 1px solid;
-  }
 
-  /* offset anchor tag link */
+/* offset anchor tag link */
   
 :target {
     padding-top: 115px;
     margin-top: -115px;
 }
-
-  /* text decoration for marking syntax functions */
-.S {text-decoration: underline double; text-underline-offset: 4px; }
-.P {text-decoration: underline wavy; text-underline-offset: 4px; }
-.C {text-decoration: underline solid; text-underline-offset: 4px; }
-.A {text-decoration: underline dotted; text-underline-offset: 4px; }
-
 
 /* BULLET POINT RELATIONSHIP LINES */
 ul ul { position: relative; }
