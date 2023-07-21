@@ -14,6 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "Rom.8.12-25.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0b78b07d040b219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b45bdaeaa5eb87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rom.8.12-25.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,12 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
+    "width": 334.5,
     "collapsed": true
   },
   "right": {
@@ -158,8 +175,9 @@
   },
   "active": "4c1665d710fe052f",
   "lastOpenFiles": [
-    "README.md",
+    "images/2023-07-23-Rom.8.12-15.png",
     "Rom.8.12-25.md",
+    "README.md",
     "1Co.15.1-11.md",
     "1Co.11.23-32.md",
     "images/2023-02-19-出24.12-18.png",
@@ -177,7 +195,6 @@
     "images/2023-05-28-林前12.3.13小抄.jpg",
     "images/2023-05-28-徒2.1-21小抄.jpg",
     "images/2023-05-28-徒2.1-21.png",
-    "images/2023-05-28-林前12.3-14.png",
     "Pro.18.8.md",
     "Exo.24.12-18.md",
     "Mat.17.1-9.md",
