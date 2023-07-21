@@ -12,21 +12,22 @@
 
 
 - 8:12a <RUBY><ruby><ruby>Ἄρα<rt>ἄρα</rt></ruby><rt>So</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby>οὖν,<rt>οὖν</rt></ruby><rt>then</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἀδελφοί,<rt>ἀδελφός</rt></ruby><rt>brothers</rt></ruby><rt>N-VPM</rt></RUBY> 
+- ═════════════
 - 8:12b (<RUBY><ruby><ruby>ὀφειλέται<rt>ὀφειλέτης</rt></ruby><rt>debtors</rt></ruby><rt>N-NPM</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>ἐσμέν</strong></strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> ‹<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>to the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>σαρκὶ<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-DSF</rt></RUBY>›)A{ <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSN</rt></RUBY> [(<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-ASF</rt></RUBY>)a (<RUBY><ruby><ruby><em>ζῆν,</em><rt>ζάω</rt></ruby><rt>to live</rt></ruby><rt>V-PAN</rt></RUBY>)p] }A
-- ⋯⋯⋯⋯⋯⋯⋯
 	- 8:13a <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>κατὰ<rt>κατά</rt></ruby><rt>according to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>σάρκα<rt>σάρξ</rt></ruby><rt>flesh</rt></ruby><rt>N-ASF</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>ζῆτε,</strong></strong><rt>ζάω</rt></ruby><rt>you live</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P
 - 8:13b (<RUBY><ruby><ruby><strong><strong>μέλλετε</strong></strong><rt>μέλλω</rt></ruby><rt>you are about</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby><em>ἀποθνήσκειν·</em><rt>ἀποθνήσκω</rt></ruby><rt>to die</rt></ruby><rt>V-PAN</rt></RUBY>)C
 	- 8:13c <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>if</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πνεύματι<rt>πνεῦμα</rt></ruby><rt>by [the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY>)A (<RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>πράξεις<rt>πρᾶξις</rt></ruby><rt>deeds</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>σώματος<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-GSN</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>θανατοῦτε,</strong></strong><rt>θανατόω</rt></ruby><rt>you put to death</rt></ruby><rt>V-PAI-2P</rt></RUBY>)P 
 - 8:13d (<RUBY><ruby><ruby><strong><strong>ζήσεσθε.</strong></strong><rt>ζάω</rt></ruby><rt>you will live</rt></ruby><rt>V-FDI-2P</rt></RUBY>)P 
-- ⋯⋯⋯⋯⋯⋯⋯
+- ———————————
 	- 8:14a (<RUBY><ruby><ruby>ὅσοι<rt>ὅσος</rt></ruby><rt>As many as</rt></ruby><rt>K-NPM</rt></RUBY>)S <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Πνεύματι<rt>πνεῦμα</rt></ruby><rt>by [the] Spirit</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>ἄγονται,</strong></strong><rt>ἄγω</rt></ruby><rt>are led</rt></ruby><rt>V-PPI-3P</rt></RUBY>)P 
 - 8:14b (<RUBY><ruby><ruby>οὗτοι<rt>οὗτος</rt></ruby><rt>these</rt></ruby><rt>D-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>υἱοί<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-NPM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>εἰσιν.</strong></strong><rt>εἰμί</rt></ruby><rt>are</rt></ruby><rt>V-PAI-3P</rt></RUBY>)P 
-- ————————
+- ⋯⋯⋯⋯⋯⋯⋯
 - 8:15a <RUBY><ruby><ruby>Οὐ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἐλάβετε</strong></strong><rt>λαμβάνω</rt></ruby><rt>you have received</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P (<RUBY><ruby><ruby>πνεῦμα<rt>πνεῦμα</rt></ruby><rt>a spirit</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>δουλείας<rt>δουλεία</rt></ruby><rt>of bondage</rt></ruby><rt>N-GSF</rt></RUBY>)C (<RUBY><ruby><ruby>πάλιν<rt>πάλιν</rt></ruby><rt>again</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>φόβον<rt>φόβος</rt></ruby><rt>fear</rt></ruby><rt>N-ASM</rt></RUBY>)A
 - 8:15b <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἐλάβετε</strong></strong><rt>λαμβάνω</rt></ruby><rt>you have received</rt></ruby><rt>V-AAI-2P</rt></RUBY>)P (<mark><RUBY><ruby><ruby>πνεῦμα<rt>πνεῦμα</rt></ruby><rt>[the] Spirit</rt></ruby><rt>N-ASN</rt></RUBY> <RUBY><ruby><ruby>υἱοθεσίας<rt>υἱοθεσία</rt></ruby><rt>of divine adoption as sons</rt></ruby><rt>N-GSF</rt></RUBY>°¹</mark>)C
 	- 8:15c (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>by</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ᾧ°¹⮥<rt>ὅς</rt></ruby><rt>whom</rt></ruby><rt>R-DSN</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>κράζομεν·</strong></strong><rt>κράζω</rt></ruby><rt>we cry</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>Ἀββᾶ<rt>ἀββά</rt></ruby><rt>Abba!</rt></ruby><rt>N-VSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-VSM</rt></RUBY> <RUBY><ruby><ruby>Πατήρ.<rt>πατήρ</rt></ruby><rt>Father!</rt></ruby><rt>N-VSM</rt></RUBY>)C
 - 8:16a (<RUBY><ruby><ruby>αὐτὸ<rt>αὐτός</rt></ruby><rt>Himself</rt></ruby><rt>P-NSN</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>συμμαρτυρεῖ</strong></strong><rt>συμμαρτυρέω</rt></ruby><rt>bears witness with</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>πνεύματι<rt>πνεῦμα</rt></ruby><rt>spirit</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)C
 	- 8:16b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἐσμὲν</strong></strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>τέκνα<rt>τέκνον</rt></ruby><rt>children</rt></ruby><rt>N-NPN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C
+- ———————————
 	- 8:17a <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τέκνα,<rt>τέκνον</rt></ruby><rt>children</rt></ruby><rt>N-NPN</rt></RUBY>)C
 - 8:17b (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>κληρονόμοι·<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)C 
 - 8:17e (<RUBY><ruby><ruby>κληρονόμοι<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> ⦈(<RUBY><ruby><ruby>Θεοῦ,<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C 
@@ -60,10 +61,33 @@
 
 
 ## 解經 (Exegesis)
-![images/2023-07-23-Rom.8.12-15.png](images/2023-07-23-Rom.8.12-15.png)
-💡😀😢❓❌⭕❗🎀🎗️✳️
 
-- 
+- 8:12a
+	- Ἄρα οὖν：如此說來；在此 Ἄρα 表示推論，οὖν 則是轉接 (BAGD)
+	- οὖν 承接上文 (8:1-11) 隨從肉體 vs. 隨從聖靈 (8:1-8) 的對比
+		- 接著陳述信徒的實況：「既然 (新譯本、標準譯本) 神的靈住在你們裡面」(8:9)、「基督在你們心裡」(8:10)、「叫耶穌死裡復活者的靈住在你們心裡」(8:22)
+		- 帶出必然的結論：「那叫基督耶穌 (**聖子**) 從死裏復活的 (**聖父**)，也必藉着住在你們心裏的**聖靈**，使你們必死的身體*又活過來*」(8:11) 
+	- Ἄρα 推論出下文，闡明『*又活過來*』的三方面涵義：
+		- 活著 (8:12-13)！
+		- 做神兒女 (8:14-16)！
+		- 與基督一同得榮 (8:17)！
+- 8:12b-13
+	- 「活」有兩種方式，都是滾雪球：
+		- 順著肉體，越來越死 😢
+		- 順著聖靈，越來越活 😀
+- 8:14-16 γὰρ 說明上文**ζήσεσθε** (越來越活) 的意思：
+	- 越來越活 ⇒ 身分轉變：是神的兒女 (υἱοί Θεοῦ)！
+		- 不是奴僕 (πνεῦμα δουλείας) ⇒ 害怕被主人責打 😢
+		- 而是 (πνεῦμα υἱοθεσίας) = 羅馬法律上「被收養的兒子」(BAGD) ⇒ 不必害怕，即便達不到父親期待，也可以大聲呼喊『Ἀββᾶ ὁ Πατήρ』！
+			- 💡孩子一聲『爸爸！』裡面包含了多少涵義！！
+	- 何以知道自己身分轉變？⇐ 聖靈掛保證 (8:16)
+- 8:17-18
+	- 越來越活 ⇒ 身分轉變 ⇒ 領受產業 (κληρονόμοι 繼承者) ⇒ 與基督一同承受產業 (συνκληρονόμοι)
+
+
+## 語意結構圖析 (Semantic Structure Diagram)
+
+![images/2023-07-23-Rom.8.12-15.png](images/2023-07-23-Rom.8.12-15.png)
 
 
 ## 大綱 (Outline)
