@@ -1,12 +1,9 @@
-經文：馬太福音13:24-30, 36-43   
-題目：榮樣的盼望   
+經文：羅馬書8:12-25  
+題目：榮耀的盼望 (二)   
 日期：2023-07-23   
 教會：台北衛理堂   
 
-經課一：創世記28:10-19a(舊約33頁)  
-啟應文：詩篇139:1-12, 23-24(舊約760頁)   
-經課二：羅馬書8:12-25(新約217頁)  
-福音書：馬太福音13:24-30, 36-43 (新約18頁)  
+![images/2023-07-23.lectionary.png](images/2023-07-23.lectionary.png)
 
 ## 句法 (Syntax)
 
@@ -30,10 +27,10 @@
 - ———————————
 	- 8:17a <RUBY><ruby><ruby>εἰ<rt>εἰ</rt></ruby><rt>If</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>τέκνα,<rt>τέκνον</rt></ruby><rt>children</rt></ruby><rt>N-NPN</rt></RUBY>)C
 - 8:17b (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>κληρονόμοι·<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)C 
-- 8:17e (<RUBY><ruby><ruby>κληρονόμοι<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> ⦈(<RUBY><ruby><ruby>Θεοῦ,<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C 
-- 8:17f (<RUBY><ruby><ruby>συνκληρονόμοι<rt>συγκληρονόμος</rt></ruby><rt>joint-heirs</rt></ruby><rt>A-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Χριστοῦ,<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)C ...<mark>**ἐσμέν°²**</mark> ...
-	- 8:17g { <RUBY><ruby><ruby>εἴπερ<rt>εἴπερ</rt></ruby><rt>if indeed</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>συμπάσχομεν</strong><rt>συμπάσχω</rt></ruby><rt>we suffer with [Him]</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P }A°²⮥
-	- 8:18h {<RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>συνδοξασθῶμεν.¶</strong></strong><rt>συνδοξάζω</rt></ruby><rt>we may be glorified together</rt></ruby><rt>V-APS-1P</rt></RUBY>)P }A°²⮥
+- 8:17c (<RUBY><ruby><ruby>κληρονόμοι<rt>κληρονόμος</rt></ruby><rt>heirs</rt></ruby><rt>N-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>μὲν<rt>μέν</rt></ruby><rt>indeed</rt></ruby><rt>PRT</rt></RUBY> ⦈(<RUBY><ruby><ruby>Θεοῦ,<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C 
+- 8:17d (<RUBY><ruby><ruby>συνκληρονόμοι<rt>συγκληρονόμος</rt></ruby><rt>joint-heirs</rt></ruby><rt>A-NPM</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>Χριστοῦ,<rt>Χριστός</rt></ruby><rt>of Christ</rt></ruby><rt>N-GSM-T</rt></RUBY>)C ...<mark>**ἐσμέν°²**</mark> ...
+	- 8:17e { <RUBY><ruby><ruby>εἴπερ<rt>εἴπερ</rt></ruby><rt>if indeed</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong>συμπάσχομεν</strong><rt>συμπάσχω</rt></ruby><rt>we suffer with [Him]</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P }A°²⮥
+	- 8:17f {<RUBY><ruby><ruby>ἵνα<rt>ἵνα</rt></ruby><rt>so that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>συνδοξασθῶμεν.¶</strong></strong><rt>συνδοξάζω</rt></ruby><rt>we may be glorified together</rt></ruby><rt>V-APS-1P</rt></RUBY>)P }A°²⮥
 - ═════════════
 - 8:18a (<RUBY><ruby><ruby><strong><strong>Λογίζομαι</strong></strong><rt>λογίζομαι</rt></ruby><rt>I reckon</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>
 	- 8:18b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἄξια<rt>ἄξιος</rt></ruby><rt>comparable</rt></ruby><rt>A-NPN</rt></RUBY>)C (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>παθήματα<rt>πάθημα</rt></ruby><rt>sufferings</rt></ruby><rt>N-NPN</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>present</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καιροῦ<rt>καιρός</rt></ruby><rt>time [are]</rt></ruby><rt>N-GSM</rt></RUBY>›)S {<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby><em><em>μέλλουσαν</em></em><rt>μέλλω</rt></ruby><rt>coming</rt></ruby><rt>V-PAP-ASF</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-ASF</rt></RUBY> (<RUBY><ruby><ruby><em>ἀποκαλυφθῆναι</em><rt>ἀποκαλύπτω</rt></ruby><rt>to be revealed</rt></ruby><rt>V-APN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς.<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY>) }A
@@ -79,7 +76,7 @@
 	- 越來越活 ⇒ 身分轉變：是神的兒女 (υἱοί Θεοῦ)！
 		- 不是奴僕 (πνεῦμα δουλείας) ⇒ 害怕被主人責打 😢
 		- 而是 (πνεῦμα υἱοθεσίας) = 羅馬法律上「被收養的兒子」(BAGD) ⇒ 不必害怕，即便達不到父親期待，也可以大聲呼喊『Ἀββᾶ ὁ Πατήρ』！
-			- 💡孩子一聲『爸爸！』裡面包含了多少涵義！！
+			- 💡<mark>孩子一聲『爸爸！』裡面包含了多少涵義！！</mark>
 	- 何以知道自己身分轉變？⇐ 聖靈掛保證 (8:16)
 - 8:17-18
 	- 越來越活 ⇒ 身分轉變 ⇒ 領受產業 (κληρονόμοι 繼承者) ⇒ 與基督一同承受產業 (συνκληρονόμοι)

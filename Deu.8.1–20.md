@@ -39,7 +39,7 @@ tags： #證道  #解經
 
 
 ## 圖析 (Syntax Diagram)
-![](images/2020-11-08-%E7%94%B38.1-20.png)
+![](images/2020-11-08-Deu.8.1-20.png)
 
 
 ---

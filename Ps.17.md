@@ -71,7 +71,7 @@ tags： #證道  #解經
 	
 
 ## 小抄 (memo)
-![images/2021-07-25-詩17小抄.jpg](images/2021-07-25-%E8%A9%A917%E5%B0%8F%E6%8A%84.jpg)
+![images/2021-07-25-Psa.17小抄.jpg](images/2021-07-25-Psa.17小抄.jpg)
 
 
 ---

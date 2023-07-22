@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "Gen.28.10-19.md": "rtl"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

@@ -6,7 +6,7 @@ tags： #證道  #解經
 
 
 ## 句法圖析 (Syntax Diagram)
-![images/2021-12-15-詩81圖析.png](images/2021-12-15-詩81圖析.png)
+![images/2021-12-15-Psa.81圖析.png](images/2021-12-15-Psa.81圖析.png)
 
 ## 解經 (Exegesis) & 大綱 (Outline)
 ####  先講結論 
@@ -95,7 +95,7 @@ tags： #證道  #解經
 
 ## 小抄 (memo)
 
-![images/2021-12-15-詩81小抄.jpg](images/2021-12-15-詩81小抄.jpg)
+![images/2021-12-15-Psa.81小抄.jpg](images/2021-12-15-Psa.81小抄.jpg)
 
 
 ---

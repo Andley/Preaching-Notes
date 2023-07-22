@@ -45,10 +45,10 @@
 
 ## 語意結構分析 (Semantic Structure Analysis)
 - 中文
-![images/2023-05-10-林前15.1-11a.png](images/2023-05-10-林前15.1-11a.png)
+![images/2023-05-10-1Co.15.1-11a.png](images/2023-05-10-1Co.15.1-11a.png)
 
 - 原文
-![images/2023-05-10-林前15.1-11b.png](images/2023-05-10-林前15.1-11b.png)
+![images/2023-05-10-1Co.15.1-11b.png](images/2023-05-10-1Co.15.1-11b.png)
 
 ## 大綱 (Outline)
 
@@ -81,7 +81,7 @@
 ## 小抄 (memo)
 
 
-![images/2023-05-10-林前15.1-11小抄.jpg](images/2023-05-10-林前15.1-11小抄.jpg)
+![images/2023-05-10-1Co.15.1-11小抄.jpg](images/2023-05-10-1Co.15.1-11小抄.jpg)
 
 ---
 
