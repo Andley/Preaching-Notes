@@ -126,7 +126,7 @@ tags： #證道  #解經
 
 ## 小抄 (memo)
 
-![images/2022-03-20-林前15.35–44小抄.jpg](images/2022-03-20-%E6%9E%97%E5%89%8D15.35%E2%80%9344%E5%B0%8F%E6%8A%84.jpg)
+![images/2022-03-20-1Co.15.35–44-memo.jpg](images/2022-03-20-1Co.15.35–44-memo.jpg)
 
 ---
 [README](README.md)

@@ -159,7 +159,7 @@ tags： #證道  #解經  #靈命日糧
 ## 小抄 (memo)
 
 
-![images/2021-05-09-Mat.6.25–34小抄.jpg](images/2021-05-09-Mat.6.25–34小抄.jpg)
+![images/2021-05-09-Mat.6.25–34-memo.jpg](images/2021-05-09-Mat.6.25–34-memo.jpg)
 
 
 ---

@@ -145,7 +145,7 @@
 
 ## 小抄 (memo)
 
-![images/2023-05-28-Act.2.1-21小抄.jpg](images/2023-05-28-Act.2.1-21小抄.jpg)
+![images/2023-05-28-Act.2.1-21-memo.jpg](images/2023-05-28-Act.2.1-21-memo.jpg)
 
 
 

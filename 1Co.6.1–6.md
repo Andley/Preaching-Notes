@@ -123,7 +123,7 @@ tags： #證道  #解經
 
 
 ## 小抄 (memo)
-![|350x400](images/2021-01-10-1Co.6.1-6小抄.jpg)
+![|350x400](images/2021-01-10-1Co.6.1-6-memo.jpg)
 
 ## 手稿 (Manuscript) 
 

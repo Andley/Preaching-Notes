@@ -150,7 +150,7 @@ tags： #證道  #解經  #靈命日糧
 
 ## 小抄 (memo)
 
-![images/2021-05-08-Rom.8.1–17小抄.jpg](images/2021-05-08-Rom.8.1–17小抄.jpg)
+![images/2021-05-08-Rom.8.1–17-memo.jpg](images/2021-05-08-Rom.8.1–17-memo.jpg)
 
 
 ---

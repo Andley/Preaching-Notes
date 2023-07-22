@@ -147,6 +147,6 @@
 ## 小抄 (memo)
 
 
-![images/2023-06-25-1Co.11.23-32小抄a.jpg](images/2023-06-25-1Co.11.23-32小抄a.jpg)
+![images/2023-06-25-1Co.11.23-32-memoa.jpg](images/2023-06-25-1Co.11.23-32-memoa.jpg)
 
-![images/2023-06-25-1Co.11.23-32小抄b.jpg](images/2023-06-25-1Co.11.23-32小抄b.jpg)
+![images/2023-06-25-1Co.11.23-32-memob.jpg](images/2023-06-25-1Co.11.23-32-memob.jpg)

@@ -4,11 +4,11 @@
 日期：2023-07-23   
 教會：台北衛理堂   
 
-![images/2023-07-23.lectionary.png](images/2023-07-23.lectionary.png)
+![images/2023-07-23-lectionary.png](images/2023-07-23-lectionary.png)
 
 ## 語意結構圖析 (Semantic Structure Diagram)
 
-![images/2023-07-23.Gen.28.10-19.png](images/2023-07-23.Gen.28.10-19.png)
+![images/2023-07-23-Gen.28.10-19.png](images/2023-07-23-Gen.28.10-19.png)
 
 ️
 ## 大綱 (Outline)
@@ -39,7 +39,7 @@
 ## 小抄 (memo)
 
 
-
+![images/2023-07-23-Gen.28.10-19-memo.jpg](images/2023-07-23-Gen.28.10-19-memo.jpg)
 
 ---
 

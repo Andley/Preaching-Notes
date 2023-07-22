@@ -85,7 +85,7 @@ tags： #證道  #解經
 
 ## 小抄 (Memo)
 
-![images/2022-05-29-小抄.jpg](images/2022-05-29-%E5%B0%8F%E6%8A%84.jpg)
+![images/2022-05-29-Jos.9.7-15-memo.jpg](images/2022-05-29-Jos.9.7-15-memo.jpg)
 
 ---
 [README](README.md)

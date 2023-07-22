@@ -89,7 +89,7 @@
 
 ## 小抄 (memo)
 
-![images/2023-05-28-1Co.12.3.13小抄.jpg](images/2023-05-28-1Co.12.3.13小抄.jpg)
+![images/2023-05-28-1Co.12.3.13-memo.jpg](images/2023-05-28-1Co.12.3.13-memo.jpg)
 
 ---
 

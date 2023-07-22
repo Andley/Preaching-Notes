@@ -105,7 +105,7 @@ tags： #證道  #解經
 
 ## 小抄 (memo)
 
-![|310x310](images/2022-07-31-%E8%85%933.7-16%E5%B0%8F%E6%8A%84a.jpg) ![|300x310](images/2022-07-31-%E8%85%933.7-16%E5%B0%8F%E6%8A%84b.jpg)
+![|310x310](images/2022-07-31-Php.3.7-16-memoa.jpg) ![|300x310](images/2022-07-31-Php.3.7-16-memob.jpg)
 
 ---
 [README](README.md)
