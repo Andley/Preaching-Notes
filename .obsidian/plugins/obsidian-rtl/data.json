@@ -1,6 +1,6 @@
 {
   "fileDirections": {
-    "Gen.28.10-19.md": "rtl"
+    "Gen.28.10-19.md": "auto"
   },
   "defaultDirection": "ltr",
   "rememberPerFile": true,
