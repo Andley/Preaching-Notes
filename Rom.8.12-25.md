@@ -34,21 +34,23 @@
 - ═════════════
 - 8:18a (<RUBY><ruby><ruby><strong><strong>Λογίζομαι</strong></strong><rt>λογίζομαι</rt></ruby><rt>I reckon</rt></ruby><rt>V-PNI-1S</rt></RUBY>)P <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>
 	- 8:18b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἄξια<rt>ἄξιος</rt></ruby><rt>comparable</rt></ruby><rt>A-NPN</rt></RUBY>)C (<RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NPN</rt></RUBY> <RUBY><ruby><ruby>παθήματα<rt>πάθημα</rt></ruby><rt>sufferings</rt></ruby><rt>N-NPN</rt></RUBY> ‹<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>νῦν<rt>νῦν</rt></ruby><rt>present</rt></ruby><rt>ADV</rt></RUBY> <RUBY><ruby><ruby>καιροῦ<rt>καιρός</rt></ruby><rt>time [are]</rt></ruby><rt>N-GSM</rt></RUBY>›)S {<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby><em><em>μέλλουσαν</em></em><rt>μέλλω</rt></ruby><rt>coming</rt></ruby><rt>V-PAP-ASF</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-ASF</rt></RUBY> (<RUBY><ruby><ruby><em>ἀποκαλυφθῆναι</em><rt>ἀποκαλύπτω</rt></ruby><rt>to be revealed</rt></ruby><rt>V-APN</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἡμᾶς.<rt>ἐγώ</rt></ruby><rt>us</rt></ruby><rt>P-1AP</rt></RUBY>) }A
+- ═════════════
 - 8:19 (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>The</rt></ruby><rt>T-NSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>ἀποκαραδοκία<rt>ἀποκαραδοκία</rt></ruby><rt>earnest expectation</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>κτίσεως<rt>κτίσις</rt></ruby><rt>creation</rt></ruby><rt>N-GSF</rt></RUBY>)S (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀποκάλυψιν<rt>ἀποκάλυψις</rt></ruby><rt>revelation</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GPM</rt></RUBY> <RUBY><ruby><ruby>υἱῶν<rt>υἱός</rt></ruby><rt>sons</rt></ruby><rt>N-GPM</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>ἀπεκδέχεται.</strong></strong><rt>ἀπεκδέχομαι</rt></ruby><rt>awaits</rt></ruby><rt>V-PNI-3S</rt></RUBY>)P 
 - 8:20 (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>To the</rt></ruby><rt>T-DSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>ματαιότητι<rt>ματαιότης</rt></ruby><rt>futility</rt></ruby><rt>N-DSF</rt></RUBY>)C (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>κτίσις<rt>κτίσις</rt></ruby><rt>creation</rt></ruby><rt>N-NSF</rt></RUBY>)S (<mark><RUBY><ruby><ruby><strong><strong>ὑπετάγη,</strong></strong><rt>ὑποτάσσω</rt></ruby><rt>was subjected</rt></ruby><rt>V-API-3S</rt></RUBY>°²</mark>)P 
 	- —— <RUBY><ruby><ruby>οὐχ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby>ἑκοῦσα<rt>ἑκών</rt></ruby><rt>willingly</rt></ruby><rt>A-NSF</rt></RUBY>)A°²⮥
 	- <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>because of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the [One]</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby><em>ὑποτάξαντα,</em><rt>ὑποτάσσω</rt></ruby><rt>having subjected [it]</rt></ruby><rt>V-AAP-ASM</rt></RUBY>)A°²⮥ ———
 	- (<RUBY><ruby><ruby>ἐφ᾽<rt>ἐπί</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑλπίδι<rt>ἐλπίς</rt></ruby><rt>hope</rt></ruby><rt>N-DSF</rt></RUBY>)A°²⮥
-	- 8:21a <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτὴ<rt>αὐτός</rt></ruby><rt>itself</rt></ruby><rt>P-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>κτίσις<rt>κτίσις</rt></ruby><rt>creation</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>ἐλευθερωθήσεται</strong></strong><rt>ἐλευθερόω</rt></ruby><rt>will be set free</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P 
+	- 8:21 <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτὴ<rt>αὐτός</rt></ruby><rt>itself</rt></ruby><rt>P-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>κτίσις<rt>κτίσις</rt></ruby><rt>creation</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>ἐλευθερωθήσεται</strong></strong><rt>ἐλευθερόω</rt></ruby><rt>will be set free</rt></ruby><rt>V-FPI-3S</rt></RUBY>)P 
 		- (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>δουλείας<rt>δουλεία</rt></ruby><rt>bondage</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>φθορᾶς<rt>φθορά</rt></ruby><rt>of decay</rt></ruby><rt>N-GSF</rt></RUBY>)A 
 		- (<RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>into</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐλευθερίαν<rt>ἐλευθερία</rt></ruby><rt>freedom</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τῆς<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSF</rt></RUBY> <RUBY><ruby><ruby>δόξης<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>τέκνων<rt>τέκνον</rt></ruby><rt>children</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ.<rt>θεός</rt></ruby><rt>of God</rt></ruby><rt>N-GSM</rt></RUBY>)A
-- ═════════════
+- ⋯⋯⋯⋯⋯⋯⋯
 - 8:22a (<RUBY><ruby><ruby><strong><strong>Οἴδαμεν</strong></strong><rt>εἴδω</rt></ruby><rt>We know</rt></ruby><rt>V-RAI-1P</rt></RUBY>)P <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY>
 	- 8:22b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>πᾶσα<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>κτίσις<rt>κτίσις</rt></ruby><rt>creation</rt></ruby><rt>N-NSF</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>συστενάζει</strong></strong><rt>συστενάζω</rt></ruby><rt>groans together</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 	- 8:22c <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>συνωδίνει</strong></strong><rt>συνωδίνω</rt></ruby><rt>travails together</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἄχρι<rt>ἄχρι</rt></ruby><rt>until</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>νῦν·<rt>νῦν</rt></ruby><rt>now</rt></ruby><rt>ADV</rt></RUBY>)A
+- ═════════════
 - 8:23a <RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>μόνον<rt>μόνος</rt></ruby><rt>only [so]</rt></ruby><rt>A-ASN</rt></RUBY> <RUBY><ruby><ruby>δέ,<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY>
-- 8:23b <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY>)A {<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>ourselves</rt></ruby><rt>P-NPM</rt></RUBY> [(<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀπαρχὴν<rt>ἀπαρχή</rt></ruby><rt>firstfruit</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-GSN</rt></RUBY>)c (<RUBY><ruby><ruby><em><em>ἔχοντες,</em></em><rt>ἔχω</rt></ruby><rt>having</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p] <RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>we</rt></ruby><rt>P-1NP</rt></RUBY>}S
-- 8:23c (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>ourselves</rt></ruby><rt>P-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτοῖς<rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1DPM</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>στενάζομεν</strong></strong><rt>στενάζω</rt></ruby><rt>groan</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
+- 8:23b <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>even</rt></ruby><rt>CONJ</rt></RUBY>)A {<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>ourselves</rt></ruby><rt>P-NPM</rt></RUBY> [(<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀπαρχὴν<rt>ἀπαρχή</rt></ruby><rt>firstfruit</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>πνεῦμα</rt></ruby><rt>Spirit</rt></ruby><rt>N-GSN</rt></RUBY>)c (<RUBY><ruby><ruby><em><em>ἔχοντες,</em></em><rt>ἔχω</rt></ruby><rt>having</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p] }S 
+- 8:23c (<RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>we</rt></ruby><rt>P-1NP</rt></RUBY>}S (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby>αὐτοὶ<rt>αὐτός</rt></ruby><rt>ourselves</rt></ruby><rt>P-NPM</rt></RUBY>)S (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτοῖς<rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1DPM</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>στενάζομεν</strong></strong><rt>στενάζω</rt></ruby><rt>groan</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P 
 	- [ (<RUBY><ruby><ruby>υἱοθεσίαν<rt>υἱοθεσία</rt></ruby><rt>divine adoption as sons</rt></ruby><rt>N-ASF</rt></RUBY>)c (<RUBY><ruby><ruby><em><em>ἀπεκδεχόμενοι,</em></em><rt>ἀπεκδέχομαι</rt></ruby><rt>awaiting</rt></ruby><rt>V-PNP-NPM</rt></RUBY>)p =(<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἀπολύτρωσιν<rt>ἀπολύτρωσις</rt></ruby><rt>redemption</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>σώματος<rt>σῶμα</rt></ruby><rt>body</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν.<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)c]A
 - 8:24 (<RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>In this</rt></ruby><rt>T-DSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>ἐλπίδι<rt>ἐλπίς</rt></ruby><rt>hope</rt></ruby><rt>N-DSF</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>ἐσώθημεν·</strong></strong><rt>σῴζω</rt></ruby><rt>we were saved</rt></ruby><rt>V-API-1P</rt></RUBY>)P 
 - 8:24b (<RUBY><ruby><ruby>ἐλπὶς<rt>ἐλπίς</rt></ruby><rt>hope</rt></ruby><rt>N-NSF</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby><em><em>βλεπομένη</em></em><rt>βλέπω</rt></ruby><rt>being seen</rt></ruby><rt>V-PPP-NSF</rt></RUBY>)S <RUBY><ruby><ruby>οὐκ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἔστιν</strong></strong><rt>εἰμί</rt></ruby><rt>is</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἐλπίς·<rt>ἐλπίς</rt></ruby><rt>hope</rt></ruby><rt>N-NSF</rt></RUBY>)C 
@@ -88,7 +90,7 @@
 		- 是神的兒女，所以再也沒有定罪 (8:1) 了！完全自由了！
 			- 沒有人能敵擋我們 (8:31)、控告我們 (8:32)、定罪我們 (8:34)、隔絕我們 (8:35)
 	- 何以知道自己身分轉變？⇐ 聖靈掛保證 (8:16)
-	- 對比 8:23 (等候得着兒子的名分) —— already and not-yet
+	- 對比 8:19 (等候神的眾子顯現)、8:23 (等候得着兒子的名分) —— already and not-yet
 - 8:17
 	- 越來越活 ⇒ 身分轉變 ⇒ 領受產業 (κληρονόμοι 繼承者) ⇒ 與基督一同承受產業 (συνκληρονόμοι)
 		- 前提是：與基督一同受苦 **συμπάσχομεν**
@@ -98,16 +100,26 @@
 - 8:18
 	- 現在的苦楚 vs. 將來要顯於我們的榮耀
 		- 我們這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀。 (2Co 4:17) 
+- ═════════════
+- 8:19
+	- 神的眾子 (τῶν υἱῶν τοῦ Θεοῦ) = 隨從聖靈引導、得着兒子名分的信徒
+- 8:20-22
+	- 虛空 (ματαιότης 的 DSF) = 傳道書 1:2 虛空的虛空 (Ματαιότης ματαιοτήτω)，虛空的虛空，凡事都是虛空。
+	- 8:20 因為受造之物屈從於虛空之下，不是自願的，而是由於那位使它屈從的；其實受造之物是**在盼望中 (ἐφ᾽ ἑλπίδι)** 屈從，這盼望**就是 (8:21 ὅτι 子句)**：受造之物本身也將要從敗壞的奴役中得到釋放，進入　神兒女榮耀的自由。 (當代中文譯本)
+	- 那叫他如此的 (τὸν _ὑποτάξαντα_ AAP-ASM)，不是 ματαιότητι SF ⇒ 是：<mark>上帝！</mark>
+		- 傳1:13 神叫世人所經練的是極重的勞苦。
+		- 傳3:10 神叫世人勞苦，使他們在其中受經練。
+- 8:23
+	- 受造之物嘆息、勞苦；信徒也嘆息、勞苦——**沒有差別**
+	- 受造之物帶著盼望；信徒也存盼望——天差地別 ⇐ 因為：聖靈掛保證！我們已經是兒女、已經是後裔了！！**關鍵在於：耶穌的應許 & 聖靈的保證！**
 
 
 ## 語意結構圖析 (Semantic Structure Diagram)
 
 
-![images/2023-07-23.Gen.28.10-19.png](images/2023-07-23.Gen.28.10-19.png)
+![images/2023-07-23-Rom.8.12-15.png](images/2023-07-23-Rom.8.12-15.png)
 
-
-## 大綱 (Outline)
-💡😀😢❓❌⭕❗🎀🎗️✳️
+## 大綱 (Outline)️
 
 - (0) 開場
 - (1) 榮耀的盼望——內涵 WHAT (8:12-17)
@@ -121,6 +133,8 @@
 - (2) 樞紐：將來的榮耀 vs. 現在的苦楚 (8:18)
 - (3) 榮耀的盼望——回應 HOW (8:19-25)
 	- (2a) 你不孤單——受造之物都在等 (8:19-22)！
+		- 受造之物嘆息、勞苦；信徒也嘆息、勞苦——**沒有差別**
+		- 受造之物帶著盼望；信徒也存盼望——天差地別 ⇐ 因為：聖靈掛保證！我們已經是兒女、已經是後裔了！！**關鍵在於：耶穌的應許 & 聖靈的保證！**
 	- (2b) 忍耐等候——因為必定成功 (8:23-25)！
 		- 聖靈代禱 (8:26-27) ＋ 聖子代禱 (8:34) = 基督的愛掛保證 (8:31-39)
 
