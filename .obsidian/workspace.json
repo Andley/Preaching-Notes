@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe8a032b0849756",
+        "id": "fcc9e198bd6176c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ca825203e9823c71",
+            "id": "248fd3b9ffa790c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen.28.10-19.md",
+                "file": "Rom.8.12-25.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "3fd754fe8138f377",
+        "id": "ae3fce89ee703c02",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f53aa15e2ba3ed",
+            "id": "5eb9e6ffd2eeac77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen.28.10-19.md",
+                "file": "Rom.8.12-25.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gen.28.10-19.md"
+                "file": "Rom.8.12-25.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gen.28.10-19.md",
+                "file": "Rom.8.12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gen.28.10-19.md",
+                "file": "Rom.8.12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +174,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca825203e9823c71",
+  "active": "5eb9e6ffd2eeac77",
   "lastOpenFiles": [
-    "Rom.8.12-25.md",
-    "Gen.28.10-19.md",
-    "images/2022-02-13-Heb.6.9–12小抄b.jpg",
     "README.md",
+    "Gen.28.10-19.md",
+    "Rom.8.12-25.md",
+    "images/2022-02-13-Heb.6.9–12小抄b.jpg",
     "images/2023-07-23.Gen.28.10-19.png",
     "images/2023-07-23-Rom.8.12-15.png",
     "images/2023-07-23.lectionary.png",
