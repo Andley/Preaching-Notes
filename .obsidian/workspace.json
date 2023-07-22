@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d31b72eb04ae892",
+        "id": "ebe8a032b0849756",
         "type": "tabs",
         "children": [
           {
-            "id": "240062d36a9c5bb7",
+            "id": "ca825203e9823c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rom.8.12-25.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "231205e0b67bcfe6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b36234a5ba17ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rom.8.12-25.md",
+                "file": "Gen.28.10-19.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rom.8.12-25.md"
+                "file": "Gen.28.10-19.md"
               }
             }
           },
@@ -133,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rom.8.12-25.md",
+                "file": "Gen.28.10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rom.8.12-25.md",
+                "file": "Gen.28.10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,13 +155,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "240062d36a9c5bb7",
+  "active": "ca825203e9823c71",
   "lastOpenFiles": [
-    "images/2023-07-23.Gen.28.10-19.png",
-    "images/2023-07-23-Rom.8.12-15.png",
     "Rom.8.12-25.md",
     "Gen.28.10-19.md",
+    "images/2022-02-13-Heb.6.9–12小抄b.jpg",
     "README.md",
+    "images/2023-07-23.Gen.28.10-19.png",
+    "images/2023-07-23-Rom.8.12-15.png",
     "images/2023-07-23.lectionary.png",
     "images/2023-02-19-lectionary.png",
     "template/講道筆記範本.md",
