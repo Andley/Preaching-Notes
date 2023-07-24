@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rom.8.12-25.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rom.8.12-25.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rom.8.12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rom.8.12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +156,7 @@
   },
   "active": "2395d1ac6350f932",
   "lastOpenFiles": [
+    "README.md",
     "Gen.28.10-19.md",
     "images/2021-02-14 Psa.34.1–10-memo.jpg",
     "images/2021-02-14 Psa.34.1–10a.png",
@@ -166,7 +167,6 @@
     "images/2022-04-24-Jos.16–17d.png",
     "images/2022-05-29-Jos.9.7-15-memo.jpg",
     "images/2023-07-23-Gen.28.10-19-memo.jpg",
-    "README.md",
     "Rom.8.12-25.md",
     "images/2023-07-23-Rom.8.12-25-memo.jpg",
     "Rom.8.1–17 (A).md",
