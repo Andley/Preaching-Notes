@@ -30,11 +30,20 @@
 	- 3:6b (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>γράμμα<rt>γράμμα</rt></ruby><rt>letter</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἀποκτέννει <mark class="pm">,</mark></strong><rt>ἀποκτείνω</rt></ruby><rt>kills</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 	- 3:6c (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>πνεῦμα<rt>πνεῦμα</rt></ruby><rt>the Spirit</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ζωοποιεῖ <mark class="pm">.</mark></strong><rt>ζωοποιέω</rt></ruby><rt>gives life</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 
-## 解經 (Exegesis)
-💡😀😢❓❌⭕❗🎀🎗️✳️
+️
 
 ## 語意圖析 (Semantic Diagram)
 ![images/2023-09-03-2Co.3.1-6.png](images/2023-09-03-2Co.3.1-6.png)
+
+## 解經 (Exegesis)
+💡😀😢❓❌⭕❗🎀🎗️
+- 石版
+	- 出31:18 耶和華在西乃山和摩西說完了話，就把兩塊法版交給他，是　神用指頭寫的石版。 
+	- 申5:22 這些話是耶和華在山上，從火中、雲中、幽暗中，大聲曉諭你們全會眾的；此外並沒有添別的話。他就把這話寫在兩塊石版上，交給我了。 
+- 心版
+	- 耶31:31-34 耶和華說：日子將到，我要與以色列家和猶大家**另立新約**， 不像我拉著他們祖宗的手，領他們出埃及地的時候，與他們所立的約。我雖作他們的丈夫，他們卻背了我的約。這是耶和華說的。 耶和華說：那些日子以後，我與以色列家所立的約乃是這樣：我要將我的律法放在他們裡面，寫在他們心上。我要作他們的　神，他們要作我的子民。 他們各人不再教導自己的鄰舍和自己的弟兄說：你該認識耶和華，因為他們從最小的到至大的都必認識我。我要赦免他們的罪孽，不再紀念他們的罪惡。這是耶和華說的。 
+		- 
+
 
 ## 大綱 (Outline)
 💡😀😢❓❌⭕❗🎀🎗️✳️
