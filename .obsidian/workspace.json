@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "75554daf4e22f66c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9a772868a513b6f5",
+  "active": "75554daf4e22f66c",
   "lastOpenFiles": [
     "images/2023-09-03-2Co.3.1-6.png",
     "2Co.3.1-6.md",
