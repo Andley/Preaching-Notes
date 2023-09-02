@@ -22,11 +22,11 @@
 - ————————
 - 3:4 (<RUBY><ruby><ruby>Πεποίθησιν<rt>πεποίθησις</rt></ruby><rt>Confidence</rt></ruby><rt>N-ASF</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>τοιαύτην<rt>τοιοῦτος</rt></ruby><rt>such</rt></ruby><rt>D-ASF</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>ἔχομεν</strong></strong><rt>ἔχω</rt></ruby><rt>we have</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>through</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Χριστοῦ<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>toward</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Θεόν <mark class="pm">.</mark><rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-ASM</rt></RUBY>)A 
 - 3:5a <RUBY><ruby><ruby>οὐχ<rt>οὐ</rt></ruby><rt>Not</rt></ruby><rt>PRT-N</rt></RUBY>
-	- 3:5b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀφ᾽<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῶν<rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1GPM</rt></RUBY>)A (<RUBY><ruby><ruby>ἱκανοί<rt>ἱκανός</rt></ruby><rt>sufficient</rt></ruby><rt>A-NPM</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>ἐσμεν</strong></strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P {(<RUBY><ruby><ruby><em>λογίσασθαί</em><rt>λογίζομαι</rt></ruby><rt>to reckon</rt></ruby><rt>V-AMN</rt></RUBY>)p (<RUBY><ruby><ruby>τι<rt>τις</rt></ruby><rt>anything</rt></ruby><rt>X-ASN</rt></RUBY>)c (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῶν <mark class="pm">,</mark><rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1GPM</rt></RUBY>)a}‡C
+	- 3:5b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀφ᾽<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῶν<rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1GPM</rt></RUBY>)A (<RUBY><ruby><ruby>ἱκανοί<rt>ἱκανός</rt></ruby><rt>sufficient</rt></ruby><rt>A-NPM</rt></RUBY>)C (<RUBY><ruby><ruby><strong><strong>ἐσμεν</strong></strong><rt>εἰμί</rt></ruby><rt>we are</rt></ruby><rt>V-PAI-1P</rt></RUBY>)P {(<RUBY><ruby><ruby><em>λογίσασθαί</em><rt>λογίζομαι</rt></ruby><rt>to reckon</rt></ruby><rt>V-AMN</rt></RUBY>)p (<RUBY><ruby><ruby>τι<rt>τις</rt></ruby><rt>anything</rt></ruby><rt>X-ASN</rt></RUBY>)c (<RUBY><ruby><ruby>ὡς<rt>ὡς</rt></ruby><rt>as</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἑαυτῶν <mark class="pm">,</mark><rt>ἑαυτοῦ</rt></ruby><rt>ourselves</rt></ruby><rt>F-1GPM</rt></RUBY>)a}≒C
 - 3:5c <RUBY><ruby><ruby>ἀλλ᾽<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἡ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>ἱκανότης<rt>ἱκανότης</rt></ruby><rt>sufficiency</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>ἡμῶν<rt>ἐγώ</rt></ruby><rt>of us</rt></ruby><rt>P-1GP</rt></RUBY>)S (<RUBY><ruby><ruby>ἐκ<rt>ἐκ</rt></ruby><rt>[is] of</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ <mark class="pm">,</mark><rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-GSM</rt></RUBY>)A 
-	- 3:6a (<RUBY><ruby><ruby>ὃς<rt>ὅς</rt></ruby><rt>who</rt></ruby><rt>R-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>ἱκάνωσεν</strong></strong><rt>ἱκανόω</rt></ruby><rt>has made competent</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us [as]</rt></ruby><rt>P-1AP</rt></RUBY>)C (<RUBY><ruby><ruby>διακόνους<rt>διάκονος</rt></ruby><rt>ministers</rt></ruby><rt>N-APM</rt></RUBY> ‹<RUBY><ruby><ruby>καινῆς<rt>καινός</rt></ruby><rt>of a new</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>διαθήκης <mark class="pm">,</mark><rt>διαθήκη</rt></ruby><rt>covenant</rt></ruby><rt>N-GSF</rt></RUBY>›)+C 
-	- 3:6b ——<RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γράμματος<rt>γράμμα</rt></ruby><rt>of [the] letter</rt></ruby><rt>N-GSN</rt></RUBY> 
-	- 3:6c <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πνεύματος <mark class="pm">·</mark><rt>πνεῦμα</rt></ruby><rt>of [the] Spirit</rt></ruby><rt>N-GSN</rt></RUBY>
+	- 3:6a (<RUBY><ruby><ruby>ὃς<rt>ὅς</rt></ruby><rt>who</rt></ruby><rt>R-NSM</rt></RUBY>)S (<RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>also</rt></ruby><rt>CONJ</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>ἱκάνωσεν</strong></strong><rt>ἱκανόω</rt></ruby><rt>has made competent</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>ἡμᾶς<rt>ἐγώ</rt></ruby><rt>us [as]</rt></ruby><rt>P-1AP</rt></RUBY>)C (<RUBY><ruby><ruby>διακόνους<rt>διάκονος</rt></ruby><rt>ministers</rt></ruby><rt>N-APM</rt></RUBY> <mark>‹<RUBY><ruby><ruby>καινῆς<rt>καινός</rt></ruby><rt>of a new</rt></ruby><rt>A-GSF</rt></RUBY> <RUBY><ruby><ruby>διαθήκης <mark class="pm">,</mark><rt>διαθήκη</rt></ruby><rt>covenant</rt></ruby><rt>N-GSF</rt></RUBY>›°⁴</mark>)＋C 
+	- 3:6b ——<RUBY><ruby><ruby>οὐ<rt>οὐ</rt></ruby><rt>not</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>γράμματος°⁴⮥<rt>γράμμα</rt></ruby><rt>of [the] letter</rt></ruby><rt>N-GSN</rt></RUBY>
+	- 3:6c <RUBY><ruby><ruby>ἀλλὰ<rt>ἀλλά</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πνεύματος°⁴⮥ <mark class="pm">·</mark><rt>πνεῦμα</rt></ruby><rt>of [the] Spirit</rt></ruby><rt>N-GSN</rt></RUBY>
 	- 3:6d (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-NSN</rt></RUBY>)⦇ <RUBY><ruby><ruby>γὰρ<rt>γάρ</rt></ruby><rt>for</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>γράμμα<rt>γράμμα</rt></ruby><rt>letter</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ἀποκτέννει <mark class="pm">,</mark></strong><rt>ἀποκτείνω</rt></ruby><rt>kills</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 	- 3:6e (<RUBY><ruby><ruby>τὸ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-NSN</rt></RUBY>)⦇ <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>but</rt></ruby><rt>CONJ</rt></RUBY> ⦈(<RUBY><ruby><ruby>πνεῦμα<rt>πνεῦμα</rt></ruby><rt>the Spirit</rt></ruby><rt>N-NSN</rt></RUBY>)S (<RUBY><ruby><ruby><strong>ζωοποιεῖ <mark class="pm">.</mark></strong><rt>ζωοποιέω</rt></ruby><rt>gives life</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P
 
@@ -79,12 +79,21 @@
 	- 蒙福之人 (BEING)，就活出蒙福的生命 (DOING)！
 		- 好樹結好果子、壞樹結壞果子
 		- 說蒙福的話、做蒙福的事、辦蒙福的啟發&幸福、傳蒙福的好消息
-		- 一切都從『**知道**自己**已經**是個蒙福的人』開始 ...
-- (1) 蒙福之一：我們是基督的信 (v.3a)
-	- 對比#1：不是「用墨水」、而是「用聖靈」
-	- 對比#2：不是「在石版」、而是「在心版」
-		- 耶31:31-34 耶和華說：日子將到，我要與以色列家和猶大家**另立新約**， 不像我拉著他們祖宗的手，領他們出埃及地的時候，與他們所立的約。我雖作他們的丈夫，他們卻背了我的約。這是耶和華說的。 耶和華說：那些日子以後，我與以色列家所立的約乃是這樣：我要將我的律法放在他們裡面，**寫在他們心上**。我要作他們的　神，他們要作我的子民。 他們各人不再教導自己的鄰舍和自己的弟兄說：你該認識耶和華，因為他們從最小的到至大的都必認識我。我要赦免他們的罪孽，不再紀念他們的罪惡。這是耶和華說的。 
-- (2) 蒙福之二：神
+		- 一切都從『**知道**自己是個**蒙福**的人』開始 ...
+		- 每個基督徒，都有『雙重的身分(BEING)』，都有『雙重的蒙福 DOUBLE Blessing』
+- (1) 第一重身分、第一重蒙福：你(我)是**基督所寫的**信 (v.3a)
+	- 對比#1：不是「用墨水」、乃是「用聖靈」
+		- 墨水沒用，是死的，白紙黑字還是毀約 😢
+		- 聖靈是活的，是能使死人復活的大能大力
+	- 對比#2：不是「在石版」、乃是「在心版」
+		- 耶31:33-34 耶和華說 ... 我要將我的律法放在他們裏面，*寫在他們心上*。*我要作他們的上帝*，*他們要作我的子民*。 他們... *都必認識我*。*我要赦免他們的罪孽，不再記念他們的罪惡*。 
+- (2) 第二重身分、第二重蒙福：你(我)是**神所設立的**新約執事
+	- 對比#3：不是「憑自己」、乃是「出於神」
+		- 所以辦啟發、幸福，不是「憑自己」、乃是「出於神」
+		- 林前12:3 所以我告訴你們，被上帝的靈感動的，沒有說「耶穌是可咒詛」的；若不是被聖靈感動的，也沒有能說「耶穌是主」的。 
+	- 對比#4：不是「字句的盟約」、乃是「聖靈的盟約」
+		- 結36:27 我必將*我的靈*放在你們裏面，使你們順從我的律例，謹守遵行我的典章。 
+		- 因為：字句叫人死，聖靈叫人活！
 
 
 ## 小抄 (memo)
