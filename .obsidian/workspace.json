@@ -29,9 +29,11 @@
             "id": "e975150893f51547",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/2023-09-03-2Co.3.1-6.png"
+                "file": "2Co.3.1-6.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -171,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9a772868a513b6f5",
+  "active": "e975150893f51547",
   "lastOpenFiles": [
     "images/2023-09-03-2Co.3.1-6.png",
     "2Co.3.1-6.md",
