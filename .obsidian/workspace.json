@@ -22,18 +22,16 @@
         ]
       },
       {
-        "id": "d3acec6972c0ee09",
+        "id": "238c12552813b790",
         "type": "tabs",
         "children": [
           {
-            "id": "a46afbbe7100a13c",
+            "id": "e975150893f51547",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2Co.3.1-6.md",
-                "mode": "preview",
-                "source": true
+                "file": "images/2023-09-03-2Co.3.1-6.png"
               }
             }
           }
