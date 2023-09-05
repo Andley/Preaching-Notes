@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2Co.3.1-6.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "238c12552813b790",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e975150893f51547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2Co.3.1-6.md",
+                "file": "Rom.8.12-25.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.504695892334,
-    "collapsed": true
+    "width": 352.504695892334
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -112,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2Co.3.1-6.md"
+                "file": "Rom.8.12-25.md"
               }
             }
           },
@@ -133,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2Co.3.1-6.md",
+                "file": "Rom.8.12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2Co.3.1-6.md",
+                "file": "Rom.8.12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,13 +156,24 @@
   },
   "active": "9a772868a513b6f5",
   "lastOpenFiles": [
-    "images/2023-09-03-2Co.3.1-6-memo.jpg",
-    "2Co.3.1-6.md",
-    "images/2023-09-03-2Co.3.1-6.png",
     "README.md",
-    "template/講道筆記範本.md",
-    "Col.1.3–14.md",
+    "Mar.8.27–9.1.md",
+    "Mat.13.10–23.md",
     "Rom.8.12-25.md",
+    "Rom.8.1–17 (A).md",
+    "Rom.8.1-17 (B).md",
+    "Joh.15.12–27.md",
+    "Joh.15.1–11.md",
+    "Act.2.1-21.md",
+    "2Co.3.1-6.md",
+    "1Ti.4.1–16.md",
+    "1Th.5.1-11.md",
+    "1Jo.2.28–3.3.md",
+    "Mat.6.25–34.md",
+    "Col.1.3–14.md",
+    "images/2023-09-03-2Co.3.1-6-memo.jpg",
+    "images/2023-09-03-2Co.3.1-6.png",
+    "template/講道筆記範本.md",
     "Gen.28.10-19.md",
     "images/2021-02-14 Psa.34.1–10-memo.jpg",
     "images/2021-02-14 Psa.34.1–10a.png",
@@ -191,18 +183,14 @@
     "images/2022-04-24-Jos.16–17c.png",
     "images/2022-04-24-Jos.16–17d.png",
     "images/2022-05-29-Jos.9.7-15-memo.jpg",
-    "Rom.8.1–17 (A).md",
     "1Co.15.1-11.md",
     "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "1Co.12.3-13.md",
-    "Act.2.1-21.md",
     "Jos.9.7-15.md",
     "約書亞記 9.7-15.md",
     "Pro.18.8.md",
     "Exo.24.12-18.md",
-    "Mat.17.1-9.md",
-    "1Th.5.1-11.md",
-    "Php.3.7-16.md"
+    "Mat.17.1-9.md"
   ]
 }
