@@ -11,11 +11,9 @@
             "id": "9a772868a513b6f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Rom.8.12-25.md",
-                "mode": "preview",
-                "source": true
+                "file": "images/2023-05-10-1Co.15.1-11b.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rom.8.12-25.md"
+                "file": "images/2023-05-10-1Co.15.1-11b.png"
               }
             }
           },
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rom.8.12-25.md",
+                "file": "images/2023-05-10-1Co.15.1-11b.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rom.8.12-25.md",
+                "file": "images/2023-05-10-1Co.15.1-11b.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +154,13 @@
   },
   "active": "9a772868a513b6f5",
   "lastOpenFiles": [
+    "images/2023-05-10-1Co.15.1-11a.png",
+    "images/2023-05-10-1Co.15.1-11b.png",
+    "1Co.15.1-11.md",
+    "Rom.8.12-25.md",
     "README.md",
     "Mar.8.27–9.1.md",
     "Mat.13.10–23.md",
-    "Rom.8.12-25.md",
     "Rom.8.1–17 (A).md",
     "Rom.8.1-17 (B).md",
     "Joh.15.12–27.md",
@@ -182,15 +183,12 @@
     "images/2022-04-24-Jos.16–17b.png",
     "images/2022-04-24-Jos.16–17c.png",
     "images/2022-04-24-Jos.16–17d.png",
-    "images/2022-05-29-Jos.9.7-15-memo.jpg",
-    "1Co.15.1-11.md",
     "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "1Co.12.3-13.md",
     "Jos.9.7-15.md",
     "約書亞記 9.7-15.md",
     "Pro.18.8.md",
-    "Exo.24.12-18.md",
-    "Mat.17.1-9.md"
+    "Exo.24.12-18.md"
   ]
 }
