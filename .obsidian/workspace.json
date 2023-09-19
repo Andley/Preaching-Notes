@@ -11,9 +11,11 @@
             "id": "9a772868a513b6f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/2023-05-10-1Co.15.1-11b.png"
+                "file": "Mar.8.27–9.1.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/2023-05-10-1Co.15.1-11b.png"
+                "file": "Mar.8.27–9.1.md"
               }
             }
           },
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/2023-05-10-1Co.15.1-11b.png",
+                "file": "Mar.8.27–9.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +131,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/2023-05-10-1Co.15.1-11b.png",
+                "file": "Mar.8.27–9.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2401c9c0b811cf8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -154,11 +166,11 @@
   },
   "active": "9a772868a513b6f5",
   "lastOpenFiles": [
-    "images/2023-05-10-1Co.15.1-11a.png",
+    "README.md",
     "images/2023-05-10-1Co.15.1-11b.png",
+    "images/2023-05-10-1Co.15.1-11a.png",
     "1Co.15.1-11.md",
     "Rom.8.12-25.md",
-    "README.md",
     "Mar.8.27–9.1.md",
     "Mat.13.10–23.md",
     "Rom.8.1–17 (A).md",
@@ -182,7 +194,6 @@
     "images/2022-04-24-Jos.16–17a.png",
     "images/2022-04-24-Jos.16–17b.png",
     "images/2022-04-24-Jos.16–17c.png",
-    "images/2022-04-24-Jos.16–17d.png",
     "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "1Co.12.3-13.md",
