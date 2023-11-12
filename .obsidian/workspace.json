@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat.13.10–23.md",
-                "mode": "source",
+                "file": "Rom.8.1-17 (B).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat.13.10–23.md"
+                "file": "Rom.8.1-17 (B).md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mat.13.10–23.md",
+                "file": "Rom.8.1-17 (B).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mat.13.10–23.md",
+                "file": "Rom.8.1-17 (B).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,14 +168,14 @@
   "active": "9a772868a513b6f5",
   "lastOpenFiles": [
     "README.md",
+    "Rom.8.1–17 (A).md",
+    "Rom.8.1-17 (B).md",
+    "Mat.13.10–23.md",
     "Mar.8.27–9.1.md",
     "images/2023-05-10-1Co.15.1-11b.png",
     "images/2023-05-10-1Co.15.1-11a.png",
     "1Co.15.1-11.md",
     "Rom.8.12-25.md",
-    "Mat.13.10–23.md",
-    "Rom.8.1–17 (A).md",
-    "Rom.8.1-17 (B).md",
     "Joh.15.12–27.md",
     "Joh.15.1–11.md",
     "Act.2.1-21.md",
