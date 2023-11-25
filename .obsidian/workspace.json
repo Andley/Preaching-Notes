@@ -6,6 +6,7 @@
       {
         "id": "8b22c1aaa5595ebb",
         "type": "tabs",
+        "dimension": 35.5584082156611,
         "children": [
           {
             "id": "9a772868a513b6f5",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rom.8.1-17 (B).md",
+                "file": "Eze.34.1-24.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +23,17 @@
         ]
       },
       {
-        "id": "38266e7be19b7417",
+        "id": "0c65dabcddaf8390",
         "type": "tabs",
+        "dimension": 64.4415917843389,
         "children": [
           {
-            "id": "865273d2b3c55d8e",
+            "id": "1525ca662bf8f78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rom.8.1-17 (B).md",
+                "file": "Eze.34.1-24.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,12 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 352.504695892334,
+    "width": 211.5,
     "collapsed": true
   },
   "right": {
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rom.8.1-17 (B).md"
+                "file": "Eze.34.1-24.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rom.8.1-17 (B).md",
+                "file": "Eze.34.1-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rom.8.1-17 (B).md",
+                "file": "Eze.34.1-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +187,12 @@
   },
   "active": "9a772868a513b6f5",
   "lastOpenFiles": [
+    "images/Pasted image 20231125155848.png",
     "README.md",
-    "Rom.8.1–17 (A).md",
+    "Mat.25.31-46.md",
+    "Eze.34.1-24.md",
     "Rom.8.1-17 (B).md",
+    "Rom.8.1–17 (A).md",
     "Mat.13.10–23.md",
     "Mar.8.27–9.1.md",
     "images/2023-05-10-1Co.15.1-11b.png",
@@ -218,8 +222,6 @@
     "images/2023-06-25-林前11.23-32.png.md",
     "1Co.12.3-13.md",
     "Jos.9.7-15.md",
-    "約書亞記 9.7-15.md",
-    "Pro.18.8.md",
-    "Exo.24.12-18.md"
+    "約書亞記 9.7-15.md"
   ]
 }
