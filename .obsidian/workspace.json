@@ -6,7 +6,7 @@
       {
         "id": "8b22c1aaa5595ebb",
         "type": "tabs",
-        "dimension": 51.732991014120664,
+        "dimension": 49.35815147625161,
         "children": [
           {
             "id": "9a772868a513b6f5",
@@ -25,7 +25,7 @@
       {
         "id": "0c65dabcddaf8390",
         "type": "tabs",
-        "dimension": 48.267008985879336,
+        "dimension": 50.6418485237484,
         "children": [
           {
             "id": "1525ca662bf8f78d",
@@ -185,8 +185,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1525ca662bf8f78d",
+  "active": "9a772868a513b6f5",
   "lastOpenFiles": [
+    "images/Pasted image 20231125210929.png",
     "images/Pasted image 20231125155848.png",
     "README.md",
     "Mat.25.31-46.md",
@@ -217,7 +218,6 @@
     "images/2022-04-24-Jos.16–17-memoa.jpg",
     "images/2022-04-24-Jos.16–17a.png",
     "images/2022-04-24-Jos.16–17b.png",
-    "images/2022-04-24-Jos.16–17c.png",
     "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "1Co.12.3-13.md",
