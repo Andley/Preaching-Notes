@@ -6,7 +6,7 @@
       {
         "id": "8b22c1aaa5595ebb",
         "type": "tabs",
-        "dimension": 35.5584082156611,
+        "dimension": 51.732991014120664,
         "children": [
           {
             "id": "9a772868a513b6f5",
@@ -25,7 +25,7 @@
       {
         "id": "0c65dabcddaf8390",
         "type": "tabs",
-        "dimension": 64.4415917843389,
+        "dimension": 48.267008985879336,
         "children": [
           {
             "id": "1525ca662bf8f78d",
@@ -185,7 +185,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9a772868a513b6f5",
+  "active": "1525ca662bf8f78d",
   "lastOpenFiles": [
     "images/Pasted image 20231125155848.png",
     "README.md",
