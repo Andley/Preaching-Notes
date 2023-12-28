@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hab.2-3.md",
+                "file": "Hab.2.20-3.19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Hab.2.20-3.19.md"
               }
             }
           },
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Hab.2.20-3.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Hab.2.20-3.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +179,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1525ca662bf8f78d",
+  "active": "d3f4b06a3b98097f",
   "lastOpenFiles": [
-    "Hab.2-3.md",
     "README.md",
+    "Hab.2.20-3.19.md",
     "Mat.25.31-46.md",
     "Eze.34.1-24.md",
     "images/2023-11-26 Eze.34.1-24.png",
