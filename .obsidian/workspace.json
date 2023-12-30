@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,12 +27,30 @@
               "state": {
                 "file": "Hab.2.20-3.19.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d2ef9a690072a2d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc84ee8c5e08ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hab.2.20-3.19.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -179,7 +198,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3f4b06a3b98097f",
+  "active": "dcc84ee8c5e08ea4",
   "lastOpenFiles": [
     "README.md",
     "Hab.2.20-3.19.md",
