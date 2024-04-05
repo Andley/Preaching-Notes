@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5694c73b61f987b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36cf1512ed8a8e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2Co.3.1-18.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e0a2836ba3afa99f",
         "type": "tabs",
         "children": [
@@ -186,7 +168,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36cf1512ed8a8e5c",
+  "active": "a0a0cc888702aadb",
   "lastOpenFiles": [
     "README.md",
     "2Co.3.1-18.md",
