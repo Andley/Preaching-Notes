@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -186,9 +187,10 @@
   },
   "active": "bd82373b59b31f85",
   "lastOpenFiles": [
-    "images/2024-04-07 2Co.3.1-18.png",
-    "2Co.3.1-18.md",
     "README.md",
+    "2Co.3.1-6.md",
+    "2Co.3.1-18.md",
+    "images/2024-04-07 2Co.3.1-18.png",
     "Hab.2.20-3.19.md",
     "images/2023_12_31 06_59 Office Lens.jpg",
     "images/2023_12_31 07_00 Office Lens.jpg",
@@ -208,7 +210,6 @@
     "Joh.15.12–27.md",
     "Joh.15.1–11.md",
     "Act.2.1-21.md",
-    "2Co.3.1-6.md",
     "1Ti.4.1–16.md",
     "1Th.5.1-11.md",
     "1Jo.2.28–3.3.md",
