@@ -91,13 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 356.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -188,8 +186,9 @@
   },
   "active": "bd82373b59b31f85",
   "lastOpenFiles": [
-    "README.md",
+    "images/2024-04-07 2Co.3.1-18.png",
     "2Co.3.1-18.md",
+    "README.md",
     "Hab.2.20-3.19.md",
     "images/2023_12_31 06_59 Office Lens.jpg",
     "images/2023_12_31 07_00 Office Lens.jpg",
@@ -219,10 +218,8 @@
     "images/2023-09-03-2Co.3.1-6.png",
     "template/講道筆記範本.md",
     "Gen.28.10-19.md",
-    "images/2021-02-14 Psa.34.1–10-memo.jpg",
     "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
-    "1Co.12.3-13.md",
-    "Jos.9.7-15.md"
+    "1Co.12.3-13.md"
   ]
 }
