@@ -25,14 +25,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hab.2.20-3.19.md",
-                "mode": "preview",
+                "file": "2Co.3.1-18.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8b89681f13e37fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3689c17e648f0c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2Co.3.1-18.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hab.2.20-3.19.md"
+                "file": "2Co.3.1-18.md"
               }
             }
           },
@@ -128,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hab.2.20-3.19.md",
+                "file": "2Co.3.1-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hab.2.20-3.19.md",
+                "file": "2Co.3.1-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +199,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3f4b06a3b98097f",
+  "active": "3689c17e648f0c19",
   "lastOpenFiles": [
+    "README.md",
+    "2Co.3.1-18.md",
+    "Hab.2.20-3.19.md",
     "images/2023_12_31 06_59 Office Lens.jpg",
     "images/2023_12_31 07_00 Office Lens.jpg",
-    "README.md",
-    "Hab.2.20-3.19.md",
     "Mat.25.31-46.md",
     "Eze.34.1-24.md",
     "images/2023-11-26 Eze.34.1-24.png",
@@ -213,7 +233,6 @@
     "template/講道筆記範本.md",
     "Gen.28.10-19.md",
     "images/2021-02-14 Psa.34.1–10-memo.jpg",
-    "images/2021-02-14 Psa.34.1–10a.png",
     "1Co.11.23-32.md",
     "images/2023-06-25-林前11.23-32.png.md",
     "1Co.12.3-13.md",
