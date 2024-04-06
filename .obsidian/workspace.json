@@ -6,7 +6,7 @@
       {
         "id": "b7fa03971ab19832",
         "type": "tabs",
-        "dimension": 40.05134788189987,
+        "dimension": 50.83440308087292,
         "children": [
           {
             "id": "37ddd50598757b0c",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "fe441fa2899486c9",
+        "id": "5cb628c93fc4a728",
         "type": "tabs",
-        "dimension": 59.948652118100135,
+        "dimension": 49.16559691912708,
         "children": [
           {
-            "id": "4e39b1cf9c00b06e",
+            "id": "4ff6e441e2e1ddb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,7 +187,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "37ddd50598757b0c",
+  "active": "4ff6e441e2e1ddb1",
   "lastOpenFiles": [
     "README.md",
     "2Co.3.1-6.md",
