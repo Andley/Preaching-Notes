@@ -71,22 +71,34 @@
 - 3:18a (<RUBY><ruby><ruby>ἡμεῖς<rt>ἐγώ</rt></ruby><rt>We</rt></ruby><rt>P-1NP</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>πάντες<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-NPM</rt></RUBY>)S {3:18b} (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>αὐτὴν<rt>αὐτός</rt></ruby><rt>same</rt></ruby><rt>P-ASF</rt></RUBY> <RUBY><ruby><ruby>εἰκόνα<rt>εἰκών</rt></ruby><rt>image</rt></ruby><rt>N-ASF</rt></RUBY>)C (==<RUBY><ruby><ruby><strong><strong>μεταμορφούμεθα</strong></strong><rt>μεταμορφόω</rt></ruby><rt>are being transformed into</rt></ruby><rt>V-PPI-1P</rt></RUBY>°⁶==)P
 	- 3:18b {(<RUBY><ruby><ruby><em><em>ἀνακεκαλυμμένῳ</em></em><rt>ἀνακαλύπτω</rt></ruby><rt>having been unveiled</rt></ruby><rt>V-RPP-DSN</rt></RUBY> <RUBY><ruby><ruby>προσώπῳ<rt>πρόσωπον</rt></ruby><rt>in face</rt></ruby><rt>N-DSN</rt></RUBY>)a (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>of [the] Lord</rt></ruby><rt>N-GSM</rt></RUBY>)c (<RUBY><ruby><ruby><em><em>κατοπτριζόμενοι</em></em><rt>κατοπτρίζω</rt></ruby><rt>beholding as in a mirror</rt></ruby><rt>V-PMP-NPM</rt></RUBY>)p}A°⁶⮥
 	- 3:18c (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δόξης<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-GSF</rt></RUBY> <RUBY><ruby><ruby>εἰς<rt>εἰς</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δόξαν<rt>δόξα</rt></ruby><rt>glory</rt></ruby><rt>N-ASF</rt></RUBY>)A°⁶⮥
-	- 3:18d <RUBY><ruby><ruby>καθάπερ<rt>καθάπερ</rt></ruby><rt>even as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> ‹<RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>[the] Lord</rt></ruby><rt>N-GSM</rt></RUBY>› =‹<RUBY><ruby><ruby>Πνεύματος<rt>πνεῦμα</rt></ruby><rt>[the] Spirit</rt></ruby><rt>N-GSN</rt></RUBY>›)A°⁶⮥ <mark class="pm">.</mark>
-		- 
-## 解經 Exegesis)
-💡😀😢❓❌⭕❗🎀🎗️✳️
+	- 3:18d <RUBY><ruby><ruby>καθάπερ<rt>καθάπερ</rt></ruby><rt>even as</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>ἀπὸ<rt>ἀπό</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> ‹<RUBY><ruby><ruby>Κυρίου<rt>κύριος</rt></ruby><rt>[the] Lord</rt></ruby><rt>N-GSM</rt></RUBY>› =‹<RUBY><ruby><ruby>Πνεύματος<rt>πνεῦμα</rt></ruby><rt>[the] Spirit</rt></ruby><rt>N-GSN</rt></RUBY>›)A°⁶⮥ <mark class="pm">.</mark>️
 
 ## 語意圖析 Semantic Diagram)
 
 ![images/2024-04-07 2Co.3.1-18.png](images/2024-04-07%202Co.3.1-18.png)
-## 大綱 Outline)
-💡😀😢❓❌⭕❗🎀🎗️✳️
 
+## 大綱 Outline)
+️
+- 開場：
+	- 地震——還好嗎？
+		- 經營嗎哪書房長達36年的劉明足長老
+		- 駕駛大拖車遭強震落石擊中！花蓮吳明雄弟兄罹難 家境貧困事親至孝令人不捨
+		- 震驚、害怕、疑問 ...
+	- 問對問題：
+		- WHY 死？  ⇒ WHY 地震？——Question ⇒ Answer ...
+		- WHY 沒死？⇒ WHY 活著？——Problem ⇒ Solution！
+		- 路13:4-5 從前西羅亞樓倒塌了，壓死十八個人；你們以為那些人比一切住在耶路撒冷的人更有罪麼？ 我告訴你們，不是的！你們若不悔改，都要如此滅亡！ 
+		- 約9:3 耶穌回答說：也不是這人犯了罪，也不是他父母犯了罪，是要在他身上顯出神的作為來。 
+	- **既然沒死，該如何活？**
 - 榮耀的呼召 (3:1-11)
-	- 寫信 (3:1-3)
-	- 由來(3:4-6)
-	- 呼召(3:7-11)
-- (3:12-18)
+	- 呼召的內涵：書寫生命 (3:1-3)
+	- 呼召的根源：三一真神 (3:4-6)
+	- 呼召的目的：看見榮光 (3:7-11)
+- 榮上加榮的呼召 (3:12-18)
+	- 呼召帶來的生命：越來越勇敢 (3:12-13)
+		- 原文沒有「講說」⇒ 就大有膽量(和修本)；我們有無比的勇氣(現中)；大大地放膽行事(新譯)
+		- 
+	- 呼召帶來的結果：越來越像耶穌 (3:14-18)
 ## 小抄 memo)
 
 
