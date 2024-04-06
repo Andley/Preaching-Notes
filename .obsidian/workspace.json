@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0066ca6475d4a6ec",
+        "id": "b7fa03971ab19832",
         "type": "tabs",
-        "dimension": 40.11553273427471,
+        "dimension": 40.05134788189987,
         "children": [
           {
-            "id": "bd82373b59b31f85",
+            "id": "37ddd50598757b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "b7fa03971ab19832",
+        "id": "fe441fa2899486c9",
         "type": "tabs",
-        "dimension": 59.88446726572529,
+        "dimension": 59.948652118100135,
         "children": [
           {
-            "id": "37ddd50598757b0c",
+            "id": "4e39b1cf9c00b06e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,7 +187,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd82373b59b31f85",
+  "active": "37ddd50598757b0c",
   "lastOpenFiles": [
     "README.md",
     "2Co.3.1-6.md",
