@@ -6,7 +6,7 @@
       {
         "id": "b7fa03971ab19832",
         "type": "tabs",
-        "dimension": 50.83440308087292,
+        "dimension": 39.92297817715019,
         "children": [
           {
             "id": "37ddd50598757b0c",
@@ -25,7 +25,7 @@
       {
         "id": "5cb628c93fc4a728",
         "type": "tabs",
-        "dimension": 49.16559691912708,
+        "dimension": 60.07702182284981,
         "children": [
           {
             "id": "4ff6e441e2e1ddb1",
@@ -187,7 +187,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "37ddd50598757b0c",
+  "active": "4ff6e441e2e1ddb1",
   "lastOpenFiles": [
     "images/2024-04-07 2Co.3.1-18 memo.jpg",
     "2Co.3.1-18.md",
