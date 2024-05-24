@@ -151,7 +151,7 @@ mark {
 
 @media print {
     body {
-      --font-text: 'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC'  !important;
+      --font-text: 'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC'  !important;
     }
 
     @page {
