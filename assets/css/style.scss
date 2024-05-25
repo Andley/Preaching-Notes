@@ -96,10 +96,10 @@ mark{
     padding-top:20px;
   }
 
-/*  ul li::marker {
+  ul li::marker {
     content: '• ';
   }
-*/
+
   nav {
     ul li::marker {
       content: none;
@@ -120,11 +120,11 @@ mark{
 }
 
 /* BULLET POINT RELATIONSHIP LINES */
-ul ul { position: relative; }
+/*ul ul { position: relative; }
 ul ul::before {
  content:'';
  border-left: 1px solid grey ;
  position: absolute;
 }
 ul ul::before { left: -7px; top: 0; bottom: 0; 
-} 
+} */
