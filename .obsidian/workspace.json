@@ -6,7 +6,7 @@
       {
         "id": "61aa1d4e39a610a4",
         "type": "tabs",
-        "dimension": 37.27002967359051,
+        "dimension": 39.703264094955486,
         "children": [
           {
             "id": "d8d518a6ffc5dc29",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Isa.61.1-3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
       {
         "id": "131fc3ef7324f0d7",
         "type": "tabs",
-        "dimension": 62.7299703264095,
+        "dimension": 60.29673590504451,
         "children": [
           {
             "id": "9495fc072a8d2ada",
