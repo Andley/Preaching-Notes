@@ -55,9 +55,9 @@
 ||於是把書捲起來，<br>交還執事，就坐下。<br>會堂裡的人都定睛看他。<br>耶穌對他們說：<br>今天這經應驗在你們耳中了。|
 
 ## 語意圖析 (Semantic Diagram)
-![images/Pasted image 20240524150538.png](images/Pasted%20image%2020240524150538.png)
+![images/2024-05-26-Isa.61.1-3a.png](images/2024-05-26-Isa.61.1-3a.png)
 
-![images/Pasted image 20240525053631.png](images/Pasted%20image%2020240525053631.png)
+![images/2024-05-26-Isa.61.1-3b.png](images/2024-05-26-Isa.61.1-3b.png)
 ## 大綱 (Outline)
 
 - 開場：
