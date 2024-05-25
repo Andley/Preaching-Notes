@@ -108,6 +108,11 @@ table {
   border: 1px solid;
 }
 
+.cm-s-obsidian .HyperMD-table-row.HyperMD-table-row.HyperMD-table-row {
+	white-space: pre-wrap;
+	min-width: min-content;
+}
+
 /*   Ruby Interlinear  */
 ruby {
   font-size: 16px ;
