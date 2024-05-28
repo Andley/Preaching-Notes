@@ -6,7 +6,6 @@
       {
         "id": "61aa1d4e39a610a4",
         "type": "tabs",
-        "dimension": 42.76393831553973,
         "children": [
           {
             "id": "d8d518a6ffc5dc29",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isa.61.1-3.md",
+                "file": "Luk.24.44-53.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "0324bb99e531708c",
+        "id": "97644b51acec8d66",
         "type": "tabs",
-        "dimension": 57.23606168446027,
         "children": [
           {
-            "id": "085578f0791df46e",
+            "id": "ad0fe5316012782f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isa.61.1-3.md",
+                "file": "Luk.24.44-53.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isa.61.1-3.md"
+                "file": "Luk.24.44-53.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isa.61.1-3.md",
+                "file": "Luk.24.44-53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isa.61.1-3.md",
+                "file": "Luk.24.44-53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +185,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8d518a6ffc5dc29",
+  "active": "ad0fe5316012782f",
   "lastOpenFiles": [
     "README.md",
-    "2Co.3.1-18.md",
     "Isa.61.1-3.md",
+    "2Co.3.1-18.md",
     "images/2025-05-26-Isa.61.1-3.memo.jpg",
     "images/2024-05-26-Isa.61.1-3b.png",
     "images/Pasted image 20240524164134.png",
