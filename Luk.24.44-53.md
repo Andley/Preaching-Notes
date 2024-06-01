@@ -11,8 +11,8 @@
 	- 24:44d <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>that</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>δεῖ</strong></strong><rt>δεῖ</rt></ruby><rt>it behooves</rt></ruby><rt>V-PAI-3S</rt></RUBY>)P {[<RUBY><ruby><ruby><em>πληρωθῆναι</em><rt>πληρόω</rt></ruby><rt>to be fulfilled</rt></ruby><rt>V-APN</rt></RUBY>]p [<RUBY><ruby><ruby>πάντα<rt>πᾶς</rt></ruby><rt>all things</rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-APN</rt></RUBY> (<RUBY><ruby><ruby><em><em>γεγραμμένα</em></em><rt>γράφω</rt></ruby><rt>having been written</rt></ruby><rt>V-RPP-APN</rt></RUBY>)p (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> ⸉...⸊)a (<RUBY><ruby><ruby>περὶ<rt>περί</rt></ruby><rt>concerning</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ἐμοῦ<rt>ἐγώ</rt></ruby><rt>Me</rt></ruby><rt>P-1GS</rt></RUBY>)a]s}S <mark class="pm">.</mark> 
 		- ⸉<RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSM</rt></RUBY> <RUBY><ruby><ruby>νόμῳ<rt>νόμος</rt></ruby><rt>law</rt></ruby><rt>N-DSM</rt></RUBY> <RUBY><ruby><ruby>Μωϋσέως<rt>Μωϋσῆς, Μωσῆς</rt></ruby><rt>of Moses</rt></ruby><rt>N-GSM</rt></RUBY>
 		- <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τοῖς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DPM</rt></RUBY> <RUBY><ruby><ruby>προφήταις<rt>προφήτης</rt></ruby><rt>Prophets</rt></ruby><rt>N-DPM</rt></RUBY> <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ψαλμοῖς<rt>ψαλμός</rt></ruby><rt>[the] Psalms</rt></ruby><rt>N-DPM</rt></RUBY>⸊
-- ————————
 - 24:45 (<RUBY><ruby><ruby>τότε<rt>τότε</rt></ruby><rt>Then</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>διήνοιξεν</strong></strong><rt>διανοίγω</rt></ruby><rt>He opened</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτῶν<rt>αὐτός</rt></ruby><rt>their</rt></ruby><rt>P-GPM</rt></RUBY> <RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>νοῦν<rt>νοῦς</rt></ruby><rt>mind</rt></ruby><rt>N-ASM</rt></RUBY>)C {<RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-GSN</rt></RUBY> (<RUBY><ruby><ruby><em>συνιέναι</em><rt>συνίημι</rt></ruby><rt>to understand</rt></ruby><rt>V-PAN</rt></RUBY>)p (<RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>γραφάς<rt>γραφή</rt></ruby><rt>Scriptures</rt></ruby><rt>N-APF</rt></RUBY>)c}A <mark class="pm">·</mark> 
+- ————————
 - 24:46a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>εἶπεν</strong></strong><rt>εἶπον</rt></ruby><rt>He said</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P <RUBY><ruby><ruby>αὐτοῖς<rt>αὐτός</rt></ruby><rt>to them</rt></ruby><rt>P-DPM</rt></RUBY>
 	- 24:46b <RUBY><ruby><ruby>ὅτι<rt>ὅτι</rt></ruby><rt>-</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><mark>Οὕτως</mark><rt>οὕτω, οὕτως</rt></ruby><rt>Thus</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>γέγραπται</strong></strong><rt>γράφω</rt></ruby><rt>it has been written</rt></ruby><rt>V-RPI-3S</rt></RUBY>)P 
 		- 24:46c (<RUBY><ruby><ruby><em>παθεῖν</em><rt>πάσχω</rt></ruby><rt>Was to suffer</rt></ruby><rt>V-AAN</rt></RUBY>)p (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Χριστὸν<rt>Χριστός</rt></ruby><rt>Christ</rt></ruby><rt>N-ASM</rt></RUBY>)s
@@ -27,7 +27,7 @@
 		- 24:49a <RUBY><ruby><ruby>Καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἰδοὺ<rt>ἰδού</rt></ruby><rt>behold</rt></ruby><rt>INJ</rt></RUBY> (<RUBY><ruby><ruby>ἐγὼ<rt>ἐγώ</rt></ruby><rt>I</rt></ruby><rt>P-1NS</rt></RUBY>)S (<RUBY><ruby><ruby><strong><strong>ἀποστέλλω</strong></strong><rt>ἀποστέλλω</rt></ruby><rt>am sending</rt></ruby><rt>V-PAI-1S</rt></RUBY>)P (<RUBY><ruby><ruby>τὴν<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-ASF</rt></RUBY> <RUBY><ruby><ruby>ἐπαγγελίαν<rt>ἐπαγγελία</rt></ruby><rt>promise</rt></ruby><rt>N-ASF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>ὁ</rt></ruby><rt>of the</rt></ruby><rt>T-GSM</rt></RUBY> <RUBY><ruby><ruby>Πατρός<rt>πατήρ</rt></ruby><rt>Father</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby>μου<rt>ἐγώ</rt></ruby><rt>of Me</rt></ruby><rt>P-1GS</rt></RUBY>)C (<RUBY><ruby><ruby>ἐφ᾽<rt>ἐπί</rt></ruby><rt>upon</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2AP</rt></RUBY>)A <mark class="pm">·</mark> 
 		- 24:49b (<RUBY><ruby><ruby>ὑμεῖς<rt>σύ</rt></ruby><rt>you</rt></ruby><rt>P-2NP</rt></RUBY>)S <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>however</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>καθίσατε</strong></strong><rt>καθίζω</rt></ruby><rt>remain</rt></ruby><rt>V-AAM-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῇ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSF</rt></RUBY> <RUBY><ruby><ruby>πόλει<rt>πόλις</rt></ruby><rt>city</rt></ruby><rt>N-DSF</rt></RUBY>)A 
 			- 24:49b (<RUBY><ruby><ruby>ἕως<rt>ἕως</rt></ruby><rt>until</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>οὗ<rt>ὅς</rt></ruby><rt>that</rt></ruby><rt>R-GSM</rt></RUBY>)A (<RUBY><ruby><ruby><strong><strong>ἐνδύσησθε</strong></strong><rt>ἐνδύω</rt></ruby><rt>you should be clothed with</rt></ruby><rt>V-AMS-2P</rt></RUBY>)P (<RUBY><ruby><ruby>ἐξ<rt>ἐκ</rt></ruby><rt>from</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>ὕψους<rt>ὕψος</rt></ruby><rt>on high</rt></ruby><rt>N-GSN</rt></RUBY>)A (<RUBY><ruby><ruby>δύναμιν<rt>δύναμις</rt></ruby><rt>power</rt></ruby><rt>N-ASF</rt></RUBY>)C <mark class="pm">.</mark>
-- ————————
+- ═════════════
 - 24:50a (<RUBY><ruby><ruby><strong><strong>Ἐξήγαγεν</strong></strong><rt>ἐξάγω</rt></ruby><rt>He led</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P <RUBY><ruby><ruby>δὲ<rt>δέ</rt></ruby><rt>now</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby>αὐτοὺς<rt>αὐτός</rt></ruby><rt>them</rt></ruby><rt>P-APM</rt></RUBY>)C (<RUBY><ruby><ruby>ἔξω<rt>ἔξω</rt></ruby><rt>out</rt></ruby><rt>ADV</rt></RUBY>)A (<RUBY><ruby><ruby>ἕως<rt>ἕως</rt></ruby><rt>as far as</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>πρός</rt></ruby><rt>to</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Βηθανίαν<rt>Βηθανία</rt></ruby><rt>Bethany</rt></ruby><rt>N-ASF</rt></RUBY>)A <mark class="pm">,</mark>
 - 24:50b <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> {(<RUBY><ruby><ruby><em><em>ἐπάρας</em></em><rt>ἐπαίρω</rt></ruby><rt>having lifted up</rt></ruby><rt>V-AAP-NSM</rt></RUBY>)p (<RUBY><ruby><ruby>τὰς<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-APF</rt></RUBY> <RUBY><ruby><ruby>χεῖρας<rt>χείρ</rt></ruby><rt>hands</rt></ruby><rt>N-APF</rt></RUBY> <RUBY><ruby><ruby>αὐτοῦ<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-GSM</rt></RUBY>)a}A (<RUBY><ruby><ruby><strong><strong>εὐλόγησεν</strong></strong><rt>εὐλογέω</rt></ruby><rt>He blessed</rt></ruby><rt>V-AAI-3S</rt></RUBY>)P (<RUBY><ruby><ruby>αὐτούς<rt>αὐτός</rt></ruby><rt>them</rt></ruby><rt>P-APM</rt></RUBY>)C <mark class="pm">.</mark> 
 - 24:51a <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>And</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἐγένετο</strong></strong><rt>γίνομαι</rt></ruby><rt>it came to pass</rt></ruby><rt>V-AMI-3S</rt></RUBY>)P {<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSN</rt></RUBY> (<RUBY><ruby><ruby><em>εὐλογεῖν</em><rt>εὐλογέω</rt></ruby><rt>blessing</rt></ruby><rt>V-PAN</rt></RUBY>)p (<RUBY><ruby><ruby>αὐτὸν<rt>αὐτός</rt></ruby><rt>of Him</rt></ruby><rt>P-ASM</rt></RUBY>)s (<RUBY><ruby><ruby>αὐτοὺς<rt>αὐτός</rt></ruby><rt>them</rt></ruby><rt>P-APM</rt></RUBY>)c}A 
@@ -38,23 +38,22 @@
 - 24:53 <RUBY><ruby><ruby>καὶ<rt>καί</rt></ruby><rt>and</rt></ruby><rt>CONJ</rt></RUBY> (<RUBY><ruby><ruby><strong><strong>ἦσαν</strong></strong><rt>εἰμί</rt></ruby><rt>were</rt></ruby><rt>V-IAI-3P</rt></RUBY>)P (<RUBY><ruby><ruby>διὰ<rt>διά</rt></ruby><rt>continually</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>παντὸς<rt>πᾶς</rt></ruby><rt>all</rt></ruby><rt>A-GSM</rt></RUBY>)A (<RUBY><ruby><ruby>ἐν<rt>ἐν</rt></ruby><rt>in</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τῷ<rt>ὁ</rt></ruby><rt>the</rt></ruby><rt>T-DSN</rt></RUBY> <RUBY><ruby><ruby>ἱερῷ<rt>ἱερός</rt></ruby><rt>temple</rt></ruby><rt>N-DSN</rt></RUBY>)A {(<RUBY><ruby><ruby><em><em>εὐλογοῦντες</em></em><rt>εὐλογέω</rt></ruby><rt>blessing</rt></ruby><rt>V-PAP-NPM</rt></RUBY>)p (<RUBY><ruby><ruby>τὸν<rt>ὁ</rt></ruby><rt>-</rt></ruby><rt>T-ASM</rt></RUBY> <RUBY><ruby><ruby>Θεόν<rt>θεός</rt></ruby><rt>God</rt></ruby><rt>N-ASM</rt></RUBY>)c}A <mark class="pm">.</mark> 
 
 
-## 解經 (Exegesis)
-💡😀😢❓❌⭕❗🎀🎗️✳️
-
 ## 語意圖析 (Semantic Diagram)
 ![images/Screenshot_1.png](images/Screenshot_1.png)
 
 ## 大綱 (Outline)
 - (0) 前言：
-	- 耶穌的臨別贈言，教會存在的目的，基督徒人生的使命——非常重要！
+	- 耶穌的臨別贈言，教會存在的目的，信仰的核心，基督徒人生的使命——非常重要！
 	- 復活三部曲：
 		- 24:1-12：復活
 		- 24:13-35：復活＋聖經
 		- 24:36-49：復活＋聖經＋宣教
 		- 24:50-53：銜接使徒行傳 = 宣教的預備
 - (1) 復活 (24:36-43)：肉身！
-	- vs. 靈魂不朽 (New Age/Old Age)
-	- 手腳、吃燒魚
+	- vs. 靈魂不朽 (New Age/Old Age) = 鬼魂 (24:37)
+	- 手腳、吃燒魚、看得見、摸得到
+	- 林前15:42-44：不朽壞的、榮耀的、強壯的、靈性的身體！
+		- 死人復活也是這樣：所種的是必朽壞的，復活的是不朽壞的； 所種的是羞辱的，復活的是榮耀的；所種的是軟弱的，復活的是強壯的； 所種的是血氣的身體，復活的是靈性的身體。若有血氣的身體，也必有靈性的身體。 
 - (2) 聖經 (24:44-47)：
 	- 預言＋應驗 (24:44-45)
 		- **必須**應驗！——因為背後是這位**全能上帝永恆主宰**
@@ -62,8 +61,15 @@
 	- 內容＋焦點 (24:46-47)：
 		- 基督的受害 = 死 ⇐ 已經應驗！
 		- 復活 ⇐ 已經應驗！
-		- 福音遍傳：預備期 ⇒ 現在進行式 ...！
+		- 福音傳到萬邦：預備期 ⇒ 現在進行式 ...！
+			- 創12:3 地上的萬族都要因你得福。
+			- 賽2:2 末後的日子，耶和華殿的山必堅立，超乎諸山，高舉過於萬嶺；萬民都要流歸這山。 
+			- 結38:23 我必顯為大，顯為聖，在多國人的眼前顯現；他們就知道我是耶和華。 
 - (3) 宣教 (24:48-49)：
+	- 既是預言，也是使命行動——時間軸疊加——聖經 = 我們的生命
+	- 內容＋焦點 = (2)
+	- 任務 = 見證 (2)！——不是創新😢
+	- 動力 = 穿上、披戴上頭來的能力！——不是靠自己、勢力、才能、高言大智 😢
 
 ## 小抄 (memo)
 
