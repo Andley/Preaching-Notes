@@ -104,7 +104,7 @@
 
 ## 小抄 (memo)
 
-![images/2025-05-26-Isa.61.1-3.memo.jpg](images/2025-05-26-Isa.61.1-3.memo.jpg)
+![images/2024-05-26-Isa.61.1-3.memo.jpg](images/2024-05-26-Isa.61.1-3.memo.jpg)
 
 ---
 
