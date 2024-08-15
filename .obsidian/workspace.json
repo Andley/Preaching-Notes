@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "61aa1d4e39a610a4",
+        "id": "82f6a04a2c7c8300",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d518a6ffc5dc29",
+            "id": "bc4ce6921a647614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luk.24.44-53.md",
+                "file": "2024-08-10-lectionary.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "5386ea8ee7c5b908"
+          }
+        ]
+      },
+      {
+        "id": "07ab583494414cf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a328f2dd9e28aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-10-lectionary.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "5386ea8ee7c5b908"
           }
         ]
       }
@@ -94,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Luk.24.44-53.md"
+                "file": "2024-08-10-lectionary.md"
               }
             }
           },
@@ -115,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luk.24.44-53.md",
+                "file": "2024-08-10-lectionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Luk.24.44-53.md",
+                "file": "2024-08-10-lectionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,14 +187,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8d518a6ffc5dc29",
+  "active": "bc4ce6921a647614",
   "lastOpenFiles": [
-    "images/2024-06-02-Luk.24.44-53-MEMOb.jpg",
+    "template/講道筆記範本.md",
+    "2024-08-10-lectionary.md",
     "Luk.24.44-53.md",
+    "README.md",
+    "images/2024-06-02-Luk.24.44-53-MEMOb.jpg",
     "images/2024-06-02-Luk.24.44-53-MEMOa.jpg",
     "images/2024-06-02-Luk.24.44-53.png",
     "images/2024-05-26-Isa.61.1-3.memo.jpg",
-    "README.md",
     "Untitled.md",
     "Isa.61.1-3.md",
     "2Co.3.1-18.md",
@@ -202,7 +224,6 @@
     "1Jo.2.28–3.3.md",
     "Mat.6.25–34.md",
     "Col.1.3–14.md",
-    "template/講道筆記範本.md",
     "Gen.28.10-19.md"
   ]
 }
