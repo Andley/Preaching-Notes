@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "Joh.6.51-58.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "Joh.6.51-58.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Ki.3.3-14.md"
+                "file": "Joh.6.51-58.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "Joh.6.51-58.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "Joh.6.51-58.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +187,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a328f2dd9e28aa3",
+  "active": "bc4ce6921a647614",
   "lastOpenFiles": [
-    "images/1Ki.3.3-14.outline.png",
     "1Ki.3.3-14.md",
     "README.md",
     "Joh.6.51-58.md",
+    "images/Joh.6.51-58.outline.png",
+    "images/1Ki.3.3-14.outline.png",
     "template/講道筆記範本.md",
     "Luk.24.44-53.md",
     "images/2024-06-02-Luk.24.44-53-MEMOb.jpg",
@@ -207,7 +208,6 @@
     "images/2024-05-26-Isa.61.1-3a.png",
     "images/2024-04-07 2Co.3.1-18 memo.jpg",
     "2Co.3.1-6.md",
-    "images/2024-04-07 2Co.3.1-18.png",
     "Hab.2.20-3.19.md",
     "Mat.25.31-46.md",
     "Eze.34.1-24.md",
