@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "1Ki.3.3-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "1Ki.3.3-14.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joh.6.51-58.md"
+                "file": "1Ki.3.3-14.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "1Ki.3.3-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "1Ki.3.3-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,14 +186,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bc4ce6921a647614",
+  "active": "1a328f2dd9e28aa3",
   "lastOpenFiles": [
+    "images/1Ki.3.3-14.outline.png",
     "1Ki.3.3-14.md",
     "README.md",
     "Joh.6.51-58.md",
-    "images/Joh.6.51-58.outline.png",
-    "images/1Ki.3.3-14.outline.png",
     "template/講道筆記範本.md",
+    "images/Joh.6.51-58.outline.png",
     "Luk.24.44-53.md",
     "images/2024-06-02-Luk.24.44-53-MEMOb.jpg",
     "images/2024-06-02-Luk.24.44-53-MEMOa.jpg",
