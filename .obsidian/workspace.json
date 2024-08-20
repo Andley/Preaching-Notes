@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Ki.3.3-14.md"
+                "file": "README.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Ki.3.3-14.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +186,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1a328f2dd9e28aa3",
+  "active": "bc4ce6921a647614",
   "lastOpenFiles": [
-    "images/1Ki.3.3-14.outline.png",
     "1Ki.3.3-14.md",
+    "images/1Ki.3.3-14.outline.png",
     "README.md",
     "Joh.6.51-58.md",
     "template/講道筆記範本.md",
