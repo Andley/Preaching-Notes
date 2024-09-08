@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "82f6a04a2c7c8300",
+        "id": "fb38184b370343aa",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4ce6921a647614",
+            "id": "5e6f003bf467d656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1Ki.3.3-15.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5386ea8ee7c5b908"
+            "group": "47aa58e38029e203"
           }
         ]
       },
       {
-        "id": "07ab583494414cf0",
+        "id": "2e30863b396e0e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "1a328f2dd9e28aa3",
+            "id": "eefd1a192854ba42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1Ki.3.3-15.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "5386ea8ee7c5b908"
+            "group": "47aa58e38029e203"
           }
         ]
       }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1Ki.3.3-15.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1Ki.3.3-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1Ki.3.3-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +186,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bc4ce6921a647614",
+  "active": "eefd1a192854ba42",
   "lastOpenFiles": [
+    "images/1Ki.3.3-15.png",
+    "1Ki.3.3-15.md",
+    "README.md",
+    "Joh.6.22-40.md",
+    "Joh.6.51-58.md",
+    "images/Joh.6.22-40.png",
     "1Ki.3.3-14.md",
     "images/1Ki.3.3-14.outline.png",
-    "README.md",
-    "Joh.6.51-58.md",
     "template/講道筆記範本.md",
     "images/Joh.6.51-58.outline.png",
     "Luk.24.44-53.md",
@@ -205,8 +208,6 @@
     "2Co.3.1-18.md",
     "images/2024-05-26-Isa.61.1-3b.png",
     "images/Pasted image 20240524164134.png",
-    "images/2024-05-26-Isa.61.1-3a.png",
-    "images/2024-04-07 2Co.3.1-18 memo.jpg",
     "2Co.3.1-6.md",
     "Hab.2.20-3.19.md",
     "Mat.25.31-46.md",
@@ -221,8 +222,6 @@
     "Joh.15.1–11.md",
     "Act.2.1-21.md",
     "1Ti.4.1–16.md",
-    "1Th.5.1-11.md",
-    "1Jo.2.28–3.3.md",
-    "Mat.6.25–34.md"
+    "1Th.5.1-11.md"
   ]
 }
