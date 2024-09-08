@@ -4,3 +4,9 @@
 時間：50 min  
 
 ![images/1Ki.3.3-15.png](images/1Ki.3.3-15.png)
+
+
+---
+
+
+[講道筆記↵](README.md)
