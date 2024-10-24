@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -209,7 +210,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eefd1a192854ba42",
+  "active": "5e6f003bf467d656",
   "lastOpenFiles": [
     "README.md",
     "Joh.3.1-21.md",

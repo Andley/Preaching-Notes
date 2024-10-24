@@ -1,3 +1,95 @@
+/* 設定字型 */
+@font-face {
+	font-family: AndleyFont;
+	unicode-range: U+0000-007F; /* English UNICODE */
+	src: local("Arial Narrow");
+  }
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  src: local("Gentium Book Plus");
+  }
+@font-face {
+	font-family: AndleyFont;
+	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
+	src: local("Noto Sans CJK TC");
+  }
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  src: local("SBL Hebrew");
+  }
+  
+/* 標題 */
+h1, .cm-header-1, .markdown-preview-view h1,
+h2, .cm-header-2, .markdown-preview-view h2,
+h3, .cm-header-3, .markdown-preview-view h3,
+h4, .cm-header-4, .markdown-preview-view h4,
+h5, .cm-header-5, .markdown-preview-view h5,
+h6, .cm-header-6, .markdown-preview-view h6 {
+  font-family: "Noto Sans Black", "Noto Sans TC Black", AndleyFont;
+}
+
+h1, h3, h5 {
+  text-align: center;
+}
+
+html, body, p, li {
+  font-family: "Noto Sans", AndleyFont;
+  font-size: 16px;
+}
+
+/*   Ruby Interlinear  */
+ruby {
+  font-family: AndleyFont;
+  font-size: 16px ; /* 12pt 字體大小*/
+  line-height:4.5em;
+  padding: 0 1px;
+}
+
+rt {
+  font-size: 13px ; 
+  text-align: center;
+  padding: 0 3px;
+}
+
+li ruby {
+  line-height:3.5em;
+}
+
+/*   Table  */
+.markdown-rendered thead tr > th , .markdown-preview-view th {
+  border: 1px solid;
+  border-bottom: 4px double;
+  text-align: center;
+}
+
+.markdown-preview-view td {
+  border: 1px solid;
+}
+
+/* text decoration for marking syntax functions */
+  mark {
+  &.poetry::before {content:'\a                 '; white-space: pre;}
+  &.poetry {background-color: transparent;}
+	&.paragraph::after {background-color: transparent; content:'\a\a'; white-space: pre;}
+	&.punctuation {background-color: transparent; font-weight:bolder;}
+  /* ———————— */
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+
+  /* ————
+  &.verb {background-color: lightpink;}
+	&.ptc {background-color: lightblue; }
+	&.inf {background-color: lightgreen; }
+  ———— */
+}
+
+  &.verb {background-color: transparent; color: red;}
+	&.ptc {background-color: transparent; color: blue;}
+	&.inf {background-color: transparent; color: green;}
+
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
@@ -9,13 +101,14 @@
   --color4:#ff8a00;
   --color-strong: greenyellow;
   --color-em:gold;
-  --text-accent:yellow;
-  --control-character-color: white;
-  --font-text:'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC';
+  --text-accent:lightgreen;
+  --control-character-color: silver;
+  --collapse-icon-color-collapsed: lightgreen;
+  --color-base-40: silver;
   }
 
 .theme-light {
-  --text-tag: rgb(128, 136, 240);
+  --text-tag: darkblue;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
@@ -27,13 +120,8 @@
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
-  --font-text:'Gentium Book Plus', 'Noto Sans', 'Noto Sans TC';
+  --color-base-40: darkblue;
 }
-
-.nav-file-title, .nav-folder-title {
-  padding: 0 0 0 15px;
-  font-family: 'Noto Sans', 'Noto Sans TC';
-  }
 
 /* BULLET POINT RELATIONSHIP LINES */
 .cm-hmd-list-indent .cm-tab, ul ul { 
@@ -51,117 +139,12 @@ ul ul::before {
   } 
 
 /* HTML tags in preview and editor */
-.cm-s-obsidian span.cm-tag {
+.cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
+  font-family: AndleyFont;
   font-size: 13px;
-  font-family: "Arial Narrow";
 }
 
-/* 標題 */
-.cm-header-1, .markdown-preview-view h1 {
-  color: var(--color1);
-  font-size:26px; /* 20pt 字體大小*/
-  text-align: center;
-  border-bottom: 4px double ;
-  margin-bottom: 26px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
-}
-.cm-header-2,.markdown-preview-view h2 {
-  color: var(--color2);
-  font-size:24px; /* 18pt 字體大小*/
-  text-align: center;
-  margin-bottom: 24px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
-}
-.cm-header-3,.markdown-preview-view h3 {
-  color: var(--color3);
-  font-size:22px; /* 16pt 字體大小*/
-  margin-bottom: 22px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
-}
-.cm-header-4,.markdown-preview-view h4 {
-  color: var(--color4);
-  font-size:19px; /* 14pt 字體大小*/
-  margin-bottom: 19px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
-}
-.cm-header-5,.markdown-preview-view h5 {
-  color: var(--color5);
-  font-size:16px; /* 12pt 字體大小*/
-  margin-bottom: 16px;
-  font-family: "Noto Sans Black", "Noto Sans TC Black";
-}
-
-/*   Table  */
-table {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.markdown-rendered thead tr > th , .markdown-preview-view th {
-  border: 1px solid;
-  border-bottom: 4px double;
-  font-weight: 800;
-}
-
-.markdown-preview-view td {
-  border: 1px solid;
-}
-
-.cm-s-obsidian .HyperMD-table-row.HyperMD-table-row.HyperMD-table-row {
-	white-space: pre-wrap;
-	min-width: min-content;
-}
-
-/*   Ruby Interlinear  */
-ruby {
-  font-size: 16px ;
-  line-height: 6em;
-  text-align: center;
-}
-
-rt {
-  font-family: 'Arial Narrow';
-  font-size: 13px ; 
-  padding: 0 3px;
-}
-
-
-ul ruby {
-  line-height:2.5em;
-}
-
-
-strong,  .cm-strong {
-    color: var(--color-strong);
-    font-weight:bolder;
-  }
-
-em,  .cm-em {
-    color: var(--color-em);
-    font-weight:bold;
-    font-style:italic;
-  }
-
-/* text decoration for marking syntax functions */
-mark {
-  &.pm {background: none;font-weight:900; }
-  &.S {background: none; text-decoration: underline double; text-underline-offset: 5px;}
-  &.P {background: none; text-decoration: underline wavy; text-underline-offset: 5px;}
-  &.C {background: none; text-decoration: underline solid; text-underline-offset: 5px;}
-  &.A {background: none; text-decoration: underline dotted; text-underline-offset: 5px;}
-  &.green {background-color: lightgreen; }
-  &.red {background-color: lightcoral; }
-  &.blue {background-color: skyblue; }
-  &.purple {background-color: purple; }
-}
-
-@media print {
-    body {
-      --font-text: 'Gentium Book Plus', 'Ezra SIL', 'Noto Sans', 'Noto Sans TC'  !important;
-    }
-
-    @page {
-      margin: 1cm 0cm;
-    }
+.nav-file-title, .nav-folder-title {
+  line-height: 1em;
 }
