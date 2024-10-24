@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joh.6.51-58.md",
-                "mode": "preview",
+                "file": "Joh.3.1-21.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Joh.6.51-58"
+              "title": "Joh.3.1-21"
             },
             "group": "47aa58e38029e203"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "Joh.3.1-21.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Joh.6.51-58"
+              "title": "Joh.3.1-21"
             },
             "group": "47aa58e38029e203"
           }
@@ -125,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joh.6.51-58.md"
+                "file": "Joh.3.1-21.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Joh.6.51-58"
+              "title": "Outline of Joh.3.1-21"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "Joh.3.1-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Joh.6.51-58"
+              "title": "Backlinks for Joh.3.1-21"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joh.6.51-58.md",
+                "file": "Joh.3.1-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Joh.6.51-58"
+              "title": "Outgoing links from Joh.3.1-21"
             }
           },
           {
@@ -200,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,14 +209,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e6f003bf467d656",
+  "active": "eefd1a192854ba42",
   "lastOpenFiles": [
     "README.md",
+    "Joh.3.1-21.md",
+    "Joh.6.51-58.md",
     "1Ki.3.3-15.md",
     "Gen.28.10-19.md",
     "Joh.6.22-40.md",
     "images/1Ki.3.3-15.png",
-    "Joh.6.51-58.md",
     "images/Joh.6.22-40.png",
     "1Ki.3.3-14.md",
     "images/1Ki.3.3-14.outline.png",
@@ -244,7 +246,6 @@
     "Joh.15.12–27.md",
     "Joh.15.1–11.md",
     "Act.2.1-21.md",
-    "1Ti.4.1–16.md",
-    "1Th.5.1-11.md"
+    "1Ti.4.1–16.md"
   ]
 }
