@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,6 +214,11 @@
   "active": "5e6f003bf467d656",
   "lastOpenFiles": [
     "README.md",
+    "Php.3.7-16.md",
+    "Rom.8.12-25.md",
+    "Act.2.1-21.md",
+    "Mat.17.1-9.md",
+    "Exo.24.12-18.md",
     "Joh.3.1-21.md",
     "Joh.6.51-58.md",
     "1Ki.3.3-15.md",
@@ -242,11 +248,6 @@
     "Rom.8.1–17 (A).md",
     "Mat.13.10–23.md",
     "Mar.8.27–9.1.md",
-    "1Co.15.1-11.md",
-    "Rom.8.12-25.md",
-    "Joh.15.12–27.md",
-    "Joh.15.1–11.md",
-    "Act.2.1-21.md",
-    "1Ti.4.1–16.md"
+    "1Co.15.1-11.md"
   ]
 }
