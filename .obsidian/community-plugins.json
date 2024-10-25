@@ -6,5 +6,6 @@
   "obsidian-tidy-footnotes",
   "cm-show-whitespace-obsidian",
   "control-characters",
-  "obsidian-rtl"
+  "obsidian-rtl",
+  "obsidian-regex-replace"
 ]
