@@ -3,7 +3,7 @@
 教會：台中活水浸信會  
 時間：50 min  
 
-![images/1Ki.3.3-15.png](images/1Ki.3.3-15.png)
+![images/2024-09-07-1Ki.3.3-15.png](images/2024-09-07-1Ki.3.3-15.png)
 
 
 ---

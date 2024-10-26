@@ -4,7 +4,7 @@
 時間：50 min  
 
 
-![images/Joh.6.22-40.png](images/Joh.6.22-40.png)
+![images/2024-09-08-Joh.6.22-40.png](images/2024-09-08-Joh.6.22-40.png)
 
 
 ---

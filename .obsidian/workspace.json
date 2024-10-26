@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joh.3.1-21.md",
+                "file": "1Ki.3.3-15.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Joh.3.1-21"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e7cdb2ea63c0e35",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe98c56971c1da79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Joh.3.1-21.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Joh.3.1-21"
+              "title": "1Ki.3.3-15"
             }
           }
         ]
@@ -107,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -208,35 +187,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e6f003bf467d656",
+  "active": "75b75d906b38f1fb",
   "lastOpenFiles": [
+    "images/2024-09-07-1Ki.3.3-15.png",
+    "1Ki.3.3-15.md",
+    "README.md",
+    "Joh.6.22-40.md",
+    "images/2024-09-08-Joh.6.22-40.png",
+    "images/Joh.6.51-58.outline.png",
+    "images/2024-10-27-Joh.3.1-12 MEMOb.jpg",
+    "images/2024-10-27-Joh.3.1-12 MEMOa.jpg",
+    "Joh.3.1-21.md",
     "images/2024-06-02-Luk.24.44-53.png",
     "images/2024-10-27-Joh.3.1-12.png",
-    "Joh.3.1-21.md",
-    "README.md",
     "Php.3.7-16.md",
     "Rom.8.12-25.md",
     "Act.2.1-21.md",
     "Mat.17.1-9.md",
     "Exo.24.12-18.md",
     "Joh.6.51-58.md",
-    "1Ki.3.3-15.md",
     "Gen.28.10-19.md",
-    "Joh.6.22-40.md",
-    "images/1Ki.3.3-15.png",
-    "images/Joh.6.22-40.png",
     "1Ki.3.3-14.md",
     "images/1Ki.3.3-14.outline.png",
     "template/講道筆記範本.md",
-    "images/Joh.6.51-58.outline.png",
     "Luk.24.44-53.md",
     "images/2024-06-02-Luk.24.44-53-MEMOb.jpg",
     "images/2024-06-02-Luk.24.44-53-MEMOa.jpg",
-    "images/2024-05-26-Isa.61.1-3.memo.jpg",
     "Untitled.md",
     "Isa.61.1-3.md",
     "2Co.3.1-18.md",
-    "images/2024-05-26-Isa.61.1-3b.png",
     "2Co.3.1-6.md",
     "Hab.2.20-3.19.md",
     "Mat.25.31-46.md",
