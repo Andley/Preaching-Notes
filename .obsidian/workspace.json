@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2Ch.36.23.md",
-                "mode": "source",
+                "file": "Joh.3.1-21.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2Ch.36.23"
+              "title": "Joh.3.1-21"
             }
           }
         ]
@@ -203,14 +203,13 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "9ac9f0f7a8ab6e89",
   "lastOpenFiles": [
-    "images/2Ch.36.23-Slide-7.png",
     "2Ch.36.23.md",
+    "images/2Ch.36.23-Slide-7.png",
     "images/2Ch.36.23-Slide-6.png",
     "images/2Ch.36.23-Slide-5.png",
     "images/2Ch.36.23-Slide-4.png",
