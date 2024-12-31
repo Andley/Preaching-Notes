@@ -42,6 +42,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "a4779ede7f718e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d3552a87525126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joh.3.1-21.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Joh.3.1-21"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -207,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e6f003bf467d656",
+  "active": "20d3552a87525126",
   "lastOpenFiles": [
+    "README.md",
     "Joh.3.1-21.md",
     "2Ch.36.23.md",
     "images/2Ch.36.23-Slide-7.png",
@@ -219,7 +241,6 @@
     "images/2Ch.36.23-Slide-2.png",
     "images/2Ch.36.23-Slide-1.png",
     "images/2Ch.36.23-memo.png",
-    "README.md",
     "template/講道筆記範本.md",
     "1Ki.3.3-15.md",
     "images/2024-09-07-1Ki.3.3-15.png",
