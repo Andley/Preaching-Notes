@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fb38184b370343aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e6f003bf467d656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
         "id": "e9ab4912ea12481e",
         "type": "tabs",
         "children": [
@@ -34,12 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Joh.3.1-21.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Joh.3.1-21"
-            }
+            },
+            "group": "7f54b03d0d4e2bee"
           }
         ]
       },
@@ -59,7 +40,8 @@
               },
               "icon": "lucide-file",
               "title": "Joh.3.1-21"
-            }
+            },
+            "group": "7f54b03d0d4e2bee"
           }
         ]
       }
@@ -228,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20d3552a87525126",
+  "active": "9ac9f0f7a8ab6e89",
   "lastOpenFiles": [
     "README.md",
     "Joh.3.1-21.md",
