@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "BG4E",
     "font",
@@ -10,9 +10,10 @@
   "theme": "obsidian",
   "cssTheme": "",
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Noto Sans,Noto Sans TC",
   "accentColor": "",
   "nativeMenus": false,
   "translucency": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "monospaceFontFamily": "Courier New"
 }

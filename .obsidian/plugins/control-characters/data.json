@@ -1,7 +1,7 @@
 {
   "newLine": true,
   "tab": true,
-  "space": true,
+  "space": false,
   "enabled": true,
   "selection": false
 }

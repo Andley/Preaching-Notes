@@ -1,5 +1,4 @@
 [
-  "obsidian-hider",
   "obsidian-git",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-footnotes",
@@ -7,5 +6,5 @@
   "cm-show-whitespace-obsidian",
   "control-characters",
   "obsidian-rtl",
-  "obsidian-regex-replace"
+  "show-whitespace-cm6"
 ]

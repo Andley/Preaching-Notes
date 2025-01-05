@@ -7,15 +7,6 @@
       "key": "C"
     }
   ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "workspace:edit-file-title": [],
   "workspace:export-pdf": [
     {
@@ -224,6 +215,14 @@
         "Alt"
       ],
       "key": "A"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
