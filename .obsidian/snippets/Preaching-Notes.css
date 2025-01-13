@@ -1,5 +1,21 @@
-/* 標題 */
 
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  src: local("Gentium Book Plus");
+  }
+@font-face {
+	font-family: AndleyFont;
+	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
+	src: local("Microsoft Yahei");
+  }
+@font-face {
+  font-family: AndleyFont;
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  src: local("Ezra SIL");
+  }
+
+/* 標題 */
 h1, h3, h5 {
   text-align: center;
 }
@@ -12,22 +28,40 @@ html, body, p, li {
 /*   Ruby Interlinear */
 ruby {
   font-size: 1em ; 
-  ruby-align:center;
+  ruby-align:start;
   padding: 0 0.1em 0 0;
   line-height: 5em;
-  font-family:  "Gentium Book Plus";
+  font-family:  AndleyFont, "Noto Sans";
 }
 
 rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
-  font-family: "Gentium Book Plus";
+  font-family: AndleyFont, "Arial Narrow";
 } 
 
 li ruby {
   line-height:4em;
 } 
 
+/*
+ruby {
+	display: inline-flex;
+	flex-direction: column-reverse ;
+	align-items: center;
+	font-size: 1em ; 
+  line-height:1em;
+	font-family: "Gentium Book Plus";
+  padding: 0 0.1em 0.2em 0;
+  }
+
+  rt {
+	  font-size: 0.8em;
+	  line-height: 1em;
+	  font-family: "Arial Narrow", "Gentium Book Plus", "Microsoft Yahei";
+    padding:0 0.1em 0 0.1em;
+  }
+*/
 
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
@@ -80,10 +114,12 @@ li ruby {
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
+  --font-text: AndleyFont, "Noto Sans";
   }
 
 .theme-light {
   --text-tag: darkblue;
+  --divider-color: gold;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
@@ -96,15 +132,13 @@ li ruby {
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
   --color-base-40: darkblue;
+  --font-text: AndleyFont, "Noto Sans";
 }
 
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
-  font-family: AndleyFont, "Arial Narrow";
+  font-family: "Arial Narrow";
   font-size: 13px;
 }
 
-.nav-file-title, .nav-folder-title {
-  line-height: 1em;
-}
