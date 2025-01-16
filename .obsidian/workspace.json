@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wesley.md",
+                "file": "1Co.12.1-11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wesley"
+              "title": "1Co.12.1-11"
             }
           }
         ]
@@ -33,15 +33,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wesley.md",
+                "file": "Isa.62.1-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wesley"
+              "title": "Isa.62.1-5"
+            }
+          },
+          {
+            "id": "e9a320d3f2a07517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Co.12.1-11.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1Co.12.1-11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,12 +225,14 @@
   },
   "active": "20d3552a87525126",
   "lastOpenFiles": [
+    "images/1Co.12.1-11.png",
+    "1Co.12.1-11.md",
+    "README.md",
+    "Isa.62.1-5.md",
     "Mat.17.1-9.md",
-    "wesley.md",
     "1Th.5.1-11.md",
     "Joh.3.1-21.md",
     "template/講道筆記範本.md",
-    "README.md",
     "2Ch.36.23.md",
     "images/2Ch.36.23-Slide-7.png",
     "images/2Ch.36.23-Slide-6.png",
@@ -228,7 +245,6 @@
     "1Ki.3.3-15.md",
     "images/2024-09-07-1Ki.3.3-15.png",
     "Joh.6.22-40.md",
-    "images/2024-09-08-Joh.6.22-40.png",
     "Php.3.7-16.md",
     "Rom.8.12-25.md",
     "Act.2.1-21.md",
@@ -243,8 +259,6 @@
     "2Co.3.1-6.md",
     "Hab.2.20-3.19.md",
     "Mat.25.31-46.md",
-    "Eze.34.1-24.md",
-    "Rom.8.1-17 (B).md",
-    "Rom.8.1–17 (A).md"
+    "Eze.34.1-24.md"
   ]
 }
