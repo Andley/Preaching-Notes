@@ -10,20 +10,20 @@
 - 12:2 <RUBY><ruby><ruby><mark class='verb'>Οἴδατε</mark><rt>知道</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-2P</rt></RUBY> 
 	- <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
 		- <RUBY><ruby><ruby>ὅτε<rt>時候</rt></ruby><rt>ὅτε</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἔθνη<rt>外邦人</rt></ruby><rt>ἔθνος</rt></ruby><rt>N-NPN</rt></RUBY> 
-	- <RUBY><ruby><ruby><mark class='verb'>ἦτε</mark><rt>是/在/有</rt></ruby><rt>εἰμί</rt></ruby><rt>V-IAI-2P</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>到</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>εἴδωλα<rt>偶像</rt></ruby><rt>εἴδωλον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἄφωνα<rt>不能說話的</rt></ruby><rt>ἄφωνος</rt></ruby><rt>A-APN</rt></RUBY> {<RUBY><ruby><ruby>ὡς<rt>怎樣</rt></ruby><rt>ὡς</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>ἤγεσθε</mark><rt>受...轄制</rt></ruby><rt>ἄγω</rt></ruby><rt>V-IPI-2P</rt></RUBY>} <RUBY><ruby><ruby><mark class='ptc'>ἀπαγόμενοι</mark><rt>引入</rt></ruby><rt>ἀπάγω</rt></ruby><rt>V-PPP-NPM</rt></RUBY> <mark class='punctuation'>.</mark> 
+	- <RUBY><ruby><ruby><mark class='verb'>ἦτε</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-IAI-2P</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>到</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>εἴδωλα<rt>偶像</rt></ruby><rt>εἴδωλον</rt></ruby><rt>N-APN</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>ἄφωνα<rt>不能說話的</rt></ruby><rt>ἄφωνος</rt></ruby><rt>A-APN</rt></RUBY> {<RUBY><ruby><ruby>ὡς<rt>怎樣</rt></ruby><rt>ὡς</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ἂν<rt>-</rt></ruby><rt>ἄν</rt></ruby><rt>PRT</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>ἤγεσθε</mark><rt>受...轄制</rt></ruby><rt>ἄγω</rt></ruby><rt>V-IPI-2P</rt></RUBY>} <RUBY><ruby><ruby><mark class='ptc'>ἀπαγόμενοι</mark><rt>引入</rt></ruby><rt>ἀπάγω</rt></ruby><rt>V-PPP-NPM</rt></RUBY> <mark class='punctuation'>.</mark> 
 - 12:3 <RUBY><ruby><ruby>διὸ<rt>所以</rt></ruby><rt>διό</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>γνωρίζω</mark><rt>告訴</rt></ruby><rt>γνωρίζω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ὑμῖν<rt>給你們</rt></ruby><rt>σύ</rt></ruby><rt>P-2DP</rt></RUBY> 
 	- <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
-		- <RUBY><ruby><ruby>οὐδεὶς<rt>沒有</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>被</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>靈</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>神</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>λαλῶν</mark><rt>說話</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>λέγει</mark><rt>說</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3S</rt></RUBY> 
-			- <mark class='punctuation'>·</mark> <RUBY><ruby><ruby>Αναθεμα<rt>詛咒</rt></ruby><rt>ἀνάθεμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>ΙΗΣΟΥΣ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>,</mark> 
+		- <RUBY><ruby><ruby>οὐδεὶς<rt>沒有</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>被</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>靈</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Θεοῦ<rt>神</rt></ruby><rt>θεός</rt></ruby><rt>N-GSM</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>λαλῶν</mark><rt>說話</rt></ruby><rt>λαλέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>λέγει</mark><rt>說</rt></ruby><rt>λέγω</rt></ruby><rt>V-PAI-3S</rt></RUBY> <mark class='punctuation'>·</mark> 
+			- <RUBY><ruby><ruby>Αναθεμα<rt>詛咒</rt></ruby><rt>ἀνάθεμα</rt></ruby><rt>N-NSN</rt></RUBY> <RUBY><ruby><ruby>ΙΗΣΟΥΣ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>,</mark> 
 		- <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>οὐδεὶς<rt>沒有</rt></ruby><rt>οὐδείς</rt></ruby><rt>A-NSM</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>δύναται</mark><rt>能</rt></ruby><rt>δύναμαι</rt></ruby><rt>V-PMI-3S</rt></RUBY> <RUBY><ruby><ruby><mark class='inf'>εἰπεῖν</mark><rt>說</rt></ruby><rt>εἶπον</rt></ruby><rt>V-AAN</rt></RUBY> <mark class='punctuation'>·</mark> 
 			- <RUBY><ruby><ruby>Κυριος<rt>主</rt></ruby><rt>κύριος</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ΙΗΣΟΥΣ<rt>耶穌</rt></ruby><rt>Ἰησοῦς</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>,</mark> 
 			- <RUBY><ruby><ruby>εἰ<rt>如果</rt></ruby><rt>εἰ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>μὴ<rt>不</rt></ruby><rt>μή</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>被</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>Πνεύματι<rt>靈</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-DSN</rt></RUBY> <RUBY><ruby><ruby>Ἁγίῳ<rt>聖</rt></ruby><rt>ἅγιος</rt></ruby><rt>A-DSN</rt></RUBY> <mark class='punctuation'>.</mark> 
 - ⋯⋯⋯⋯⋯⋯⋯
-- 12:4 <RUBY><ruby><ruby>Διαιρέσεις<rt>許多種</rt></ruby><rt>διαίρεσις</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>χαρισμάτων<rt>恩賜</rt></ruby><rt>χάρισμα</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>εἰσίν</mark><rt>是/在/有</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> <mark class='punctuation'>,</mark> 
+- 12:4 <RUBY><ruby><ruby>Διαιρέσεις<rt>許多種</rt></ruby><rt>διαίρεσις</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>χαρισμάτων<rt>恩賜</rt></ruby><rt>χάρισμα</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>εἰσίν</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> <mark class='punctuation'>,</mark> 
 - <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSN</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐτὸ<rt>同一</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSN</rt></RUBY> <RUBY><ruby><ruby>Πνεῦμα<rt>聖靈</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-NSN</rt></RUBY> <mark class='punctuation'>·</mark> 
-- 12:5 <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διαιρέσεις<rt>許多種</rt></ruby><rt>διαίρεσις</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>διακονιῶν<rt>事奉</rt></ruby><rt>διακονία</rt></ruby><rt>N-GPF</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>εἰσιν</mark><rt>是/在/有</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> <mark class='punctuation'>,</mark> 
+- 12:5 <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διαιρέσεις<rt>許多種</rt></ruby><rt>διαίρεσις</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>διακονιῶν<rt>事奉</rt></ruby><rt>διακονία</rt></ruby><rt>N-GPF</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>εἰσιν</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> <mark class='punctuation'>,</mark> 
 - <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>αὐτὸς<rt>同一</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSM</rt></RUBY> <RUBY><ruby><ruby>Κύριος<rt>主</rt></ruby><rt>κύριος</rt></ruby><rt>N-NSM</rt></RUBY> <mark class='punctuation'>·</mark> 
-- 12:6 <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διαιρέσεις<rt>許多種</rt></ruby><rt>διαίρεσις</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>ἐνεργημάτων<rt>工作</rt></ruby><rt>ἐνέργημα</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>εἰσίν</mark><rt>是/在/有</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> <mark class='punctuation'>,</mark> 
+- <span style="vertical-align:-3em;">12:6</span> <RUBY><ruby><ruby>καὶ<rt>-</rt></ruby><rt>καί</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>διαιρέσεις<rt>許多種</rt></ruby><rt>διαίρεσις</rt></ruby><rt>N-NPF</rt></RUBY> <RUBY><ruby><ruby>ἐνεργημάτων<rt>工作</rt></ruby><rt>ἐνέργημα</rt></ruby><rt>N-GPN</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>εἰσίν</mark><rt>是</rt></ruby><rt>εἰμί</rt></ruby><rt>V-PAI-3P</rt></RUBY> <mark class='punctuation'>,</mark> 
 - <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>αὐτὸς<rt>同一</rt></ruby><rt>αὐτός</rt></ruby><rt>P-NSM</rt></RUBY> <RUBY><ruby><ruby>Θεός<rt>神</rt></ruby><rt>θεός</rt></ruby><rt>N-NSM</rt></RUBY> <RUBY><ruby><ruby>ὁ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSM</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>ἐνεργῶν</mark><rt>運行</rt></ruby><rt>ἐνεργέω</rt></ruby><rt>V-PAP-NSM</rt></RUBY> <RUBY><ruby><ruby>τὰ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-APN</rt></RUBY> <RUBY><ruby><ruby>πάντα<rt>萬事</rt></ruby><rt>πᾶς</rt></ruby><rt>A-APN</rt></RUBY> <RUBY><ruby><ruby>ἐν<rt>在...裡面</rt></ruby><rt>ἐν</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>πᾶσιν<rt>萬事</rt></ruby><rt>πᾶς</rt></ruby><rt>A-DPM</rt></RUBY> <mark class='punctuation'>.</mark> 
 - ⋯⋯⋯⋯⋯⋯⋯
 - 12:7 <RUBY><ruby><ruby>Ἑκάστῳ<rt>各人</rt></ruby><rt>ἕκαστος</rt></ruby><rt>A-DSM</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>δίδοται</mark><rt>稟受</rt></ruby><rt>δίδωμι</rt></ruby><rt>V-PPI-3S</rt></RUBY> <RUBY><ruby><ruby>ἡ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-NSF</rt></RUBY> <RUBY><ruby><ruby>φανέρωσις<rt>表顯</rt></ruby><rt>φανέρωσις</rt></ruby><rt>N-NSF</rt></RUBY> <RUBY><ruby><ruby>τοῦ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GSN</rt></RUBY> <RUBY><ruby><ruby>Πνεύματος<rt>聖靈</rt></ruby><rt>πνεῦμα</rt></ruby><rt>N-GSN</rt></RUBY> <RUBY><ruby><ruby>πρὸς<rt>是</rt></ruby><rt>πρός</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>τὸ<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-ASN</rt></RUBY> <RUBY><ruby><ruby><mark class='ptc'>συμφέρον</mark><rt>益處</rt></ruby><rt>συμφέρω</rt></ruby><rt>V-PAP-ASN</rt></RUBY> <mark class='punctuation'>.</mark> 
@@ -41,7 +41,7 @@
 	- <RUBY><ruby><ruby>καθὼς<rt>按照</rt></ruby><rt>καθώς</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>βούλεται</mark><rt>旨意</rt></ruby><rt>βούλομαι</rt></ruby><rt>V-PMI-3S</rt></RUBY> <mark class='punctuation'>.</mark> 
 ## 語意圖析 (Semantic Diagram)
 
-![images/1Co.12.1-11.png](images/1Co.12.1-11.png)
+![images/2025-01-19-1Co.12.1-11.png](images/2025-01-19-1Co.12.1-11.png)
 
 ## 解經 (Exegesis)
 😀😢🤔😮❓❌⭕❗🎀🎗️✳️
@@ -50,9 +50,18 @@
 - 
 ## 大綱 (Outline)
 😀😢🤔😮❓❌⭕❗🎀🎗️✳
-- (0) 開場：興起發光
-- (1) 
-- (2) 
+- (0) 開場：興起發光──如何發光？
+	- 第一堂：基督徒一定會發光
+		- 不是你的光，是耶穌基督的光，是耶和華的光
+		- 不是你努力，是耶穌不靜默、不息聲，直到你發光
+		- 來領受耶穌的光
+	- vv.8-10 只是列舉，不是窮盡！
+- (1) 跟著聖靈走 (vv.2-3)！
+	- 兩股力量、兩條河流 ⇒ 身分(BEING) ＋ 行為(DOING)
+		- 沒有聖靈，就是外邦人，就會去拜偶像──「被牽引」... 自然而然、隨波逐流 😢
+		- 有了聖靈，就會拜真神──「被感動」... 自然而然 😀
+- (2) 多元又合一 (vv.4-6)！
+- (3) 叫人得益處 (vv.7-11)
 
 ## 小抄 (memo)
 

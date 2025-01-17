@@ -33,40 +33,36 @@ em {
 }
 
 /*   Ruby Interlinear */
-/*ruby {
+ruby {
   font-size: 1em ; 
   ruby-align:start;
   padding: 0 0.1em 0 0;
-  font-family:  AndleyFont, "Noto Sans";
+  font-family:  AndleyFont;
+  line-height:4em;
 }
 
 rt {
   font-size: 0.8em ; 
   padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "Arial Narrow";
+  font-family: AndleyFont, "Roboto Condensed Light";
 } 
 
-li ruby {
-} 
-
-li {
-} */
-
+/*
 ruby {
 	display: inline-flex;
-	flex-direction: column ;
+	flex-direction: column-reverse ;
 	align-items: center;
 	font-size: 1em ; 
-  line-height:2em;
-	font-family: AndleyFont, "Noto Sans";
+  line-height:1em;
+	font-family: AndleyFont;
   }
 
   rt {
 	  font-size: 0.8em;
-	  line-height: 1em;
-	  font-family: AndleyFont, "Roboto Condensed";
+	  line-height: 1.2em;
+	  font-family: AndleyFont, "Roboto Condensed Light";
   }
-
+*/
 
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
@@ -87,9 +83,9 @@ ruby {
   &.paragraph {background-color: transparent;}
 	&.punctuation {background-color: transparent; font-weight:bolder;}
   /* ———————— */
-	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 5px;}
-	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 5px;}
-	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 5px;}
+	&.verb {background-color: transparent; text-decoration: underline double; text-underline-offset: 0.3em;}
+	&.ptc {background-color: transparent; text-decoration: underline solid; text-underline-offset: 0.3em;}
+	&.inf {background-color: transparent; text-decoration: underline dotted; text-underline-offset: 0.3em;}
 
   /* ————
   &.verb {background-color: lightpink;}
@@ -143,7 +139,7 @@ ruby {
 /* HTML tags in preview and editor */
 .cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
   color: var(--text-tag);
-  font-family: "Arial Narrow";
-  font-size: 13px;
+  font-family: "Roboto Condensed";
+  font-size: 0.8em;
 }
 

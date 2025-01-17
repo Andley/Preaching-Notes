@@ -6,7 +6,6 @@
       {
         "id": "a4779ede7f718e0e",
         "type": "tabs",
-        "dimension": 57.61266747868453,
         "children": [
           {
             "id": "20d3552a87525126",
@@ -14,23 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Co.12.1-11.md",
+                "file": "Isa.62.1-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Co.12.1-11"
+              "title": "Isa.62.1-5"
             }
           }
         ]
       },
       {
-        "id": "3b615a6e29f7552d",
+        "id": "95f6f967345c7d7c",
         "type": "tabs",
-        "dimension": 42.38733252131547,
         "children": [
           {
-            "id": "03e018e5342d8d72",
+            "id": "b1c7d3b2e8e6795c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 383.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -212,13 +209,14 @@
   },
   "active": "20d3552a87525126",
   "lastOpenFiles": [
-    "template/講道筆記範本.md",
+    "images/2025-01-19-Isa.62.1-7.png",
+    "Isa.62.1-5.md",
     "1Co.12.1-11.md",
-    "images/1Co.12.1-11.png",
+    "images/2025-01-19-1Co.12.1-11.png",
     "README.md",
+    "template/講道筆記範本.md",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
-    "Isa.62.1-5.md",
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
     "Joh.3.1-21.md",
@@ -232,7 +230,6 @@
     "images/2Ch.36.23-Slide-1.png",
     "images/2Ch.36.23-memo.png",
     "1Ki.3.3-15.md",
-    "images/2024-09-07-1Ki.3.3-15.png",
     "Joh.6.22-40.md",
     "Php.3.7-16.md",
     "Rom.8.12-25.md",
