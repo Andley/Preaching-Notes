@@ -48,9 +48,12 @@ rt {
 } 
 
 li ruby {
-  line-height:4em;
+  line-height:3.5em;
 } 
 
+li {
+  line-height:1em;
+}
 /*
 ruby {
 	display: inline-flex;
