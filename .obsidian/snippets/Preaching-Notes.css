@@ -33,11 +33,10 @@ em {
 }
 
 /*   Ruby Interlinear */
-ruby {
+/*ruby {
   font-size: 1em ; 
   ruby-align:start;
   padding: 0 0.1em 0 0;
-  line-height: 5em;
   font-family:  AndleyFont, "Noto Sans";
 }
 
@@ -48,30 +47,26 @@ rt {
 } 
 
 li ruby {
-  line-height:3.75em;
 } 
 
 li {
-  line-height:1.5em;
-}
-/*
+} */
+
 ruby {
 	display: inline-flex;
-	flex-direction: column-reverse ;
+	flex-direction: column ;
 	align-items: center;
 	font-size: 1em ; 
-  line-height:1em;
-	font-family: "Gentium Book Plus";
-  padding: 0 0.1em 0.2em 0;
+  line-height:2em;
+	font-family: AndleyFont, "Noto Sans";
   }
 
   rt {
 	  font-size: 0.8em;
 	  line-height: 1em;
-	  font-family: "Arial Narrow", "Gentium Book Plus", "Microsoft Yahei";
-    padding:0 0.1em 0 0.1em;
+	  font-family: AndleyFont, "Roboto Condensed";
   }
-*/
+
 
 /*   Table  */
 .markdown-rendered thead tr > th , .markdown-preview-view th {
