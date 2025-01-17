@@ -14,12 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "Isa.62.1-5.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Isa.62.1-5"
             }
+          },
+          {
+            "id": "291178a302a781a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Co.12.1-11.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1Co.12.1-11"
+            },
+            "group": "92e4dd97310351dd"
           }
         ]
       },
@@ -33,13 +48,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Isa.62.1-5.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Isa.62.1-5"
+            }
+          },
+          {
+            "id": "4c525cf4115c82d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1Co.12.1-11.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "1Co.12.1-11"
-            }
+            },
+            "group": "92e4dd97310351dd"
           }
         ]
       }
@@ -107,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -209,9 +240,9 @@
   },
   "active": "20d3552a87525126",
   "lastOpenFiles": [
-    "images/2025-01-19-Isa.62.1-7.png",
-    "Isa.62.1-5.md",
     "1Co.12.1-11.md",
+    "Isa.62.1-5.md",
+    "images/2025-01-19-Isa.62.1-7.png",
     "images/2025-01-19-1Co.12.1-11.png",
     "README.md",
     "template/講道筆記範本.md",
