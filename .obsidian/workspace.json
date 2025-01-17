@@ -6,6 +6,7 @@
       {
         "id": "a4779ede7f718e0e",
         "type": "tabs",
+        "dimension": 57.61266747868453,
         "children": [
           {
             "id": "20d3552a87525126",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "1Co.12.1-11.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -26,6 +27,7 @@
       {
         "id": "3b615a6e29f7552d",
         "type": "tabs",
+        "dimension": 42.38733252131547,
         "children": [
           {
             "id": "03e018e5342d8d72",

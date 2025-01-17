@@ -7,7 +7,7 @@
 @font-face {
 	font-family: AndleyFont;
 	unicode-range: U+4E00-9FFF; /* 中文 UNICODE */
-	src: local("Microsoft Jhenhei");
+	src: local("Noto Sans TC");
   }
 @font-face {
   font-family: AndleyFont;
@@ -48,11 +48,11 @@ rt {
 } 
 
 li ruby {
-  line-height:3.5em;
+  line-height:3.75em;
 } 
 
 li {
-  line-height:1em;
+  line-height:1.5em;
 }
 /*
 ruby {
