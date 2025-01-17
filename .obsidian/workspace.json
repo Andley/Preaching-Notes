@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "1Co.12.1-11.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -212,8 +211,9 @@
   },
   "active": "20d3552a87525126",
   "lastOpenFiles": [
-    "images/1Co.12.1-11.png",
+    "template/講道筆記範本.md",
     "1Co.12.1-11.md",
+    "images/1Co.12.1-11.png",
     "README.md",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
@@ -221,7 +221,6 @@
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
     "Joh.3.1-21.md",
-    "template/講道筆記範本.md",
     "2Ch.36.23.md",
     "images/2Ch.36.23-Slide-7.png",
     "images/2Ch.36.23-Slide-6.png",

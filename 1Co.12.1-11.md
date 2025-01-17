@@ -4,6 +4,8 @@
 教會：台北衛理堂  
 
 
+## 句法圖析 (Syntax Diagram)
+
 - 12:1 <RUBY><ruby><ruby>Περὶ<rt>關於</rt></ruby><rt>περί</rt></ruby><rt>PREP</rt></RUBY> <RUBY><ruby><ruby>δὲ<rt>-</rt></ruby><rt>δέ</rt></ruby><rt>CONJ</rt></RUBY> <RUBY><ruby><ruby>τῶν<rt>-</rt></ruby><rt>ὀ</rt></ruby><rt>T-GPN</rt></RUBY> <RUBY><ruby><ruby>πνευματικῶν<rt>屬靈的</rt></ruby><rt>πνευματικός</rt></ruby><rt>A-GPN</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>ἀδελφοί<rt>弟兄們</rt></ruby><rt>ἀδελφός</rt></ruby><rt>N-VPM</rt></RUBY> <mark class='punctuation'>,</mark> <RUBY><ruby><ruby>οὐ<rt>不</rt></ruby><rt>οὐ</rt></ruby><rt>PRT-N</rt></RUBY> <RUBY><ruby><ruby><mark class='verb'>θέλω</mark><rt>願意</rt></ruby><rt>θέλω</rt></ruby><rt>V-PAI-1S</rt></RUBY> <RUBY><ruby><ruby>ὑμᾶς<rt>你們</rt></ruby><rt>σύ</rt></ruby><rt>P-2AP</rt></RUBY> <RUBY><ruby><ruby><mark class='inf'>ἀγνοεῖν</mark><rt>不明白</rt></ruby><rt>ἀγνοέω</rt></ruby><rt>V-PAN</rt></RUBY> <mark class='punctuation'>.</mark> 
 - 12:2 <RUBY><ruby><ruby><mark class='verb'>Οἴδατε</mark><rt>知道</rt></ruby><rt>εἴδω</rt></ruby><rt>V-RAI-2P</rt></RUBY> 
 	- <RUBY><ruby><ruby>ὅτι<rt>-</rt></ruby><rt>ὅτι</rt></ruby><rt>CONJ</rt></RUBY> 
