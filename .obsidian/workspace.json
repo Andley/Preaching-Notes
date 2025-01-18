@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "291178a302a781a8",
+            "id": "9e79fb50c723e321",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "e283f415c667962b",
+            "id": "2ed25fbfcb8bb6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,11 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc739b58489947ca",
+  "active": "2ed25fbfcb8bb6c8",
   "lastOpenFiles": [
-    "1Co.12.1-11.md",
-    "1Co.12.3-13.md",
     "Isa.62.1-5.md",
+    "1Co.12.3-13.md",
+    "1Co.12.1-11.md",
     "images/2025-01-19-1Co.12.1-11.png",
     "images/2025-01-19-Isa.62.1-7.png",
     "README.md",
