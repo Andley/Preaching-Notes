@@ -36,8 +36,7 @@
               "title": "1Co.12.1-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "95f6f967345c7d7c",
@@ -86,8 +85,7 @@
               "title": "1Co.12.1-11"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,11 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed25fbfcb8bb6c8",
+  "active": "20d3552a87525126",
   "lastOpenFiles": [
+    "1Co.12.1-11.md",
     "Isa.62.1-5.md",
     "1Co.12.3-13.md",
-    "1Co.12.1-11.md",
     "images/2025-01-19-1Co.12.1-11.png",
     "images/2025-01-19-Isa.62.1-7.png",
     "README.md",
