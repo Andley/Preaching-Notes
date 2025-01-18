@@ -91,7 +91,8 @@
 
 ## 小抄 (memo)
 
-
+![images/2025-01-19-Memo3.jpg](images/2025-01-19-Memo3.jpg)
+![images/2025-01-19-Memo4.jpg](images/2025-01-19-Memo4.jpg)
 
 
 ---
