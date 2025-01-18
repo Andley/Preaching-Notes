@@ -6,6 +6,7 @@
       {
         "id": "a4779ede7f718e0e",
         "type": "tabs",
+        "dimension": 53.04506699147381,
         "children": [
           {
             "id": "20d3552a87525126",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Isa.62.1-5.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -33,30 +34,16 @@
               },
               "icon": "lucide-file",
               "title": "1Co.12.1-11"
-            },
-            "group": "92e4dd97310351dd"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "95f6f967345c7d7c",
         "type": "tabs",
+        "dimension": 46.95493300852619,
         "children": [
-          {
-            "id": "4c525cf4115c82d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Co.12.1-11.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1Co.12.1-11"
-            },
-            "group": "92e4dd97310351dd"
-          },
           {
             "id": "e673d27eb0436317",
             "type": "leaf",
@@ -69,6 +56,34 @@
               },
               "icon": "lucide-file",
               "title": "Isa.62.1-5"
+            }
+          },
+          {
+            "id": "fc739b58489947ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Co.12.3-13.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1Co.12.3-13"
+            }
+          },
+          {
+            "id": "e283f415c667962b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Co.12.1-11.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1Co.12.1-11"
             }
           }
         ],
@@ -239,15 +254,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20d3552a87525126",
+  "active": "fc739b58489947ca",
   "lastOpenFiles": [
-    "Isa.62.1-5.md",
     "1Co.12.1-11.md",
-    "images/2025-01-19-Isa.62.1-7.png",
+    "1Co.12.3-13.md",
+    "Isa.62.1-5.md",
     "images/2025-01-19-1Co.12.1-11.png",
+    "images/2025-01-19-Isa.62.1-7.png",
     "README.md",
     "template/講道筆記範本.md",
-    "1Co.12.3-13.md",
     "Act.2.1-21.md",
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
