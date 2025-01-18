@@ -21,7 +21,7 @@
   "fileSortOrder": "alphabetical",
   "spellcheck": true,
   "rightToLeft": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "lineWrap": true,
   "spellcheckLanguages": null,
   "showInlineTitle": false,
@@ -30,6 +30,6 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "smartIndentList": true,
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "showRibbon": false
 }

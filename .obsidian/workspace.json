@@ -43,20 +43,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1c7d3b2e8e6795c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Isa.62.1-5.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Isa.62.1-5"
-            }
-          },
-          {
             "id": "4c525cf4115c82d9",
             "type": "leaf",
             "state": {
@@ -70,8 +56,23 @@
               "title": "1Co.12.1-11"
             },
             "group": "92e4dd97310351dd"
+          },
+          {
+            "id": "e673d27eb0436317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isa.62.1-5.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Isa.62.1-5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +241,8 @@
   },
   "active": "20d3552a87525126",
   "lastOpenFiles": [
-    "1Co.12.1-11.md",
     "Isa.62.1-5.md",
+    "1Co.12.1-11.md",
     "images/2025-01-19-Isa.62.1-7.png",
     "images/2025-01-19-1Co.12.1-11.png",
     "README.md",
