@@ -15,5 +15,6 @@
   "nativeMenus": false,
   "translucency": false,
   "showViewHeader": true,
-  "monospaceFontFamily": "Courier New"
+  "monospaceFontFamily": "Courier New",
+  "showRibbon": false
 }

@@ -30,6 +30,5 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "smartIndentList": true,
-  "showIndentGuide": true,
-  "showRibbon": false
+  "showIndentGuide": true
 }
