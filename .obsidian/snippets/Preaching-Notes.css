@@ -95,9 +95,11 @@ ruby {
 
 strong {
   font-weight:800;
+  color: red;
 }
 em {
   font-weight: 600;
+  color:
 }
 
 
