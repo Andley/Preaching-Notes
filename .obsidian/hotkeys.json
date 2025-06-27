@@ -225,5 +225,15 @@
       ],
       "key": "P"
     }
+  ],
+  "editor:open-search": [],
+  "editor:open-search-replace": [],
+  "text-finder:text-finder-show-find-and-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }
