@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro.30.10-18.md",
+                "file": "Pro.31.10-18.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pro.30.10-18"
+              "title": "Pro.31.10-18"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro.30.10-18.md",
-                "mode": "source",
+                "file": "Pro.31.10-18.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pro.30.10-18"
+              "title": "Pro.31.10-18"
             }
           }
         ]
@@ -209,9 +209,9 @@
   },
   "active": "a969bc257c683f38",
   "lastOpenFiles": [
-    "README.md",
-    "Pro.30.10-18.md",
     "Pro.18.8.md",
+    "Pro.31.10-18.md",
+    "README.md",
     "Isa.62.1-5.md",
     "1Co.12.1-11.md",
     "images/2025-01-19-Memo4.jpg",
