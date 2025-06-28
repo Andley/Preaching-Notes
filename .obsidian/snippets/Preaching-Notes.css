@@ -41,12 +41,12 @@ li ruby {
 
 .cm-strong, strong {
   font-weight:800;
-  color: rgb(253, 120, 19);
+  color: var(--color1);
 }
 
 .cm-em, em {
   font-weight: 600;
-  color:rgb(135, 202, 20)
+  color:var(--color3);
 }
 
 a {text-decoration: none; color: var(--text-faint); }
