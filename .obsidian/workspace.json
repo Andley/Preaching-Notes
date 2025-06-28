@@ -104,12 +104,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -210,17 +210,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a969bc257c683f38",
+  "active": "3a4c4d1ccc81275a",
   "lastOpenFiles": [
+    "README.md",
+    "Pro.31.10-18.md",
     "Hab.2.20-3.19.md",
     "Eze.34.1-24.md",
     "Joh.15.1–11.md",
     "Joh.3.1-21.md",
     "Jos.9.7-15.md",
-    "Pro.31.10-18.md",
     "template/講道筆記範本.md",
     "Pro.18.8.md",
-    "README.md",
     "Isa.62.1-5.md",
     "1Co.12.1-11.md",
     "images/2025-01-19-Memo4.jpg",
