@@ -54,10 +54,10 @@
 
 
 # 小抄 (memo)
-[]()
-![[images/2025_06_29 07_35 Office Lens (2).jpg]]
 
-![[images/2025_06_29 07_36 Office Lens (2).jpg]]
+![images/2025_06_29 07_35 Office Lens (2).jpg](images/2025_06_29%2007_35%20Office%20Lens%20(2).jpg)
+
+![images/2025_06_29 07_36 Office Lens (2).jpg](images/2025_06_29%2007_36%20Office%20Lens%20(2).jpg)
 
 
 ---
