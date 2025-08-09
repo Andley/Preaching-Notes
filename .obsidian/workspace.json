@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro.31.10-18.md",
+                "file": "1Ki.11.34-39.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pro.31.10-18"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f357f98f26a721fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a4c4d1ccc81275a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pro.31.10-18.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Pro.31.10-18"
+              "title": "1Ki.11.34-39"
             }
           }
         ]
@@ -104,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,19 +189,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b1314860610141a",
+  "active": "a969bc257c683f38",
   "lastOpenFiles": [
+    "Pro.31.10-18.md",
+    "1Ki.11.34-39.md",
+    "template/講道筆記範本.md",
+    "README.md",
     "images/2025_06_29 07_35 Office Lens (2).jpg",
     "images/2025_06_29 07_36 Office Lens (2).jpg",
-    "README.md",
-    "Pro.31.10-18.md",
     "Ps.17.md",
     "Hab.2.20-3.19.md",
     "Eze.34.1-24.md",
     "Joh.15.1–11.md",
     "Joh.3.1-21.md",
     "Jos.9.7-15.md",
-    "template/講道筆記範本.md",
     "Pro.18.8.md",
     "Isa.62.1-5.md",
     "1Co.12.1-11.md",
@@ -239,7 +219,6 @@
     "2Ch.36.23.md",
     "images/2Ch.36.23-Slide-7.png",
     "images/2Ch.36.23-Slide-6.png",
-    "images/2Ch.36.23-Slide-5.png",
     "1Ki.3.3-15.md",
     "Joh.6.22-40.md",
     "Php.3.7-16.md",
