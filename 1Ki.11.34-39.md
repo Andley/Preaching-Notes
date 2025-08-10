@@ -44,7 +44,7 @@
 
 
 ## 小抄 (memo)
-
+![images/2025_08_10 08_08 Office Lens (2).jpg](images/2025_08_10%2008_08%20Office%20Lens%20(2).jpg)
 
 
 
