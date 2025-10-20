@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Ki.11.34-39.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1Ki.11.34-39"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b6f54f534960dbe8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1be4d647b4ad6674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Ki.11.34-39.md",
+                "file": "text.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Ki.11.34-39"
+              "title": "text"
             }
           }
         ]
@@ -90,8 +70,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -199,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -211,11 +192,14 @@
   },
   "active": "a969bc257c683f38",
   "lastOpenFiles": [
+    "images/Pasted image 20251019204023.png",
+    "images/Pasted image 20251019204020.png",
+    "README.md",
+    "text.md",
+    "1Ki.11.34-39.md",
     "images/2025_08_10 08_08 Office Lens (2).jpg",
     "Pro.31.10-18.md",
-    "1Ki.11.34-39.md",
     "template/講道筆記範本.md",
-    "README.md",
     "images/2025_06_29 07_35 Office Lens (2).jpg",
     "images/2025_06_29 07_36 Office Lens (2).jpg",
     "Ps.17.md",
@@ -238,14 +222,11 @@
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
     "2Ch.36.23.md",
-    "images/2Ch.36.23-Slide-7.png",
-    "images/2Ch.36.23-Slide-6.png",
     "1Ki.3.3-15.md",
     "Joh.6.22-40.md",
     "Php.3.7-16.md",
     "Rom.8.12-25.md",
     "Exo.24.12-18.md",
-    "Joh.6.51-58.md",
-    "Gen.28.10-19.md"
+    "Joh.6.51-58.md"
   ]
 }
