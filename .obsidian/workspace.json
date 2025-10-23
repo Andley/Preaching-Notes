@@ -13,6 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "23d0249307070ffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c16bf92c6e4c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "text.md",
                 "mode": "preview",
                 "source": true
@@ -190,12 +210,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a969bc257c683f38",
+  "active": "01c16bf92c6e4c93",
   "lastOpenFiles": [
-    "images/Pasted image 20251019204023.png",
-    "images/Pasted image 20251019204020.png",
     "README.md",
     "text.md",
+    "images/Pasted image 20251019204023.png",
+    "images/Pasted image 20251019204020.png",
     "1Ki.11.34-39.md",
     "images/2025_08_10 08_08 Office Lens (2).jpg",
     "Pro.31.10-18.md",
@@ -217,7 +237,6 @@
     "images/2025-01-19-Memo1.jpg",
     "1Co.12.3-13.md",
     "images/2025-01-19-1Co.12.1-11.png",
-    "images/2025-01-19-Isa.62.1-7.png",
     "Act.2.1-21.md",
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
