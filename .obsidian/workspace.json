@@ -6,6 +6,7 @@
       {
         "id": "f64c43a4fcd1c9a2",
         "type": "tabs",
+        "dimension": 54.443194600674914,
         "children": [
           {
             "id": "a969bc257c683f38",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lectionary.2025-10-26a.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lectionary.2025-10-26a"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "23d0249307070ffc",
         "type": "tabs",
+        "dimension": 45.556805399325086,
         "children": [
           {
             "id": "01c16bf92c6e4c93",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "text.md",
+                "file": "Lectionary.2025-10-26a.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "text"
+              "title": "Lectionary.2025-10-26a"
             }
           }
         ]
@@ -108,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -210,16 +213,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "01c16bf92c6e4c93",
+  "active": "a969bc257c683f38",
   "lastOpenFiles": [
     "README.md",
-    "text.md",
+    "Lectionary.2025-10-26b.md",
+    "Lectionary.2025-10-26a.md",
+    "template/講道筆記範本.md",
     "images/Pasted image 20251019204023.png",
     "images/Pasted image 20251019204020.png",
     "1Ki.11.34-39.md",
     "images/2025_08_10 08_08 Office Lens (2).jpg",
     "Pro.31.10-18.md",
-    "template/講道筆記範本.md",
     "images/2025_06_29 07_35 Office Lens (2).jpg",
     "images/2025_06_29 07_36 Office Lens (2).jpg",
     "Ps.17.md",
