@@ -6,7 +6,6 @@
       {
         "id": "f64c43a4fcd1c9a2",
         "type": "tabs",
-        "dimension": 54.443194600674914,
         "children": [
           {
             "id": "a969bc257c683f38",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "23d0249307070ffc",
+        "id": "4e6c36d99f412b59",
         "type": "tabs",
-        "dimension": 45.556805399325086,
         "children": [
           {
-            "id": "01c16bf92c6e4c93",
+            "id": "b921d2b5d8ab5c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -215,9 +213,9 @@
   },
   "active": "a969bc257c683f38",
   "lastOpenFiles": [
-    "README.md",
     "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
+    "README.md",
     "template/講道筆記範本.md",
     "images/Pasted image 20251019204023.png",
     "images/Pasted image 20251019204020.png",
