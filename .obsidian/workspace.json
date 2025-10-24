@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lectionary.2025-10-26a.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lectionary.2025-10-26a"
             }
           }
         ]
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -210,12 +211,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a969bc257c683f38",
+  "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
     "README.md",
-    "2Co.3.1-18.md",
     "Lectionary.2025-10-26a.md",
     "Lectionary.2025-10-26b.md",
+    "2Co.3.1-18.md",
     "template/講道筆記範本.md",
     "images/Pasted image 20251019204023.png",
     "images/Pasted image 20251019204020.png",
