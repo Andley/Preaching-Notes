@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -211,7 +210,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b921d2b5d8ab5c4f",
+  "active": "a969bc257c683f38",
   "lastOpenFiles": [
     "README.md",
     "Lectionary.2025-10-26a.md",
