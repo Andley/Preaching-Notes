@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -213,9 +212,9 @@
   },
   "active": "a969bc257c683f38",
   "lastOpenFiles": [
-    "README.md",
-    "Lectionary.2025-10-26a.md",
     "Lectionary.2025-10-26b.md",
+    "Lectionary.2025-10-26a.md",
+    "README.md",
     "2Co.3.1-18.md",
     "template/講道筆記範本.md",
     "images/Pasted image 20251019204023.png",
