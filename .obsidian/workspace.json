@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f64c43a4fcd1c9a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a969bc257c683f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectionary.2025-10-26a.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lectionary.2025-10-26a"
-            }
-          }
-        ]
-      },
-      {
         "id": "4e6c36d99f412b59",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.2025-10-26a.md",
-                "mode": "preview",
+                "file": "Lectionary.2025-10-26b.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.2025-10-26a"
+              "title": "Lectionary.2025-10-26b"
             }
           }
         ]
@@ -108,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -210,10 +190,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a969bc257c683f38",
+  "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
-    "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
+    "Lectionary.2025-10-26b.md",
     "README.md",
     "2Co.3.1-18.md",
     "template/講道筆記範本.md",
