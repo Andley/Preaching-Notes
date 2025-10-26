@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.2025-10-26b.md",
+                "file": "Lectionary.2025-10-26a.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.2025-10-26b"
+              "title": "Lectionary.2025-10-26a"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
+    "images/2025-10-26a.jpg",
     "Lectionary.2025-10-26a.md",
     "Lectionary.2025-10-26b.md",
+    "images/2025-10-26b.jpg",
     "README.md",
     "2Co.3.1-18.md",
     "template/講道筆記範本.md",
@@ -216,9 +218,7 @@
     "images/2025-01-19-Memo4.jpg",
     "images/2025-01-19-Memo3.jpg",
     "images/2025-01-19-Memo2.jpg",
-    "images/2025-01-19-Memo1.jpg",
     "1Co.12.3-13.md",
-    "images/2025-01-19-1Co.12.1-11.png",
     "Act.2.1-21.md",
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
@@ -226,7 +226,6 @@
     "1Ki.3.3-15.md",
     "Joh.6.22-40.md",
     "Php.3.7-16.md",
-    "Rom.8.12-25.md",
-    "Exo.24.12-18.md"
+    "Rom.8.12-25.md"
   ]
 }

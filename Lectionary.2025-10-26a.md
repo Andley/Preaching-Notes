@@ -54,7 +54,7 @@
 ## 小抄 (memo)
 
 
-
+![images/2025-10-26a.jpg](images/2025-10-26a.jpg)
 
 ---
 

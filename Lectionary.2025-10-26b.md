@@ -52,7 +52,7 @@
 
 ## 小抄 (memo)
 
-
+![images/2025-10-26b.jpg](images/2025-10-26b.jpg)
 
 
 ---
