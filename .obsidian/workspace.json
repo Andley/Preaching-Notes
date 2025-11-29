@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jdg.6-7.md",
+                "file": "Jdg.7-8.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jdg.6-7"
+              "title": "Jdg.7-8"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jdg.6-7.md",
+                "file": "Jdg.7-8.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jdg.6-7"
+              "title": "Jdg.7-8"
             }
           }
         ]
@@ -213,11 +213,11 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
+    "README.md",
+    "Jdg.7-8.md",
     "images/Pasted image 20251129171820.png",
     "images/Pasted image 20251128134859.png",
     "template/講道筆記範本.md",
-    "Jdg.6-7.md",
-    "README.md",
     "Lectionary.2025-10-26a.md",
     "images/2025-10-26a.jpg",
     "Lectionary.2025-10-26b.md",
@@ -240,7 +240,6 @@
     "Isa.62.1-5.md",
     "1Co.12.1-11.md",
     "images/2025-01-19-Memo4.jpg",
-    "images/2025-01-19-Memo3.jpg",
     "1Co.12.3-13.md",
     "Act.2.1-21.md",
     "Mat.17.1-9.md",
