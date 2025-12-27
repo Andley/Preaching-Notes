@@ -1,0 +1,26 @@
+{
+  "clearAfterHidden": false,
+  "enableInputHotkeys": true,
+  "sourceModeWhenSearch": true,
+  "moveCursorToMatch": true,
+  "useSelectionAsSearch": true,
+  "useObsidianSearchInRead": true,
+  "useEscapeCharInReplace": true,
+  "enableHistory": true,
+  "historyMaxCount": 10,
+  "historySortOrder": "lastUsedAt",
+  "searchHistory": [
+    {
+      "text": "約翰",
+      "lastUsedAt": 1766745192543,
+      "createdAt": 1766745192534,
+      "count": 1
+    },
+    {
+      "text": "約翰一",
+      "lastUsedAt": 1766745196559,
+      "createdAt": 1766745193554,
+      "count": 1
+    }
+  ]
+}
