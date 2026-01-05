@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Jo.3.4–10.md",
+                "file": "1Jo.2.28–3.3.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Jo.3.4–10"
+              "title": "1Jo.2.28–3.3"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -192,6 +193,7 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
+    "1Jo.3.4–10.md",
     "README.md",
     "1Jo.2.28–3.3.md",
     "Jdg.7-8.md",
@@ -226,7 +228,6 @@
     "1Th.5.1-11.md",
     "2Ch.36.23.md",
     "1Ki.3.3-15.md",
-    "Joh.6.22-40.md",
-    "Php.3.7-16.md"
+    "Joh.6.22-40.md"
   ]
 }
