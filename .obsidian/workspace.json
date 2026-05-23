@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/講道筆記範本.md",
+                "file": "Joh.14.15-31.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "講道筆記範本"
+              "title": "Joh.14.15-31"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -192,15 +193,15 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
-    "images/Joh.14.15-31-bracket.png",
+    "README.md",
+    "Joh.14.15-31.md",
     "template/講道筆記範本.md",
+    "images/Joh.14.15-31-bracket.png",
     "images/Joh.14.15-31-bracket.png.~tmp",
     "images/Pasted image 20251128134859.png",
     "images/Pasted image 20251019204023.png",
     "images/Pasted image 20251019204020.png",
     "images/Pasted image 20251129171820.png",
-    "Joh.14.15-31.md",
-    "README.md",
     "1Jo.2.28–3.3.md",
     "1Jo.3.4–10.md",
     "Jdg.7-8.md",
