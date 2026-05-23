@@ -15,7 +15,7 @@
               "state": {
                 "file": "template/講道筆記範本.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "講道筆記範本"
@@ -192,6 +192,13 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
+    "images/Joh.14.15-31-bracket.png",
+    "template/講道筆記範本.md",
+    "images/Joh.14.15-31-bracket.png.~tmp",
+    "images/Pasted image 20251128134859.png",
+    "images/Pasted image 20251019204023.png",
+    "images/Pasted image 20251019204020.png",
+    "images/Pasted image 20251129171820.png",
     "Joh.14.15-31.md",
     "README.md",
     "1Jo.2.28–3.3.md",
@@ -200,18 +207,12 @@
     "images/Jdg.7-8.memoc.jpg",
     "images/Jdg.7-8.memob.jpg",
     "images/Jdg.7-8.memoa.jpg",
-    "images/Pasted image 20251129171820.png",
-    "images/Pasted image 20251128134859.png",
-    "template/講道筆記範本.md",
     "Lectionary.2025-10-26a.md",
     "images/2025-10-26a.jpg",
     "Lectionary.2025-10-26b.md",
     "images/2025-10-26b.jpg",
     "2Co.3.1-18.md",
-    "images/Pasted image 20251019204023.png",
-    "images/Pasted image 20251019204020.png",
     "1Ki.11.34-39.md",
-    "images/2025_08_10 08_08 Office Lens (2).jpg",
     "Pro.31.10-18.md",
     "Ps.17.md",
     "Hab.2.20-3.19.md",
@@ -226,7 +227,6 @@
     "Act.2.1-21.md",
     "Mat.17.1-9.md",
     "1Th.5.1-11.md",
-    "2Ch.36.23.md",
-    "1Ki.3.3-15.md"
+    "2Ch.36.23.md"
   ]
 }
