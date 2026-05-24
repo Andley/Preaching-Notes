@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Joh.14.15-31.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -193,8 +193,11 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
-    "images/Joh.14.15-31-bracket.png",
+    "images/Joh.14.15-31-memoc.jpeg",
     "Joh.14.15-31.md",
+    "images/Joh.14.15-31-memob.jpeg",
+    "images/Joh.14.15-31-memoa.jpeg",
+    "images/Joh.14.15-31-bracket.png",
     "README.md",
     "template/講道筆記範本.md",
     "images/Joh.14.15-31-bracket.png.~tmp",
@@ -207,11 +210,8 @@
     "Jdg.7-8.md",
     "images/Jdg.7-8.memoc.jpg",
     "images/Jdg.7-8.memob.jpg",
-    "images/Jdg.7-8.memoa.jpg",
     "Lectionary.2025-10-26a.md",
-    "images/2025-10-26a.jpg",
     "Lectionary.2025-10-26b.md",
-    "images/2025-10-26b.jpg",
     "2Co.3.1-18.md",
     "1Ki.11.34-39.md",
     "Pro.31.10-18.md",

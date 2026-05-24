@@ -77,7 +77,11 @@
 ## 小抄 (memo)
 
 
+![images/Joh.14.15-31-memoa.jpeg](images/Joh.14.15-31-memoa.jpeg)
 
+![images/Joh.14.15-31-memob.jpeg](images/Joh.14.15-31-memob.jpeg)
+
+![images/Joh.14.15-31-memoc.jpeg](images/Joh.14.15-31-memoc.jpeg)
 
 ---
 
