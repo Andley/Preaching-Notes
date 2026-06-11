@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Joh.14.15-31"
             }
+          },
+          {
+            "id": "cfa6fb31bf04e84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b921d2b5d8ab5c4f",
+  "active": "cfa6fb31bf04e84f",
   "lastOpenFiles": [
-    "images/Joh.14.15-31-memoc.jpeg",
     "Joh.14.15-31.md",
+    "未命名.md",
+    "images/Joh.14.15-31-memoc.jpeg",
     "images/Joh.14.15-31-memob.jpeg",
     "images/Joh.14.15-31-memoa.jpeg",
     "images/Joh.14.15-31-bracket.png",
