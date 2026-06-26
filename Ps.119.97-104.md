@@ -27,15 +27,30 @@
 	- 離合詩 (acrostic)：希伯來文 22 字母＊8 = 176 節
 	- 智慧詩
 	- Torah 同義詞，但側重面向不同
-		- 119:97 你的律法 Your Law (‎תוֹרָתֶךָ) ὁ νόμος σοῦ = the instruction the Lord reveals to his people
-		- 119:98 你的命令 Your Commands (‎‎‎מִצְוֹתֶךָ) ἡ ἐντολή σου = what the chief lawgiver has stipulated
-		- 119:99 你的法度 Your statues (‎עֵדְוֹתֶיךָ) τὰ μαρτύριά σου = the word of the Lord is his testimony about himself and his world
-		- 119:100, 104 你的訓詞 Your precepts (‎פִקּוּדֶיךָ) τὰ ἐντολά σου = what we should do
-		- 119:101 你的話 Your Word (‎דְּבָרֶךָ) = what the Lord has spoken
-		- 119:102 你的典章 Your Laws (‎מִּשְׁפָּטֶיךָ) = what the legal authority deems to be right
-		- 119:103 你的言語 Your Promise (‎אִמְרָתֶךָ) = emphasizes how the word of the Lord is often communicated through speech
+		- source: D. A. Carson, ed., NIV Biblical Theology Study Bible (Grand Rapids, MI: Zondervan, 2018), 1021.
+		- 119:97 你的律法 Your Law (‎תוֹרָתֶךָ) τὸν νόμον σου = the instruction the Lord reveals to his people
+		- 119:98 你的命令 Your Commands (‎‎‎מִצְוֹתֶךָ) τὴν ἐντολήν σου = what the chief lawgiver has stipulated
+		- 119:99 你的法度 Your statues (‎עֵדְוֹתֶיךָ) τὰ μαρτύριά σου  = the word of the Lord is his testimony about himself and his world
+		- 119:100, 104 你的訓詞 Your precepts (‎פִקּוּדֶיךָ) τὰς ἐντολάς σου (v.98) = what we should do
+		- 119:101 你的話 Your Word (‎דְּבָרֶךָ) τοὺς λόγους σου = what the Lord has spoken
+		- 119:102 你的典章 Your Laws (‎מִּשְׁפָּטֶיךָ) τῶν κριμάτων σου = what the legal authority deems to be right
+		- 119:103 你的言語 Your Promise (‎אִמְרָתֶךָ) τὰ λόγιά σου = emphasizes how the word of the Lord is often communicated through speech
+	- Ps 1:1-2 不從惡人的計謀，不站罪人的道路，不坐褻慢人的座位， 惟喜愛耶和華的律法，晝夜思想，這人便為**有福！** 
+	- Ps 112:1 你們要讚美耶和華！敬畏耶和華，甚喜愛他命令的，這人便為**有福！** 
 	- 申17:14-20 到了耶和華─你　神所賜你的地，得了那地居住的時候，若說：我要立王治理我，像四圍的國一樣。 你總要立耶和華─你　神所揀選的人為王。必從你弟兄中立一人；不可立你弟兄以外的人為王。 只是王不可為自己加添馬匹，也不可使百姓回埃及去，為要加添他的馬匹，因耶和華曾吩咐你們說：不可再回那條路去。 他也不可為自己多立妃嬪，恐怕他的心偏邪；也不可為自己多積金銀。 *他登了國位，就要將祭司利未人面前的這律法書，為自己抄錄一本， 存在他那裡，要平生誦讀，好學習敬畏耶和華─他的　神，謹守遵行這律法書上的一切言語和這些律例， 免得他向弟兄心高氣傲，偏左偏右，離了這誡命。這樣，他和他的子孫便可在以色列中，在國位上年長日久。* 
-.══════════════
+- ══════════════
+>|**English**|**Hebrew**|**Meaning**|
+|---|---|---|
+|law|_torah_|instruction|
+|testimonies|_‘edot_|what God solemnly testifies to be his will|
+|precepts|_piqqudim_|what God has appointed to be done|
+|statutes|_khuqqim; khuqqot_|what the divine Lawgiver has laid down|
+|commandments|_mitswot_|what God has commanded|
+|rules|_mishpatim_|what the divine Judge has ruled to be right|
+|word|_’imrah; dabar_|what God has spoken|
+source: Crossway Bibles, _The ESV Study Bible_ (Wheaton, IL: Crossway Bibles, 2008), 1094.
+
+- ══════════════
 - Ps 119:97-104 聚焦在兩方面：
 	- (1) 知識 (Ps 119:97-100)
 		- 深思默想 (Ps 119:97)，勝過三種人：仇敵、師傅、長輩 (Ps 119:98-100)
@@ -48,14 +63,16 @@
 -  98  你的命令使我比仇敵有智慧 (明智)
 	- (因) 你的命令常存在我心裏，
 		- **仇敵＝傲慢無禮的人、放肆的人、專橫的人；驕傲人、狂妄人、傲慢人**
-			- Ps119:21, 51, 69, 78, 85, 122
+			- Ps119:21, 51, 53, 139, 69, 78, 85, 122
 				- (119:21) 受咒詛、*偏離你命令*的驕傲人，你已經責備他們。
-				- (119:51) 驕傲的人甚侮慢我，我卻未曾偏離你的律法。
+				- (119:51) 驕傲的人甚*侮慢我*，我卻未曾偏離你的律法。
+				- (119:53) 我見惡人*離棄你的律法*，就怒氣發作，猶如火燒。
 				- (119:69) 驕傲人*編造謊言攻擊我*，我卻要一心守你的訓詞。
 				- (119:78) 願驕傲人蒙羞，因為他們*無理地傾覆我*；但我要思想你的訓詞。
-				- (119:85) *不從你律法*的驕傲人為我掘了坑。
-				- (119:122) 求你為僕人作保，使我得好處，不容驕傲人欺壓我！
-		- 提後3:15 這聖經能使你因信基督耶穌，有得救的智慧。
+				- (119:85) *不從你律法*的驕傲人*為我掘了坑*。
+				- (119:122) 求你為僕人作保，使我得好處，不容驕傲人*欺壓我*！
+				- (119:139) 我心焦急，如同火燒，因我敵人*忘記你的言語*。
+		- 提後3:15 這聖經能使你==因信基督耶穌，有得救的智慧==。
 - 99 我比我的師傅更通達 (明智)
 	- 因我思想 (默想) 你的法度
 		- 勝過學校、教育、體制、課本、書籍
@@ -71,7 +88,8 @@
 	- 因為你教訓 (親自教導) 了我
 - 103 你的言語在我上膛何等甘美，
 - 在我口中比蜜更甜
-	- 吃喝神話語 = 養分
+	- 吃喝神話語 = 養分 ⇒ 不只養分，還好吃
+	- Ps19:9-10 耶和華的道理潔淨，存到永遠；耶和華的典章真實，全然公義─ 都比金子可羨慕，且比極多的精金可羨慕；**比蜜甘甜，且比蜂房下滴的蜜甘甜**。 
 - 104 我藉著你的訓詞得以明白，
 - 所以我恨一切的假道 (虛假的行徑、虛謊的道、奸詐的舉動)
 	- Ps 119:53 我見惡人離棄你的律法，就怒氣發作，猶如火燒。 
