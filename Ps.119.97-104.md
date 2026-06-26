@@ -4,8 +4,8 @@
 教會：樹林國語禮拜堂   
 時間：45min  
 
-![[images/Ps.119.97-104.mp3]]
-![[images/27-Psa_119.mp3]]
+![images/Ps.119.97-104.mp3](images/Ps.119.97-104.mp3)
+![images/27-Psa_119.mp3](images/27-Psa_119.mp3)
 
 ‎
  - 97 מָֽה־אָהַ֥בְתִּי תוֹרָתֶ֑ךָ 
@@ -27,10 +27,10 @@
 	- 離合詩 (acrostic)：希伯來文 22 字母＊8 = 176 節
 	- 智慧詩
 	- Torah 同義詞，但側重面向不同
-		- 119:97 你的律法 Your Law (‎תוֹרָתֶךָ) = the instruction the Lord reveals to his people
-		- 119:98 你的命令 Your Commands (‎‎‎מִצְוֹתֶךָ) = what the chief lawgiver has stipulated
-		- 119:99 你的法度 Your statues (‎עֵדְוֹתֶיךָ) = the word of the Lord is his testimony about himself and his world
-		- 119:100, 104 你的訓詞 Your precepts (‎פִקּוּדֶיךָ) = what we should do
+		- 119:97 你的律法 Your Law (‎תוֹרָתֶךָ) ὁ νόμος σοῦ = the instruction the Lord reveals to his people
+		- 119:98 你的命令 Your Commands (‎‎‎מִצְוֹתֶךָ) ἡ ἐντολή σου = what the chief lawgiver has stipulated
+		- 119:99 你的法度 Your statues (‎עֵדְוֹתֶיךָ) τὰ μαρτύριά σου = the word of the Lord is his testimony about himself and his world
+		- 119:100, 104 你的訓詞 Your precepts (‎פִקּוּדֶיךָ) τὰ ἐντολά σου = what we should do
 		- 119:101 你的話 Your Word (‎דְּבָרֶךָ) = what the Lord has spoken
 		- 119:102 你的典章 Your Laws (‎מִּשְׁפָּטֶיךָ) = what the legal authority deems to be right
 		- 119:103 你的言語 Your Promise (‎אִמְרָתֶךָ) = emphasizes how the word of the Lord is often communicated through speech

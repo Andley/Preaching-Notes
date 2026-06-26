@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "63e1f00be99fd58d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87cc7d609f89a15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ps.119.97-104.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ps.119.97-104"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
