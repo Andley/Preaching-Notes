@@ -6,6 +6,7 @@
       {
         "id": "4e6c36d99f412b59",
         "type": "tabs",
+        "dimension": 46.36576787807737,
         "children": [
           {
             "id": "b921d2b5d8ab5c4f",
@@ -26,6 +27,7 @@
       {
         "id": "1d2772d1674f5831",
         "type": "tabs",
+        "dimension": 53.63423212192263,
         "children": [
           {
             "id": "b8bc4e7a07f6f8b0",
@@ -211,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8bc4e7a07f6f8b0",
+  "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
     "images/Pasted image 20260626185804.png",
     "Ps.119.97-104.md",
