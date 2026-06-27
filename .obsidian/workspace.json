@@ -6,6 +6,7 @@
       {
         "id": "4e6c36d99f412b59",
         "type": "tabs",
+        "dimension": 49.76887519260401,
         "children": [
           {
             "id": "b921d2b5d8ab5c4f",
@@ -26,6 +27,7 @@
       {
         "id": "63e1f00be99fd58d",
         "type": "tabs",
+        "dimension": 50.231124807396,
         "children": [
           {
             "id": "87cc7d609f89a15a",
@@ -211,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b921d2b5d8ab5c4f",
+  "active": "87cc7d609f89a15a",
   "lastOpenFiles": [
     "images/Pasted image 20260626185804.png",
     "images/27-Psa_119.mp3",
