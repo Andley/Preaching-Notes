@@ -6,7 +6,6 @@
       {
         "id": "4e6c36d99f412b59",
         "type": "tabs",
-        "dimension": 49.76887519260401,
         "children": [
           {
             "id": "b921d2b5d8ab5c4f",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "63e1f00be99fd58d",
+        "id": "1d2772d1674f5831",
         "type": "tabs",
-        "dimension": 50.231124807396,
         "children": [
           {
-            "id": "87cc7d609f89a15a",
+            "id": "b8bc4e7a07f6f8b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,13 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87cc7d609f89a15a",
+  "active": "b8bc4e7a07f6f8b0",
   "lastOpenFiles": [
     "images/Pasted image 20260626185804.png",
+    "Ps.119.97-104.md",
     "images/27-Psa_119.mp3",
     "images/Ps.119.97-104.mp3",
     "template/講道筆記範本.md",
-    "Ps.119.97-104.md",
     "README.md",
     "Joh.14.15-31.md",
     "未命名.md",
@@ -236,7 +234,6 @@
     "1Jo.3.4–10.md",
     "Jdg.7-8.md",
     "images/Jdg.7-8.memoc.jpg",
-    "images/Jdg.7-8.memob.jpg",
     "Lectionary.2025-10-26a.md",
     "Lectionary.2025-10-26b.md",
     "2Co.3.1-18.md",
