@@ -6,7 +6,6 @@
       {
         "id": "4e6c36d99f412b59",
         "type": "tabs",
-        "dimension": 46.36576787807737,
         "children": [
           {
             "id": "b921d2b5d8ab5c4f",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Joh.4.1-42.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1d2772d1674f5831",
-        "type": "tabs",
-        "dimension": 53.63423212192263,
-        "children": [
-          {
-            "id": "b8bc4e7a07f6f8b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ps.119.97-104.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ps.119.97-104"
+              "title": "Joh.4.1-42"
             }
           }
         ]
@@ -214,6 +192,9 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
+    "template/講道筆記範本.md",
+    "Joh.4.1-42.md",
+    "README.md",
     "Ps.119.97-104.md",
     "images/掃描 - 2026-06-29 20_53_38.jpeg",
     "images/掃描 - 2026-06-29 20_53_07.jpeg",
@@ -221,8 +202,6 @@
     "images/Pasted image 20260626185804.png",
     "images/27-Psa_119.mp3",
     "images/Ps.119.97-104.mp3",
-    "template/講道筆記範本.md",
-    "README.md",
     "Joh.14.15-31.md",
     "未命名.md",
     "images/Joh.14.15-31-memoc.jpeg",
