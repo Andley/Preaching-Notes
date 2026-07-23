@@ -8,8 +8,9 @@
 😀😢🤔😮❓❌⭕❗🎀🎗️✳️
 
 ## 語意圖析 (Semantic Diagram)
-
-
+- 大段結構
+	- ![[images/Pasted image 20260723134355.png]]
+- 小段結構
 
 
 ## 大綱 (Outline)
