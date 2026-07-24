@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tonos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,16 +62,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "47f03e690283089d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "starred"
             }
           },
           {
@@ -192,11 +182,11 @@
   },
   "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
+    "README.md",
+    "Joh.4.1-42.md",
     "images/Pasted image 20260723144316.png",
     "images/Pasted image 20260723134355.png",
     "template/講道筆記範本.md",
-    "Joh.4.1-42.md",
-    "README.md",
     "Ps.119.97-104.md",
     "images/掃描 - 2026-06-29 20_53_38.jpeg",
     "images/掃描 - 2026-06-29 20_53_07.jpeg",
@@ -211,7 +201,6 @@
     "images/Joh.14.15-31-memoa.jpeg",
     "images/Joh.14.15-31-bracket.png",
     "images/Joh.14.15-31-bracket.png.~tmp",
-    "images/Pasted image 20251128134859.png",
     "1Jo.2.28–3.3.md",
     "1Jo.3.4–10.md",
     "Jdg.7-8.md",

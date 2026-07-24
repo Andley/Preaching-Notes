@@ -11,16 +11,16 @@
   "historySortOrder": "lastUsedAt",
   "searchHistory": [
     {
-      "text": "約翰",
-      "lastUsedAt": 1766745192543,
-      "createdAt": 1766745192534,
-      "count": 1
-    },
-    {
       "text": "約翰一",
       "lastUsedAt": 1766745196559,
       "createdAt": 1766745193554,
       "count": 1
+    },
+    {
+      "text": "約翰",
+      "lastUsedAt": 1784853208567,
+      "createdAt": 1766745192534,
+      "count": 2
     }
   ]
 }
