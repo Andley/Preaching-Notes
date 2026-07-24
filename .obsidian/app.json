@@ -12,7 +12,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "autoConvertHtml": true,
+  "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "legacyEditor": false,
@@ -30,5 +30,6 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "smartIndentList": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "vimMode": false
 }
