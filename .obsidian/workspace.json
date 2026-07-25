@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "3952e56626781181",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7cda2d60f1e93461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Joh.4.1-42.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Joh.4.1-42"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

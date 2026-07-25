@@ -1,6 +1,7 @@
 {
   "fileDirections": {
-    "Ps.119.97-104.md": "auto"
+    "Ps.119.97-104.md": "auto",
+    "Joh.4.1-42.md": "auto"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
