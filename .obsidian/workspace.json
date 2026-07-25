@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "6e020fd411e4c638",
+        "id": "3952e56626781181",
         "type": "tabs",
         "children": [
           {
-            "id": "b89b25f26afabd43",
+            "id": "7cda2d60f1e93461",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -214,16 +214,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b921d2b5d8ab5c4f",
+  "active": "7cda2d60f1e93461",
   "lastOpenFiles": [
+    "images/Pasted image 20260723144316.png",
+    "Joh.4.1-42.md",
+    "images/Pasted image 20260723134355.png.md",
     "1Co.6.1–6.md",
     "1Co.11.23-32.md",
     "1Co.12.1-11.md",
     "1Co.15.1-11.md",
     "1Co.15.35–44.md",
-    "Joh.4.1-42.md",
     "README.md",
-    "images/Pasted image 20260723144316.png",
     "images/Pasted image 20260723134355.png",
     "template/講道筆記範本.md",
     "Ps.119.97-104.md",
@@ -252,8 +253,6 @@
     "Hab.2.20-3.19.md",
     "Eze.34.1-24.md",
     "Joh.15.1–11.md",
-    "Joh.3.1-21.md",
-    "Jos.9.7-15.md",
-    "Pro.18.8.md"
+    "Joh.3.1-21.md"
   ]
 }
