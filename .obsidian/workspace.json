@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -219,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f7659253bd2b21",
+  "active": "b921d2b5d8ab5c4f",
   "lastOpenFiles": [
     "Ps.141.md",
     "README.md",
