@@ -12,7 +12,7 @@
 
 ## 語意圖析 (Semantic Diagram)
 
-
+![images/ps_141_2026-08-13.png](images/ps_141_2026-08-13.png)
 
 
 ## 大綱 (Outline)
