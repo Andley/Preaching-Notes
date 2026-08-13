@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ps.141.md",
+                "file": "Exo.20.1-17.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ps.141"
+              "title": "Exo.20.1-17"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ps.141.md",
+                "file": "Exo.20.1-17.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ps.141"
+              "title": "Exo.20.1-17"
             }
           }
         ]
@@ -219,11 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bebf30b86f2c3d4",
+  "active": "da3074935131f21e",
   "lastOpenFiles": [
-    "images/ps_141_2026-08-13.png",
     "Ps.141.md",
     "Exo.20.1-17.md",
+    "images/Exodus_20_1-17_2026-08-13.png",
+    "images/Ps 141.json",
+    "images/ps_141_2026-08-13.png",
     "README.md",
     "Joh.4.1-42.md",
     "template/講道筆記範本.md",
@@ -246,7 +248,6 @@
     "images/Ps.119.97-104.mp3",
     "Joh.14.15-31.md",
     "未命名.md",
-    "images/Joh.14.15-31-memoc.jpeg",
     "images/Joh.14.15-31-bracket.png.~tmp",
     "1Jo.2.28–3.3.md",
     "1Jo.3.4–10.md",
