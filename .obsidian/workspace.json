@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo.20.1-17.md",
+                "file": "Ps.141.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Exo.20.1-17"
+              "title": "Ps.141"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo.20.1-17.md",
+                "file": "Ps.141.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Exo.20.1-17"
+              "title": "Ps.141"
             }
           }
         ]
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -219,10 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da3074935131f21e",
+  "active": "3bebf30b86f2c3d4",
   "lastOpenFiles": [
-    "Ps.141.md",
+    "images/詩3.jpeg",
+    "images/詩2.jpeg",
+    "images/詩1.jpeg",
     "Exo.20.1-17.md",
+    "Ps.141.md",
+    "images/出2.jpeg",
+    "images/出1.jpeg",
     "images/Exodus_20_1-17_2026-08-13.png",
     "images/Ps 141.json",
     "images/ps_141_2026-08-13.png",
@@ -240,10 +244,6 @@
     "1Co.15.35–44.md",
     "images/Pasted image 20260723134355.png",
     "Ps.119.97-104.md",
-    "images/掃描 - 2026-06-29 20_53_38.jpeg",
-    "images/掃描 - 2026-06-29 20_53_07.jpeg",
-    "images/掃描 - 2026-06-29 20_52_35.jpeg",
-    "images/Pasted image 20260626185804.png",
     "images/27-Psa_119.mp3",
     "images/Ps.119.97-104.mp3",
     "Joh.14.15-31.md",

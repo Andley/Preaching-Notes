@@ -33,7 +33,11 @@
 
 ## 小抄 (memo)
 
+![[images/詩1.jpeg]]
 
+![[images/詩2.jpeg]]
+
+![[images/詩3.jpeg]]
 
 
 ---
