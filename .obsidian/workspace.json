@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ps.141.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ps.141"
+              "title": "README"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ps.141.md",
+                "file": "Joh.4.1-42.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ps.141"
+              "title": "Joh.4.1-42"
             }
           }
         ]
@@ -220,17 +220,17 @@
   },
   "active": "3bebf30b86f2c3d4",
   "lastOpenFiles": [
+    "README.md",
+    "Ps.141.md",
     "images/詩3.jpeg",
     "images/詩2.jpeg",
     "images/詩1.jpeg",
     "Exo.20.1-17.md",
-    "Ps.141.md",
     "images/出2.jpeg",
     "images/出1.jpeg",
     "images/Exodus_20_1-17_2026-08-13.png",
     "images/Ps 141.json",
     "images/ps_141_2026-08-13.png",
-    "README.md",
     "Joh.4.1-42.md",
     "template/講道筆記範本.md",
     "images/掃描 - 2026-07-25 18_35_36.jpeg",
@@ -242,7 +242,6 @@
     "1Co.12.1-11.md",
     "1Co.15.1-11.md",
     "1Co.15.35–44.md",
-    "images/Pasted image 20260723134355.png",
     "Ps.119.97-104.md",
     "images/27-Psa_119.mp3",
     "images/Ps.119.97-104.mp3",
