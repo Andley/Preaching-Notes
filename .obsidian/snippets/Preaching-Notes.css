@@ -1,61 +1,57 @@
+/* AndleyFont：希腊字符使用 Gentium Book Plus */
 @font-face {
   font-family: AndleyFont;
-  unicode-range: U+0370-03FF, U+1F00-1FFF; /* Greek UNICODE */
+  unicode-range: U+0370-03FF, U+1F00-1FFF; /* 希腊字母 + 希腊扩展 */
   src: local("Gentium Book Plus");
-  }
+  font-display: swap;
+}
+
+/* AndleyFont：希伯来字符使用 Ezra SIL */
 @font-face {
   font-family: AndleyFont;
-  unicode-range: U+0590-05FF, U+FB10-FB4F; /* Hebrew UNICODE */
+  unicode-range: U+0590-05FF, U+FB10-FB4F; /* 希伯来基础 + 希伯来连字变体 */
   src: local("Ezra SIL");
-  }
-
-/* 標題 */
-h1, h3, h5 {
-  text-align: center;
+  font-display: swap;
 }
+
+h1, .HyperMD-header-1 { text-decoration-line: underline; text-decoration-style: double;}
+h1, .HyperMD-header-1, h2, .HyperMD-header-2 { text-align: center; ;}
 
 html, body, p, li {
-  font-family: AndleyFont, "Noto Sans", "Noto Sans TC", sans-serif;
+  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
+  color: var(--text-normal);
+  font-size: 1em;
 }
 
-/*   <ruby> Interlinear */
 ruby {
-  font-size: 13pt ; 
+  font-size: 1em ; 
   ruby-align:start;
-  font-weight: bold;
-  padding: 0 0.1em 0 0;
-  font-family:  AndleyFont;
+  font-family:  AndleyFont,  serif;;
   line-height:5em;
 }
 
 rt {
-  font-size: 11pt ; 
-  font-weight:normal;
-  padding: 0 0.1em 0 0;
-  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑" ;
+  font-size: 0.85em ; 
+  font-family: AndleyFont, "Noto Sans ExtraCondensed", "未來熒黑", sans-serif; ;
 } 
 
 li ruby {
-  line-height:5em;
-} 
-
-.cm-strong, strong {
-  font-weight:800;
-  color: var(--color1);
+  line-height: 4.2em;
 }
 
-.cm-em, em {
-  font-weight: 600;
-  color:var(--color3);
+li {
+  line-height: 1.5em;
 }
 
-a {text-decoration: none; color: var(--text-faint); }
 
-/* table */
+a {text-decoration: none; color: var(--text-link); }
+/* --------- table -----------------------------------   */
 .markdown-preview-view table {
   margin-left: auto;
   margin-right: auto;
   border: 2px solid;
+  color: var(--text-color);
+  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
 } 
 
 .markdown-preview-view th {
@@ -67,9 +63,6 @@ a {text-decoration: none; color: var(--text-faint); }
 }
 
 /* --------------------------------------------   */
-
-/* text decoration for marking syntax functions */
-/* --------------------------------------------   */
 .verb { color: var(--color1); }
 .ptc  { color: var(--color2); }
 .inf  { color: var(--color3); }
@@ -77,19 +70,28 @@ a {text-decoration: none; color: var(--text-faint); }
 .poetry::before {content:'\a                 '; white-space: pre;}
 .paragraph::after {content:'\a          '; white-space: pre;}
 .tab::after {content:'    '; white-space: pre;}
-/* --------------------------------------------   */
 
+/* HTML tags in preview and editor */
+.cm-s-obsidian span.cm-tag, .cm-s-obsidian span.cm-string, .cm-s-obsidian span.cm-attribute{
+  color: var(--text-tag);
+  font-family: "Noto Sans ExtraCondensed";
+  font-size:0.8em;
+}
 
-
-
-
+span.cm-hmd-frontmatter.cm-string {
+  color: var(--text-muted);
+  font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
+  font-size: 1em;
+}
 /* ============= Obsidian 介面 ================== */
 .theme-dark {
   --text-tag: #4f8dc2;
   --text-faint:lightgreen;
-  --text-color: #ffffff;
+  --text-link:lightgreen;
   --divider-color: gold;
   --text-muted: #E6E6E6;
+  --text-normal:white;
+  --background-secondary: rgb(52, 52, 52);
   --color1:#ea4335;
   --color2:#4285f4;
   --color3:#34a853;
@@ -100,39 +102,39 @@ a {text-decoration: none; color: var(--text-faint); }
   --control-character-color: silver;
   --collapse-icon-color-collapsed: lightgreen;
   --color-base-40: silver;
-  --font-text: AndleyFont, "Noto Sans";
   --table-cell-vertical-alignment: middle;
   --table-border-color: silver;
+  --font-text: AndleyFont, "Noto Sans", "Noto Sans TC";
   }
 
 .theme-light {
   --text-tag: darkblue;
-  --text-faint:darkred;
-  --text-color:#000000;
+  --text-faint:gray;
+  --text-link:#09628f;
+  --text-color:black;
   --ribbon-color :rgb(223, 219, 219);
   --text-normal:black;
   --background-primary: white;
-  --color1:darkred;
-  --color2:darkblue;
-  --color3:darkgreen;
-  --color4:darkorange;
+  --background-secondary: rgb(230, 232, 227);
+  --color1:red;
+  --color2:blue;
+  --color3:green;
+  --color4:orange;
   --color-strong: red;
   --color-em:blue;
   --link-color:rgb(128, 136, 240);
   --link-external-color:rgb(128, 136, 240);
   --color-base-40: darkblue;
-  --font-text: AndleyFont, "Noto Sans";
   --table-cell-vertical-alignment: middle;
   --table-border-color: gray;
+  --font-text: AndleyFont, "Noto Sans", "Noto Sans TC";
 }
 
-/* HTML tags in preview and editor */
-/* HTML tags in preview and editor */
-span.cm-tag, span.cm-attribute, span.cm-string {
-  color: var(--text-tag);
-}
-
-span.cm-hmd-frontmatter.cm-string {
-  color: var(--text-muted);
-  font-size: 1em;
+body:not(.swcm6-nix-plugin-styles) {
+  --swcm6-space-bg-image:
+    radial-gradient(
+      circle at 50% 55%,
+      var(--swcm6-whitespace-color) 0 15%,
+      transparent 5%
+    );
 }
