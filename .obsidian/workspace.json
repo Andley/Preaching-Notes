@@ -6,6 +6,7 @@
       {
         "id": "89d55f92f876dbf9",
         "type": "tabs",
+        "dimension": 39.09730363423212,
         "children": [
           {
             "id": "30b18504d5d58079",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "1Pe.1.1-9.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -26,6 +27,7 @@
       {
         "id": "28deeffd31550312",
         "type": "tabs",
+        "dimension": 60.90269636576788,
         "children": [
           {
             "id": "2464bb308b71d4c1",
@@ -218,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2464bb308b71d4c1",
+  "active": "30b18504d5d58079",
   "lastOpenFiles": [
+    "images/Pasted image 20260829161213.png",
+    "images/Pasted image 20260829152233.png",
     "images/1Pe.1.1-9.png",
     "1Pe.1.1-9.md",
     "images/2020-10-18-Isa.55.1-7.png",
@@ -236,7 +240,6 @@
     "images/Exodus_20_1-17_2026-08-13.png",
     "images/Ps 141.json",
     "images/ps_141_2026-08-13.png",
-    "images/掃描 - 2026-07-25 18_35_36.jpeg",
     "images/Pasted image 20260723134355.png.md",
     "1Co.6.1–6.md",
     "1Co.11.23-32.md",

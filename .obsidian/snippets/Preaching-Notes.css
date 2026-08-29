@@ -54,6 +54,16 @@ a {text-decoration: none; color: var(--text-link); }
   font-family: AndleyFont, "Noto Sans", "Noto Sans TC";
 } 
 
+strong {
+  color: var(--color1);
+  font-weight: bold;
+}
+
+em {
+  color: var(--color2);
+  font-weight: bold;
+}
+
 .markdown-preview-view th {
   border-bottom: 3px double;
 }
