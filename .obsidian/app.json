@@ -3,7 +3,7 @@
   "foldIndent": true,
   "defaultViewMode": "source",
   "newFileLocation": "current",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "attachmentFolderPath": "images",
   "pdfExportSettings": {
     "includeName": false,
@@ -31,5 +31,6 @@
   "showLineNumber": false,
   "smartIndentList": true,
   "showIndentGuide": true,
-  "vimMode": false
+  "vimMode": false,
+  "useMarkdownLinks": true
 }

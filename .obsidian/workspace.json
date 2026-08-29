@@ -11,6 +11,24 @@
             "id": "5e17dee4cd67f9fa",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20260828193638.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260828193638"
+            }
+          }
+        ]
+      },
+      {
+        "id": "89d55f92f876dbf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b18504d5d58079",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "1Pe.1.1-9.md",
@@ -83,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -200,8 +217,9 @@
   },
   "active": "5e17dee4cd67f9fa",
   "lastOpenFiles": [
-    "README.md",
     "1Pe.1.1-9.md",
+    "images/Pasted image 20260828193638.png",
+    "README.md",
     "Joh.4.1-42.md",
     "template/講道筆記範本.md",
     "Ps.141.md",
@@ -216,7 +234,6 @@
     "images/ps_141_2026-08-13.png",
     "images/掃描 - 2026-07-25 18_35_36.jpeg",
     "images/掃描 - 2026-07-25 18_34_58.jpeg",
-    "images/Pasted image 20260723144316.png",
     "images/Pasted image 20260723134355.png.md",
     "1Co.6.1–6.md",
     "1Co.11.23-32.md",
@@ -238,7 +255,6 @@
     "1Ki.11.34-39.md",
     "Pro.31.10-18.md",
     "Ps.17.md",
-    "Hab.2.20-3.19.md",
-    "Eze.34.1-24.md"
+    "Hab.2.20-3.19.md"
   ]
 }
