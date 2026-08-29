@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3a27b34e134d1fd6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e17dee4cd67f9fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20260828193638.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260828193638"
-            }
-          }
-        ]
-      },
-      {
         "id": "89d55f92f876dbf9",
         "type": "tabs",
         "children": [
@@ -101,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 460.1666564941406,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -215,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e17dee4cd67f9fa",
+  "active": "30b18504d5d58079",
   "lastOpenFiles": [
+    "images/1Pe.1.1-9.png",
+    "images/2020-10-18-Isa.55.1-7.png",
     "1Pe.1.1-9.md",
-    "images/Pasted image 20260828193638.png",
     "README.md",
     "Joh.4.1-42.md",
     "template/講道筆記範本.md",
