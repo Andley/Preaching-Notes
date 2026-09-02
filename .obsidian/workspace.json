@@ -6,7 +6,7 @@
       {
         "id": "89d55f92f876dbf9",
         "type": "tabs",
-        "dimension": 39.09730363423212,
+        "dimension": 48.71630295250321,
         "children": [
           {
             "id": "30b18504d5d58079",
@@ -27,7 +27,7 @@
       {
         "id": "28deeffd31550312",
         "type": "tabs",
-        "dimension": 60.90269636576788,
+        "dimension": 51.28369704749679,
         "children": [
           {
             "id": "2464bb308b71d4c1",
@@ -220,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30b18504d5d58079",
+  "active": "2464bb308b71d4c1",
   "lastOpenFiles": [
     "images/掃描 - 2026-08-30 06_33_20.jpeg",
     "images/掃描 - 2026-08-30 06_32_35.jpeg",
