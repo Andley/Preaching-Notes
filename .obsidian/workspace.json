@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.1666564941406,
-    "collapsed": true
+    "width": 460.1666564941406
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -220,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2464bb308b71d4c1",
+  "active": "30b18504d5d58079",
   "lastOpenFiles": [
     "images/掃描 - 2026-08-30 06_33_20.jpeg",
     "images/掃描 - 2026-08-30 06_32_35.jpeg",
