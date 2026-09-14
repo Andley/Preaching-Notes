@@ -6,7 +6,6 @@
       {
         "id": "89d55f92f876dbf9",
         "type": "tabs",
-        "dimension": 48.71630295250321,
         "children": [
           {
             "id": "30b18504d5d58079",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Pe.1.1-9.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1Pe.1.1-9"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28deeffd31550312",
-        "type": "tabs",
-        "dimension": 51.28369704749679,
-        "children": [
-          {
-            "id": "2464bb308b71d4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Pe.1.1-9.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1Pe.1.1-9"
+              "title": "README"
             }
           }
         ]
@@ -105,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.1666564941406
+    "width": 460.1666564941406,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -221,14 +200,18 @@
   },
   "active": "30b18504d5d58079",
   "lastOpenFiles": [
+    "Lectionary.20926-09-20.md",
+    "README.md",
+    "Lectionary.2025-10-26b.md",
+    "Lectionary.2025-10-26a.md",
+    "images/Pasted image 20260914075658.png",
+    "1Pe.1.1-9.md",
     "images/掃描 - 2026-08-30 06_33_20.jpeg",
     "images/掃描 - 2026-08-30 06_32_35.jpeg",
     "images/Pasted image 20260829161213.png",
     "images/Pasted image 20260829152233.png",
     "images/1Pe.1.1-9.png",
-    "1Pe.1.1-9.md",
     "images/2020-10-18-Isa.55.1-7.png",
-    "README.md",
     "Joh.4.1-42.md",
     "template/講道筆記範本.md",
     "Ps.141.md",
@@ -236,8 +219,6 @@
     "images/詩2.jpeg",
     "images/詩1.jpeg",
     "Exo.20.1-17.md",
-    "images/出2.jpeg",
-    "images/出1.jpeg",
     "images/Ps 141.json",
     "images/Pasted image 20260723134355.png.md",
     "1Co.6.1–6.md",
@@ -254,12 +235,9 @@
     "1Jo.2.28–3.3.md",
     "1Jo.3.4–10.md",
     "Jdg.7-8.md",
-    "Lectionary.2025-10-26a.md",
-    "Lectionary.2025-10-26b.md",
     "2Co.3.1-18.md",
     "1Ki.11.34-39.md",
     "Pro.31.10-18.md",
-    "Ps.17.md",
-    "Hab.2.20-3.19.md"
+    "Ps.17.md"
   ]
 }
