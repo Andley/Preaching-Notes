@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ps.141.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ps.141"
+              "title": "README"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "30b18504d5d58079",
   "lastOpenFiles": [
+    "Ps.141.md",
     "README.md",
     "1Pe.1.1-9.md",
     "Lectionary.20926-09-20.md",
@@ -213,7 +214,6 @@
     "images/2020-10-18-Isa.55.1-7.png",
     "Joh.4.1-42.md",
     "template/講道筆記範本.md",
-    "Ps.141.md",
     "images/詩3.jpeg",
     "images/詩2.jpeg",
     "images/詩1.jpeg",
