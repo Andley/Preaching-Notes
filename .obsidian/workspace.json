@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.20926-09-20b.md",
+                "file": "Lectionary.20926-09-20a.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20b"
+              "title": "Lectionary.20926-09-20a"
             }
           }
         ]
@@ -222,10 +222,10 @@
   },
   "active": "a7cd958d35d0dc67",
   "lastOpenFiles": [
+    "README.md",
+    "Lectionary.20926-09-20b.md",
     "images/Matthew_20_1-16_2026-09-18.png",
     "Lectionary.20926-09-20a.md",
-    "Lectionary.20926-09-20b.md",
-    "README.md",
     "template/講道筆記範本.md",
     "1Pe.1.1-9.md",
     "Ps.141.md",
@@ -241,7 +241,6 @@
     "Joh.4.1-42.md",
     "images/詩3.jpeg",
     "images/詩2.jpeg",
-    "images/詩1.jpeg",
     "Exo.20.1-17.md",
     "images/Ps 141.json",
     "images/Pasted image 20260723134355.png.md",
