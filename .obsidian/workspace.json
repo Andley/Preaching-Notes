@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8217bc2d6899bf33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "404b2e7b9723c5eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectionary.20926-09-20b.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20b"
-            }
-          }
-        ]
-      },
-      {
         "id": "bf893d382dcf7a0d",
         "type": "tabs",
         "children": [
@@ -35,6 +15,26 @@
               "state": {
                 "file": "Lectionary.20926-09-20a.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lectionary.20926-09-20a"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c00d034ae8d9c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa29f8fd2815d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectionary.20926-09-20a.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -218,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14127a39f59201ba",
+  "active": "4aa29f8fd2815d85",
   "lastOpenFiles": [
     "Lectionary.20926-09-20b.md",
     "Lectionary.20926-09-20a.md",
