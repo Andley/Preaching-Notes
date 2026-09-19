@@ -3,7 +3,7 @@
   "foldIndent": true,
   "defaultViewMode": "source",
   "newFileLocation": "current",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "attachmentFolderPath": "images",
   "pdfExportSettings": {
     "includeName": false,

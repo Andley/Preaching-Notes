@@ -1,10 +1,10 @@
 經文：出埃及記16:2-16  
 題目：一切都是恩惠  
-日期：2026-09-20  
+日期：2026-09-20(第一堂)  
 教會：台北衛理堂  
 
-![Pasted image 20260914075658.png](Pasted%20image%2020260914075658.png)
 
+![images/Pasted image 20260914075658.png](images/Pasted%20image%2020260914075658.png)
 
 ## 大綱 (Outline)
 

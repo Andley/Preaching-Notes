@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.20926-09-20a.md",
+                "file": "Isa.62.1-5.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20a"
+              "title": "Isa.62.1-5"
             }
           }
         ]
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lectionary.20926-09-20a.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.1666564941406,
-    "collapsed": true
+    "width": 486.7415771484375
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -220,16 +219,17 @@
   },
   "active": "4d9f243d70a6b244",
   "lastOpenFiles": [
-    "Lectionary.20926-09-20b.md",
+    "images/Pasted image 20260914075658.png",
     "Lectionary.20926-09-20a.md",
+    "Isa.62.1-5.md",
     "README.md",
+    "Lectionary.20926-09-20b.md",
     "images/Matthew_20_1-16_2026-09-18.png",
     "template/講道筆記範本.md",
     "1Pe.1.1-9.md",
     "Ps.141.md",
     "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
-    "images/Pasted image 20260914075658.png",
     "images/掃描 - 2026-08-30 06_33_20.jpeg",
     "images/掃描 - 2026-08-30 06_32_35.jpeg",
     "images/Pasted image 20260829161213.png",
@@ -257,7 +257,6 @@
     "1Jo.3.4–10.md",
     "Jdg.7-8.md",
     "2Co.3.1-18.md",
-    "1Ki.11.34-39.md",
-    "Pro.31.10-18.md"
+    "1Ki.11.34-39.md"
   ]
 }
