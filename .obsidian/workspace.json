@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.20926-09-20a.md",
+                "file": "Lectionary.20926-09-20b.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20a"
+              "title": "Lectionary.20926-09-20b"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.20926-09-20a.md",
+                "file": "Lectionary.20926-09-20b.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20a"
+              "title": "Lectionary.20926-09-20b"
             }
           }
         ]
@@ -218,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aa29f8fd2815d85",
+  "active": "14127a39f59201ba",
   "lastOpenFiles": [
-    "Lectionary.20926-09-20b.md",
-    "Lectionary.20926-09-20a.md",
     "README.md",
+    "Lectionary.20926-09-20a.md",
+    "Lectionary.20926-09-20b.md",
     "images/Matthew_20_1-16_2026-09-18.png",
     "Joh.4.1-42.md",
     "Exo.20.1-17.md",
