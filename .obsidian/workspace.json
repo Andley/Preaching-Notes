@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.20926-09-20b.md",
+                "file": "Lectionary.20926-09-20a.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20b"
+              "title": "Lectionary.20926-09-20a"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectionary.20926-09-20b.md",
+                "file": "Lectionary.20926-09-20a.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20b"
+              "title": "Lectionary.20926-09-20a"
             }
           }
         ]
@@ -218,11 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14127a39f59201ba",
+  "active": "4aa29f8fd2815d85",
   "lastOpenFiles": [
+    "images/掃描 - 2026-09-20 07_22_41.jpeg",
+    "images/掃描 - 2026-09-20 07_21_53.jpeg",
     "README.md",
-    "Lectionary.20926-09-20a.md",
     "Lectionary.20926-09-20b.md",
+    "Lectionary.20926-09-20a.md",
+    "images/掃描 - 2026-09-20 07_23_52.jpeg",
+    "images/掃描 - 2026-09-20 07_23_24.jpeg",
     "images/Matthew_20_1-16_2026-09-18.png",
     "Joh.4.1-42.md",
     "Exo.20.1-17.md",
@@ -236,9 +240,6 @@
     "images/ps_141_2026-08-13.png",
     "images/Joh.14.15-31-memoc.jpeg",
     "images/Pasted image 20251019204020.png",
-    "images/Pasted image 20251128134859.png",
-    "images/Pasted image 20260626185804.png",
-    "images/Pasted image 20260723144316.png",
     "template/講道筆記範本.md",
     "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
