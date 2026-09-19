@@ -33,11 +33,11 @@
 
 ## 小抄 (memo)
 
-![[images/詩1.jpeg]]
+![images/詩1.jpeg](images/%E8%A9%A91.jpeg)
 
-![[images/詩2.jpeg]]
+![images/詩2.jpeg](images/%E8%A9%A92.jpeg)
 
-![[images/詩3.jpeg]]
+![images/詩3.jpeg](images/%E8%A9%A93.jpeg)
 
 
 ---

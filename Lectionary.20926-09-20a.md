@@ -4,7 +4,7 @@
 教會：台北衛理堂  
 
 
-![images/Pasted image 20260914075658.png](images/Pasted%20image%2020260914075658.png)
+![images/2026-09-20.png](images/2026-09-20.png)
 
 ## 大綱 (Outline)
 

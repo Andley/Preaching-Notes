@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isa.62.1-5.md",
-                "mode": "source",
+                "file": "Joh.4.1-42.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Isa.62.1-5"
-            }
-          }
-        ]
-      },
-      {
-        "id": "47c19ee5ff84275f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d9f243d70a6b244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectionary.20926-09-20a.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lectionary.20926-09-20a"
+              "title": "Joh.4.1-42"
             }
           }
         ]
@@ -217,29 +197,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d9f243d70a6b244",
+  "active": "a7cd958d35d0dc67",
   "lastOpenFiles": [
-    "images/Pasted image 20260914075658.png",
-    "Lectionary.20926-09-20a.md",
-    "Isa.62.1-5.md",
     "README.md",
-    "Lectionary.20926-09-20b.md",
-    "images/Matthew_20_1-16_2026-09-18.png",
-    "template/講道筆記範本.md",
+    "Exo.20.1-17.md",
     "1Pe.1.1-9.md",
+    "Lectionary.20926-09-20b.md",
+    "Lectionary.20926-09-20a.md",
+    "images/掃描 - 2026-08-30 06_32_35.jpeg",
+    "images/1Pe.1.1-9.png",
     "Ps.141.md",
+    "images/詩1.jpeg",
+    "Joh.14.15-31.md",
+    "Isa.62.1-5.md",
+    "images/ps_141_2026-08-13.png",
+    "images/Joh.14.15-31-memoc.jpeg",
+    "images/Matthew_20_1-16_2026-09-18.png",
+    "images/Pasted image 20251019204020.png",
+    "images/Pasted image 20251128134859.png",
+    "images/Pasted image 20260626185804.png",
+    "images/Pasted image 20260723144316.png",
+    "template/講道筆記範本.md",
     "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
-    "images/掃描 - 2026-08-30 06_33_20.jpeg",
-    "images/掃描 - 2026-08-30 06_32_35.jpeg",
-    "images/Pasted image 20260829161213.png",
-    "images/Pasted image 20260829152233.png",
-    "images/1Pe.1.1-9.png",
-    "images/2020-10-18-Isa.55.1-7.png",
     "Joh.4.1-42.md",
-    "images/詩3.jpeg",
-    "images/詩2.jpeg",
-    "Exo.20.1-17.md",
     "images/Ps 141.json",
     "images/Pasted image 20260723134355.png.md",
     "1Co.6.1–6.md",
@@ -250,7 +231,6 @@
     "Ps.119.97-104.md",
     "images/27-Psa_119.mp3",
     "images/Ps.119.97-104.mp3",
-    "Joh.14.15-31.md",
     "未命名.md",
     "images/Joh.14.15-31-bracket.png.~tmp",
     "1Jo.2.28–3.3.md",
