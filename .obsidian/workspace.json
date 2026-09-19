@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "70e7e081155e3541",
+        "id": "8217bc2d6899bf33",
         "type": "tabs",
         "children": [
           {
-            "id": "a7cd958d35d0dc67",
+            "id": "404b2e7b9723c5eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joh.4.1-42.md",
+                "file": "Lectionary.20926-09-20b.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lectionary.20926-09-20b"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a66432314ceeb4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ffb3ce5f508abe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectionary.20926-09-20b.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Joh.4.1-42"
+              "title": "Lectionary.20926-09-20b"
             }
           }
         ]
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.7415771484375
+    "width": 292.8072204589844,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -197,13 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7cd958d35d0dc67",
+  "active": "404b2e7b9723c5eb",
   "lastOpenFiles": [
+    "images/Matthew_20_1-16_2026-09-18.png",
+    "Lectionary.20926-09-20b.md",
     "README.md",
+    "Lectionary.20926-09-20a.md",
+    "Joh.4.1-42.md",
     "Exo.20.1-17.md",
     "1Pe.1.1-9.md",
-    "Lectionary.20926-09-20b.md",
-    "Lectionary.20926-09-20a.md",
     "images/掃描 - 2026-08-30 06_32_35.jpeg",
     "images/1Pe.1.1-9.png",
     "Ps.141.md",
@@ -212,7 +235,6 @@
     "Isa.62.1-5.md",
     "images/ps_141_2026-08-13.png",
     "images/Joh.14.15-31-memoc.jpeg",
-    "images/Matthew_20_1-16_2026-09-18.png",
     "images/Pasted image 20251019204020.png",
     "images/Pasted image 20251128134859.png",
     "images/Pasted image 20260626185804.png",
@@ -220,7 +242,6 @@
     "template/講道筆記範本.md",
     "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
-    "Joh.4.1-42.md",
     "images/Ps 141.json",
     "images/Pasted image 20260723134355.png.md",
     "1Co.6.1–6.md",
