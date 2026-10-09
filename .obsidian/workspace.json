@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.8072204589844,
-    "collapsed": true
+    "width": 292.8072204589844
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -212,13 +211,12 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aa29f8fd2815d85",
+  "active": "14127a39f59201ba",
   "lastOpenFiles": [
     "images/掃描 - 2026-09-20 07_22_41.jpeg",
     "images/掃描 - 2026-09-20 07_21_53.jpeg",
