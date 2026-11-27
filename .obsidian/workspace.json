@@ -217,12 +217,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "8a60feb08d80e660",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fc5b33c16d1c0ebd",
+        "type": "window",
+        "children": [
+          {
+            "id": "c8decdec4ca986c3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "84b376bdd9912d3a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Deu.34.1–12.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Deu.34.1–12"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 854,
+        "width": 1027,
+        "height": 731,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "14127a39f59201ba",
   "lastOpenFiles": [
-    "template/講道筆記範本.md",
-    "Deu.34.md",
-    "README.md",
     "Deu.34.1–12.md",
+    "Deu.34.md",
+    "template/講道筆記範本.md",
+    "README.md",
     "1Pe.1.1-9.md",
     "1Ti.4.1–16.md",
     "Lectionary.20926-09-20a.md",
