@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deu.34.1–12.md",
+                "file": "Deu.34.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deu.34.1–12"
+              "title": "Deu.34"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f05dcbc84f879a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1099db347966eaea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deu.34.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Deu.34"
             }
           }
         ]
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.8072204589844
+    "width": 292.8072204589844,
+    "collapsed": true
   },
   "right": {
     "id": "1464b72f66019d33",
@@ -198,7 +219,10 @@
   },
   "active": "14127a39f59201ba",
   "lastOpenFiles": [
+    "template/講道筆記範本.md",
+    "Deu.34.md",
     "README.md",
+    "Deu.34.1–12.md",
     "1Pe.1.1-9.md",
     "1Ti.4.1–16.md",
     "Lectionary.20926-09-20a.md",
@@ -218,7 +242,6 @@
     "Isa.62.1-5.md",
     "images/ps_141_2026-08-13.png",
     "images/Joh.14.15-31-memoc.jpeg",
-    "template/講道筆記範本.md",
     "Lectionary.2025-10-26b.md",
     "Lectionary.2025-10-26a.md",
     "images/Ps 141.json",
@@ -235,8 +258,6 @@
     "images/Joh.14.15-31-bracket.png.~tmp",
     "1Jo.2.28–3.3.md",
     "1Jo.3.4–10.md",
-    "Jdg.7-8.md",
-    "2Co.3.1-18.md",
-    "1Ki.11.34-39.md"
+    "Jdg.7-8.md"
   ]
 }
